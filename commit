@@ -1,0 +1,8 @@
+[BYOC][HMI] update i18n value from client's xml file
+
+Why: we need to be internationalize
+How: replace origin i18n value
+
+Verify steps: N/A
+Possible effects: N/A
+

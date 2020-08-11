@@ -1,0 +1,2061 @@
+{
+	"declaration": {
+		"attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8"
+		}
+	},
+	"elements": [
+		{
+			"type": "element",
+			"name": "LangDef",
+			"attributes": {
+				"langCode": "0416",
+				"xsi:noNamespaceSchemaLocation": "HMILinguist_Texts.xsd",
+				"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+			},
+			"elements": [
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Main_Text",
+						"Text": "Assigned location:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Headline",
+						"Text": "Sincronização de áudio"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Main_Text",
+						"Text": "Ajuste manual"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Cancel",
+						"Text": "Cancelar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_DELETE",
+						"Text": "Apagar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_INSTALL",
+						"Text": "Instalar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_LATER",
+						"Text": "Mais tarde"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Left",
+						"Text": "Esquerdo"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_NO",
+						"Text": "Não"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_OK",
+						"Text": "OK"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_RETRY",
+						"Text": "Repetir"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Right",
+						"Text": "Direito"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_SAVE",
+						"Text": "Salvar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_START",
+						"Text": "INICIAR"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_YES",
+						"Text": "Sim"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BT_Name_Main_Text",
+						"Text": "BT name:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Headline",
+						"Text": "Link remoto"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Main_Text",
+						"Text": "Leia o código QR para ver em seu dispositivo:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Complete",
+						"Text": "Sincronização de áudio\\nconcluída."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Error",
+						"Text": "Falha ao sincronizar de áudio.\\nTente novamente mais tarde."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Headline",
+						"Text": "Sincronização de áudio"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_In_Progress",
+						"Text": "Sincronizando...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Main_Text",
+						"Text": "Mantenha os fones perto\\ndo microfone na tela\\ne pressione Iniciar.\\nO áudio ficará mudo\\ndurante a sincronização."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Status",
+						"Text": "BLUETOOTH"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Visibility_Main_Text",
+						"Text": "Emparelhando fones novos?\\nOs fones precisam estar no modo de emparelhamento."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Main_Text",
+						"Text": "Quer mesmo cancelar o download?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Checkbox_Text",
+						"Text": "Não mostrar novamente"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Activated_Notification",
+						"Text": "A trava de segurança para criança foi ativada"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Active_Notification",
+						"Text": "A trava de segurança para criança está ativa"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Deactivated_Notification",
+						"Text": "A trava de segurança para criança foi desativada"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_1_Headline",
+						"Text": "Assistente de conexão 1 de 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_2_Headline",
+						"Text": "Assistente de conexão 2 de 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Headline",
+						"Text": "Assistente de conexão"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Help_Text",
+						"Text": "Ou pressione o botão liga/desliga abaixo\\npara abrir o menu rápido."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
+						"Text": "Leia o código QR para conectar\\nà tela usando Wi-Fi:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
+						"Text": "Ensure your device and this screen are on\\nthe same Wi-Fi network to stream media"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
+						"Text": "Scan the QR code to connect:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
+						"Text": "Leia o código QR para baixar o app\\nBentley Entertainment Control."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Headline",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Main_Text",
+						"Text": "Não foi possível estabelecer\\na conexão de rede."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Headline",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Main_Text",
+						"Text": "Falha na conexão.\\nVerifique a senha."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Headline",
+						"Text": "Configuração do Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Main_Text",
+						"Text": "Processo de emparelhamento de Crosslink iniciado."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_SSID_Text",
+						"Text": "SSID: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Waiting_Text",
+						"Text": "Favor aguardar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Name_Text",
+						"Text": "Nome da tela: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Successful_Text",
+						"Text": "Configuração do Crosslink realizada."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Text",
+						"Text": "Emparelhando..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Screen_Main_Text",
+						"Text": "Selecione o lado do veículo que\\nvocê quer atribuir a esta tela."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Searching_Text",
+						"Text": "Procurar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Device_Main_Text",
+						"Text": "Deseja mesmo apagar este aparelho Bluetooth?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Main_Text",
+						"Text": "Quer mesmo excluir\\na atualização de software?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Network_Main_Text",
+						"Text": "Quer mesmo excluir essa rede?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Device_Search_Menu_Text",
+						"Text": "Procurar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Main_Text",
+						"Text": "Falha ao baixar o software.\\nQuer tentar novamente?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Headline",
+						"Text": "Guia do usuário"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IP_Address_Main_Text",
+						"Text": "IP address:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Active_Status",
+						"Text": "Saída de áudio para carro"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Delete_Confirm",
+						"Text": "Quer mesmo excluir\\n{0}?\\nNota: a saída de áudio para os alto-falantes\\ndo carro não estará mais disponível."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Headline",
+						"Text": "Saída de áudio para carro"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Main_Text",
+						"Text": "Selecione o nome da tela como a fonte de áudio\\nBluetooth no sistema de infoentretenimento.\\nO volume máximo é determinado pelo\\nvolume principal de infoentretenimento."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Failed",
+						"Text": "Falha de emparelhamento.\\nTente novamente mais tarde."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Headline",
+						"Text": "Saída de áudio para carro"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_In_Progress",
+						"Text": "Emparelhando..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Search",
+						"Text": "Procurar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Complete",
+						"Text": "Sincronização de áudio\\nconcluída."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Error",
+						"Text": "Ocorreu um erro.\\nNão foi possível sincronizar o áudio.\\nTente novamente mais tarde."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_In_Progress",
+						"Text": "Sincronizando...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Main_Text",
+						"Text": "Selecione o nome da tela\\ncomo fonte de áudio\\nBluetooth no sistema de\\ninfoentretenimento. Verifique\\no volume e reduza o ruído\\nambiente. Pressione INICIAR\\nse o sistema estiver pronto."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Headline",
+						"Text": "Nota"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Main_Text",
+						"Text": "Instalando atualização\\n{0}% concluídos.\\n\\nMantenha o veículo ligado\\naté o final da atualização.\\n\\nO sistema reinicializará\\nquando a instalação estiver concluída."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Main_Text",
+						"Text": "Instalação de software disponível.\\nQuer instalar agora?\\n\\nDurante a atualização,\\no sistema permanece inoperável."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Main_Text",
+						"Text": "Quer instalar ou excluir a atualização?\\n\\nDurante o processo de atualização de software\\no sistema permanece inoperável."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Main_Text",
+						"Text": "Falha ao instalar o software.\\nQuer tentar novamente?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Main_Text",
+						"Text": "Instalação realizada.\\nSoftware atualizado."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Headline",
+						"Text": "Idioma (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Legal_Info_Headline",
+						"Text": "Legal information and privacy policy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "MCU_Version_Main_Text",
+						"Text": "MCU version:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Max_Volume_Notification",
+						"Text": "Volume da tela definido no máximo.\\nAumente o volume do sistema de infoentretenimento."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Memory_Usage_Main_Text",
+						"Text": "Memory usage:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active",
+						"Text": "Cancelar download"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active_Preview",
+						"Text": "{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Crosslink",
+						"Text": "Selecione &lt;span id=\\&quot;text_highlight\\&quot;&gt;CROSSLINK&lt;/span&gt; para ver o conteúdo\\natual da tela auxiliar. Nota: os controles de áudio\\ne volume estarão indisponíveis se Crosslink for\\nselecionado com o compartilhamento de áudio ativo."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_HDMI",
+						"Text": "Reproduza conteúdo de uma fonte HDMI\\nquando houver um dispositivo compatível conectado.\\nNota: caso não haja conteúdo em reprodução\\nno dispositivo HDMI selecionado, a tela ficará\\nem branco."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Input",
+						"Text": "Selecione &lt;span id=\\&quot;text_highlight\\&quot;&gt;ENTRADA&lt;/span&gt; para se conectar\\na uma rede Wi-Fi e acessar conteúdo externo\\npor streaming ou compartilhar conteúdo\\nde seu dispositivo conectado."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro",
+						"Text": "O Bentley Entertainment System permite ver\\ne escutar conteúdos do dispositivo Wi-Fi conectado\\nou de um dispositivo compatível conectado\\npor HDMI ou USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_OTA",
+						"Text": "To discover new features and bug fixes,\\ndownload the latest software from the settings menu."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP1",
+						"Text": "Selecione &lt;span id=\\&quot;text_highlight\\&quot;&gt;BLUETOOTH&lt;/span&gt; para conectar fones Bluetooth.\\n\\nÁudio também disponível por meio de fones sem fio."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP2",
+						"Text": "Selecione &lt;span id=\\&quot;text_highlight\\&quot;&gt;BLUETOOTH&lt;/span&gt; para conectar fones Bluetooth\\nou pressione o botão de compartilhamento de áudio\\npara enviar a saída de áudio para os alto-falantes.\\nÁudio também disponível por meio de fones sem fio."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Source",
+						"Text": "Selecione &lt;span id=\\&quot;text_highlight\\&quot;&gt;FONTE&lt;/span&gt; para escolher o conteúdo.\\nVeja conteúdos de provedores externos\\nselecionando o serviço na lista mostrada.\\nNeste menu você também pode reiniciar o navegador."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_USB",
+						"Text": "Ao usar o aplicativo Bentley Entertainment Control,\\nconecte dispositivo USB compatível\\npara reproduzir mídia."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Install_Update",
+						"Text": "Instalar atualização"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_About_Us",
+						"Text": "About us"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Open_Source",
+						"Text": "Open source declaration"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Privacy_Policy",
+						"Text": "Privacy policy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Acoustic_Feedback",
+						"Text": "Retorno acústico"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Audio_Sync",
+						"Text": "Sincronização de áudio"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Brightness_Persistence",
+						"Text": "Persistência de brilho"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Connection_Assistant",
+						"Text": "Assistente de conexão"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_IVI_Pairing",
+						"Text": "Saída de áudio para carro"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Language",
+						"Text": "Idioma (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Legal_Info",
+						"Text": "Legal information and privacy policy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Off",
+						"Text": "Tela desligada"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Timeout",
+						"Text": "Tempo limite da tela"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Software",
+						"Text": "Software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Volume_Persistence",
+						"Text": "Persistência de volume"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Analytics",
+						"Text": "Feedback analítico"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Reset",
+						"Text": "Restaurar os ajustes de fábrica"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update",
+						"Text": "Verificar atualizações"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update_Check",
+						"Text": "Verificando atualizações..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Version",
+						"Text": "Informações de software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Network_Search_Main_Text",
+						"Text": "Procurar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Connection_Status",
+						"Text": "Não conectado"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Device_Status",
+						"Text": "Não conectado"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Devices_Main_Text",
+						"Text": "Nenhum dispositivo encontrado"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Main_Text",
+						"Text": "Nenhuma atualização disponível."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Bluetooth_Unavailable",
+						"Text": "Bluetooth indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Brightness_Unavailable",
+						"Text": "Controles de brilho indisponíveis no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Child_Lock_Unavailable",
+						"Text": "A trava para criança indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Connecting",
+						"Text": "Conectando..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Crosslink_Unavailable",
+						"Text": "Crosslink indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Error_Reconnect",
+						"Text": "Conexão perdida. Tentando reconectar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Full_Screen_Unavailable",
+						"Text": "Modo de tela cheia indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_HDMI_Unavailable",
+						"Text": "HDMI indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Help_Unavailable",
+						"Text": "Guia do usuário indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_IVI_Unavailable",
+						"Text": "Compartilhamento de áudio indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Initialising",
+						"Text": "Inicializando..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Mute_Unavailable",
+						"Text": "Função Mudo indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_OTT_Unavailable",
+						"Text": "Conteúdo externo indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Quick_Menu_Unavailable",
+						"Text": "Menu rápido indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"Text": "A função não está disponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Screen_Unavailable",
+						"Text": "Tela indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Temperature",
+						"Text": "A temperatura da tela está muito alta.\\nO sistema desligará em breve para evitar danos."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Volume_Unavailable",
+						"Text": "Controles de volume indisponíveis no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_WiFi_Unavailable",
+						"Text": "Wi-Fi indisponível no momento"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Help_Text",
+						"Text": "Introduzir o PIN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Main_Text",
+						"Text": "Insira o PIN\\ndo dispositivo Bluetooth."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Main_Text",
+						"Text": "Falha na conexão.\\nTente novamente mais tarde."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
+						"Text": "Falha na conexão.\\nVerifique o PIN."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Password_Speller_Help_Text",
+						"Text": "Inserir senha"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Full_Screen",
+						"Text": "Tela cheia"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Help",
+						"Text": "Guia do usuário"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Screen_Off",
+						"Text": "Tela desligada"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Settings",
+						"Text": "Ajustes"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Source",
+						"Text": "Fonte"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "RSE_Version_Main_Text",
+						"Text": "RSE version:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_Crosslink_Notification",
+						"Text": "Fonte alterada - crosslink ativo"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_HDMI_Notification",
+						"Text": "Fonte alterada - HDMI ativo"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Rename_Device_Headline",
+						"Text": "Renomear dispositivo"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Headline",
+						"Text": "Reiniciar navegador"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Main_Text",
+						"Text": "Quer mesmo reiniciar o navegador?\\nTodas as informações da conta serão perdidas,\\ne você precisará fazer um novo login."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Run_Time_Main_Text",
+						"Text": "Running time:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Off_Notification",
+						"Text": "Toque na tela para ligar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Timeout_Headline",
+						"Text": "Tempo limite da tela"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Settings_Headline",
+						"Text": "Ajustes"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Shutting_Down_Notification",
+						"Text": "O sistema está desligando..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Headline",
+						"Text": "Restaurar os ajustes de fábrica"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Main_Text",
+						"Text": "Ao restaurar o sistema, todas as configurações serão\\nredefinidas. Todos os dados pessoais serão excluídos,\\ninclusive redes salvas, dispositivos Bluetooth e senhas.\\n\\nQuer mesmo reinicializar?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Headline",
+						"Text": "Restaurar os ajustes de fábrica"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Main_Text",
+						"Text": "Configurações de fábrica restauradas.\\nO sistema reinicializará em breve."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Update_Headline",
+						"Text": "Software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Headline",
+						"Text": "Informações de software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Main_Text",
+						"Text": "Versão do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Device_Menu_Text",
+						"Text": "Conteúdo de seu dispositivo"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_HDMI_Menu_Text",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Headline",
+						"Text": "Fonte"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Netflix_Menu_Text",
+						"Text": "Netflix"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Screensaver_Menu_Text",
+						"Text": "Protetor de tela"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_1",
+						"Text": "Nunca"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_2",
+						"Text": "30 segundos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_3",
+						"Text": "1 minuto"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_4",
+						"Text": "5 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_5",
+						"Text": "10 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_6",
+						"Text": "30 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_1",
+						"Text": "Nunca"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_2",
+						"Text": "30 segundos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_3",
+						"Text": "1 minuto"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_4",
+						"Text": "5 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_5",
+						"Text": "10 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_6",
+						"Text": "30 minutos"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Main_Text",
+						"Text": "Atualização de software disponível.\\nBaixar agora?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Headline",
+						"Text": "Atualização do software"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Main_Text",
+						"Text": "Não foi possível verificar atualizações.\\nTente novamente mais tarde."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Headline",
+						"Text": "Nota"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_PL",
+						"Text": "O Bentley Entertainment System\\ndesligará em {0} segundos.\\nPressione OK para prolongar o uso."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_SG",
+						"Text": "O Bentley Entertainment System\\ndesligará em {0} segundo.\\nPressione OK para prolongar o uso."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Wi-Fi_Status",
+						"Text": "WI-FI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "WiFi_Headline",
+						"Text": "Wi-Fi"
+					}
+				}
+			]
+		}
+	]
+}

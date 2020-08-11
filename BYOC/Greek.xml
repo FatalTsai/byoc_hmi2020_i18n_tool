@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LangDef langCode="0408" xsi:noNamespaceSchemaLocation="HMILinguist_Texts.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <LangID ID="Assigned_Location_Main_Text" Text="Assigned location:"/>
+    <LangID ID="Audio_Sync_Headline" Text="Συγχρονισμός ήχου"/>
+    <LangID ID="Audio_Sync_Main_Text" Text="Χειροκίνητη ρύθμιση"/>
+    <LangID ID="BTN_Cancel" Text="Ακύρωση"/>
+    <LangID ID="BTN_DELETE" Text="Διαγραφή"/>
+    <LangID ID="BTN_INSTALL" Text="Εγκατάσταση"/>
+    <LangID ID="BTN_LATER" Text="Μετά"/>
+    <LangID ID="BTN_Left" Text="Αριστερή"/>
+    <LangID ID="BTN_NO" Text="Όχι"/>
+    <LangID ID="BTN_OK" Text="OK"/>
+    <LangID ID="BTN_RETRY" Text="Επαναλάβετε"/>
+    <LangID ID="BTN_Right" Text="Δεξιά"/>
+    <LangID ID="BTN_SAVE" Text="Αποθήκευση"/>
+    <LangID ID="BTN_START" Text="ΕΝΑΡΞΗ"/>
+    <LangID ID="BTN_YES" Text="Ναι"/>
+    <LangID ID="BT_Name_Main_Text" Text="BT name:"/>
+    <LangID ID="Blocked_Browser_Headline" Text="Απομακρυσμένος σύνδεσμος"/>
+    <LangID ID="Blocked_Browser_Main_Text" Text="Σαρώστε τον κωδικό QR για προβολή στη συσκευή σας:"/>
+    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Συγχρονισμός ήχου\nολοκληρώθηκε."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Ο συγχρονισμός ήχου\nαπέτυχε. Προσπαθήστε\nξανά αργότερα."/>
+    <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Συγχρονισμός ήχου"/>
+    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Γίνεται συγχρονισμός...\n{0}%"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Κρατήστε τα ακουστικά κοντά\nστο μικρόφωνο στην οθόνη\nκαι πατήστε έναρξη.\nΟ ήχος θα τεθεί σε σίγαση\nκατά τον συγχρονισμό."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Ζευγοποίηση νέων ακουστικών;\nΤα ακουστικά πρέπει να είναι σε λειτ. ζευγοποίησης."/>
+    <LangID ID="Cancel_Download_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Cancel_Download_Main_Text" Text="Θέλετε σίγουρα να\nακυρώσετε τη λήψη;"/>
+    <LangID ID="Checkbox_Text" Text="Να μην εμφανιστεί ξανά"/>
+    <LangID ID="Child_Lock_Activated_Notification" Text="Το παιδικό κλείδωμα έχει ενεργοποιηθεί"/>
+    <LangID ID="Child_Lock_Active_Notification" Text="Το παιδικό κλείδωμα είναι ενεργό"/>
+    <LangID ID="Child_Lock_Deactivated_Notification" Text="Το παιδικό κλείδωμα έχει απενεργοποιηθεί"/>
+    <LangID ID="Connection_Assistant_1_Headline" Text="Βοηθός σύνδεσης 1 από 2"/>
+    <LangID ID="Connection_Assistant_2_Headline" Text="Βοηθός σύνδεσης 2 από 2"/>
+    <LangID ID="Connection_Assistant_Headline" Text="Βοηθός σύνδεσης"/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="Ή πατήστε το κουμπί τροφοδοσίας από κάτω\nγια να ανοίξετε το γρήγορο μενού."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Σαρώστε τον κωδικό QR για\nσύνδεση στην οθόνη μέσω Wi-Fi:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Ensure your device and this screen are on\nthe same Wi-Fi network to stream media"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Scan the QR code to connect:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Σαρώστε τον κωδικό QR για λήψη\nτου app Bentley Entertainment\nControl."/>
+    <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Main_Text" Text="Δεν ήταν δυνατή η\nσύνδεση δικτύου."/>
+    <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Password_Main_Text" Text="Η σύνδεση απέτυχε.\nΕλέγξτε τον κωδικό πρόσβασης."/>
+    <LangID ID="Crosslink_Headline" Text="Ρύθμιση διασύνδεσης"/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="Έχει ξεκινήσει διαδικασία ζευγοποίησης διασύνδεσης."/>
+    <LangID ID="Crosslink_Host_SSID_Text" Text="SSID: {0}"/>
+    <LangID ID="Crosslink_Host_Waiting_Text" Text="Παρακαλώ περιμένετε..."/>
+    <LangID ID="Crosslink_Pairing_Name_Text" Text="Όνομα οθόνης: {0}"/>
+    <LangID ID="Crosslink_Pairing_Successful_Text" Text="Επιτυχής ρύθμιση διασύνδεσης."/>
+    <LangID ID="Crosslink_Pairing_Text" Text="Γίνεται ζευγοποίηση..."/>
+    <LangID ID="Crosslink_Screen_Main_Text" Text="Επιλέξτε την πλευρά του οχήματος που\nθέλετε να αντιστοιχίσετε σε αυτή την οθόνη."/>
+    <LangID ID="Crosslink_Searching_Text" Text="Αναζήτηση..."/>
+    <LangID ID="Delete_Device_Main_Text" Text="Σίγουρα θέλετε να διαγράψετε αυτά τα αρχεία;"/>
+    <LangID ID="Delete_Install_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Delete_Install_Main_Text" Text="Θέλετε σίγουρα να διαγράψετε\nτην ενημέρωση λογισμικού;"/>
+    <LangID ID="Delete_Network_Main_Text" Text="Θέλετε σίγουρα να διαγράψετε αυτό το δίκτυο;"/>
+    <LangID ID="Device_Search_Menu_Text" Text="Αναζήτηση..."/>
+    <LangID ID="Download_Failed_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Download_Failed_Main_Text" Text="Η λήψη λογισμικού απέτυχε.\nΘέλετε να προσπαθήσετε ξανά;"/>
+    <LangID ID="Help_Headline" Text="Οδηγός χρήσης"/>
+    <LangID ID="IP_Address_Main_Text" Text="IP address:"/>
+    <LangID ID="IVI_Active_Status" Text="Έξοδος ήχου στο αυτοκίνητο"/>
+    <LangID ID="IVI_Delete_Confirm" Text="Θέλετε σίγουρα να διαγράψετε\n{0};\nΣημείωση: η έξοδος ήχου στα ηχεία\nαυτοκινήτου δεν θα είναι πλέον διαθέσιμη."/>
+    <LangID ID="IVI_Headline" Text="Έξοδος ήχου στο αυτοκίνητο"/>
+    <LangID ID="IVI_Main_Text" Text="Επιλέξτε το όνομα οθόνης ως την πηγή ήχου Bluetooth\nστο σύστημα ψυχαγωγίας και πληροφόρησης.\nΗ μέγιστη ένταση καθορίζεται από την κύρια ένταση\nτου συστήματος ψυχαγωγίας και πληροφόρησης."/>
+    <LangID ID="IVI_Pairing_Failed" Text="Η ζευγοποίηση απέτυχε.\nΠροσπαθήστε ξανά αργότερα."/>
+    <LangID ID="IVI_Pairing_Headline" Text="Έξοδος ήχου στο αυτοκίνητο"/>
+    <LangID ID="IVI_Pairing_In_Progress" Text="Γίνεται ζευγοποίηση..."/>
+    <LangID ID="IVI_Pairing_Search" Text="Αναζήτηση..."/>
+    <LangID ID="IVI_Sync_Complete" Text="Συγχρονισμός ήχου\nολοκληρώθηκε."/>
+    <LangID ID="IVI_Sync_Error" Text="Προέκυψε σφάλμα.\nΔεν είναι δυνατός ο συγχρονισμός ήχου.\nΠροσπαθήστε πάλι αργότερα."/>
+    <LangID ID="IVI_Sync_In_Progress" Text="Γίνεται συγχρονισμός...\n{0}%"/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Επιλέξτε το όνομα οθόνης ως\nπηγή ήχου Bluetooth στο\nσύστημα infotainment.\nΕλέγξτε την ένταση ήχου και\nμειώστε τον θόρυβο.\nΠατήστε ΕΝΑΡΞΗ όταν το\nσύστημα είναι έτοιμο."/>
+    <LangID ID="Install_Active_Headline" Text="Σημείωση"/>
+    <LangID ID="Install_Active_Main_Text" Text="Η εγκατάσταση ενημέρωσης\nολοκληρώθηκε κατά {0}%.\n\nΒεβαιωθείτε ότι το όχημα είναι ενεργοποιημένο\nμέχρι να ολοκληρωθεί η ενημέρωση.\n\nΘα γίνει επανεκκίνηση του συστήματος\nμόλις ολοκληρωθεί η εγκατάσταση."/>
+    <LangID ID="Install_Available_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Install_Available_Main_Text" Text="Διαθέσιμη εγκατάσταση λογισμικού.\nΘέλετε να κάνετε εγκατάσταση τώρα;\n\nΚατά την ενημέρωση, το σύστημα\nδεν θα είναι λειτουργικό."/>
+    <LangID ID="Install_Delete_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Install_Delete_Main_Text" Text="Θέλετε να εγκαταστήσετε ή να διαγράψετε\nτην ενημέρωση;\n\nΚατά τη διαδικασία ενημέρωσης λογισμικού\nτο σύστημα δεν θα είναι λειτουργικό."/>
+    <LangID ID="Install_Failed_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Install_Failed_Main_Text" Text="Η εγκατάσταση λογισμικού απέτυχε.\nΘέλετε να προσπαθήσετε ξανά;"/>
+    <LangID ID="Install_Successful_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Install_Successful_Main_Text" Text="Επιτυχής εγκατάσταση.\nΤο λογισμικό ενημερώθηκε."/>
+    <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Czech" Text="Čeština"/>
+    <LangID ID="Language_Danish" Text="Dansk"/>
+    <LangID ID="Language_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_French" Text="Français"/>
+    <LangID ID="Language_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_German" Text="Deutsch"/>
+    <LangID ID="Language_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Headline" Text="Γλώσσα (Language)"/>
+    <LangID ID="Language_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Italian" Text="Italiano"/>
+    <LangID ID="Language_Japanese" Text="日本語"/>
+    <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Polish" Text="Polski"/>
+    <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Czech" Text="Čeština"/>
+    <LangID ID="Language_Preview_Danish" Text="Dansk"/>
+    <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_French" Text="Français"/>
+    <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_Preview_German" Text="Deutsch"/>
+    <LangID ID="Language_Preview_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Preview_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Preview_Italian" Text="Italiano"/>
+    <LangID ID="Language_Preview_Japanese" Text="日本語"/>
+    <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Preview_Polish" Text="Polski"/>
+    <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Preview_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Romanian" Text="Română"/>
+    <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Spanish" Text="Español"/>
+    <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Romanian" Text="Română"/>
+    <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Spanish" Text="Español"/>
+    <LangID ID="Language_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Legal_Info_Headline" Text="Legal information and privacy policy"/>
+    <LangID ID="MCU_Version_Main_Text" Text="MCU version:"/>
+    <LangID ID="Max_Volume_Notification" Text="Ένταση οθόνης στη μέγιστη ρύθμιση.\nΑυξήστε την ένταση του συστήματος ψυχαγωγίας και πληροφόρησης."/>
+    <LangID ID="Memory_Usage_Main_Text" Text="Memory usage:"/>
+    <LangID ID="Menu_Download_Active" Text="Ακύρωση λήψης"/>
+    <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
+    <LangID ID="Menu_Help_Crosslink" Text="Επιλέξτε <span id=\"text_Highlight\">CROSSLINK</span> για προβολή περιεχομένου στην\nοθόνη συνοδού. Σημείωση: αν επιλεγεί η διασύνδεση\nμε ενεργή την κοινή χρήση ήχου, τα χειριστήρια ήχου\nκαι έντασης είναι μη διαθέσιμα."/>
+    <LangID ID="Menu_Help_HDMI" Text="Δυνατή αναπαραγωγή περιεχομένου από πηγή HDMI\nκατά τη σύνδεση συμβατής συσκευής.\nΣημείωση: Αν δεν αναπαράγεται περιεχόμενο σε HDMI\nόταν επιλεγεί, η οθόνη θα εμφανίζεται κενή."/>
+    <LangID ID="Menu_Help_Input" Text="Επιλέξτε <span id=\"text_Highlight\">ΕΙΣΟΔΟΣ</span> για σύνδεση σε δίκτυο Wi-Fi.\nΑυτό επιτρέπει τη μετάδοση μέσω ροής περιεχομένου\nαπό εξωτερικούς παρόχους ή τη δημιουργία σύνδεσης\nμε τη συσκευή σας για την κοινή χρήση περιεχομένου."/>
+    <LangID ID="Menu_Help_Intro" Text="Το σύστημα Bentley Entertainment σας επιτρέπει να\nβλέπετε και να ακούτε περιεχόμενο από το κινητό σας\nμε σύνδεση μέσω Wi-Fi ή μια συμβατή συσκευή\nσυνδεδεμένη μέσω HDMI ή USB."/>
+    <LangID ID="Menu_Help_OTA" Text="To discover new features and bug fixes,\ndownload the latest software from the settings menu."/>
+    <LangID ID="Menu_Help_Output_SOP1" Text="Επιλέξτε <span id=\"text_Highlight\">BLUETOOTH</span> για σύνδεση ακουστικών\nBluetooth.\n\nΟ ήχος διατίθεται και μέσω ενσύρματων ακουστικών."/>
+    <LangID ID="Menu_Help_Output_SOP2" Text="Επιλέξτε <span id=\"text_Highlight\">BLUETOOTH</span> για σύνδεση ακουστικών\nBluetooth ή πατήστε το κουμπί κοινής χρήσης ήχου για\nαποστολή εξόδου ήχου στα ηχεία του αυτοκινήτου.\nΟ ήχος διατίθεται και μέσω ενσύρματων ακουστικών."/>
+    <LangID ID="Menu_Help_Source" Text="Επιλέξτε <span id=\"text_Highlight\">SOURCE</span> για να επιλέξετε περιεχόμενο.\nΠροβάλετε περιεχόμενο από εξωτερικούς παρόχους\nεπιλέγοντας την υπηρεσία από την εμφανιζόμενη λίστα.\nΔυνατότητα επαναφοράς προγράμματος περιήγησης."/>
+    <LangID ID="Menu_Help_USB" Text="Είναι δυνατή η αναπαραγωγή πολυμέσων μέσω\nσυμβατής συσκευής συνδεδεμένης σε USB κατά τη\nχρήση της εφαρμογής Bentley Entertainment Control."/>
+    <LangID ID="Menu_Install_Update" Text="Εγκατάσταση ενημέρωσης"/>
+    <LangID ID="Menu_Legal_About_Us" Text="About us"/>
+    <LangID ID="Menu_Legal_Open_Source" Text="Open source declaration"/>
+    <LangID ID="Menu_Legal_Privacy_Policy" Text="Privacy policy"/>
+    <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Ακουστική ανάδραση"/>
+    <LangID ID="Menu_Settings_Audio_Sync" Text="Συγχρονισμός ήχου"/>
+    <LangID ID="Menu_Settings_Brightness_Persistence" Text="Διατήρηση φωτεινότητας"/>
+    <LangID ID="Menu_Settings_Connection_Assistant" Text="Βοηθός σύνδεσης"/>
+    <LangID ID="Menu_Settings_IVI_Pairing" Text="Έξοδος ήχου στο αυτοκίνητο"/>
+    <LangID ID="Menu_Settings_Language" Text="Γλώσσα (Language)"/>
+    <LangID ID="Menu_Settings_Legal_Info" Text="Legal information and privacy policy"/>
+    <LangID ID="Menu_Settings_Screen_Off" Text="Οθόνη ανενεργή"/>
+    <LangID ID="Menu_Settings_Screen_Timeout" Text="Χρονικό όριο οθόνης"/>
+    <LangID ID="Menu_Settings_Software" Text="Λογισμικό"/>
+    <LangID ID="Menu_Settings_Volume_Persistence" Text="Διατήρηση έντασης ήχου"/>
+    <LangID ID="Menu_Software_Analytics" Text="Αναλυτική ανάδραση"/>
+    <LangID ID="Menu_Software_Reset" Text="Επαναφορά εργοστασιακών ρυθμίσεων"/>
+    <LangID ID="Menu_Software_Update" Text="Έλεγχος για ενημερώσεις"/>
+    <LangID ID="Menu_Software_Update_Check" Text="Γίνεται έλεγχος για ενημερώσεις..."/>
+    <LangID ID="Menu_Software_Version" Text="Πληροφορίες λογισμικού"/>
+    <LangID ID="Network_Search_Main_Text" Text="Αναζήτηση..."/>
+    <LangID ID="No_Connection_Status" Text="Μη συνδεδεμένο"/>
+    <LangID ID="No_Device_Status" Text="Μη συνδεδεμένο"/>
+    <LangID ID="No_Devices_Main_Text" Text="Δεν βρέθηκαν συσκευές"/>
+    <LangID ID="No_Updates_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="No_Updates_Main_Text" Text="Δεν υπάρχουν διαθέσιμες ενημερώσεις."/>
+    <LangID ID="Notification_Bluetooth_Unavailable" Text="Το Bluetooth είναι μη διαθέσιμο τώρα"/>
+    <LangID ID="Notification_Brightness_Unavailable" Text="Τα χειριστήρια φωτεινότητας είναι μη διαθέσιμα τώρα"/>
+    <LangID ID="Notification_Child_Lock_Unavailable" Text="Το παιδικό κλείδωμα είναι μη διαθέσιμο τώρα"/>
+    <LangID ID="Notification_Connecting" Text="Γίνεται σύνδεση..."/>
+    <LangID ID="Notification_Crosslink_Unavailable" Text="Η διασύνδεση είναι μη διαθέσιμη τώρα"/>
+    <LangID ID="Notification_Error_Reconnect" Text="Απώλεια σύνδεσης. Προσπάθεια επανασύνδεσης..."/>
+    <LangID ID="Notification_Full_Screen_Unavailable" Text="Η λειτουργία πλήρους οθόνης είναι μη διαθέσιμη τώρα"/>
+    <LangID ID="Notification_HDMI_Unavailable" Text="Το HDMI είναι μη διαθέσιμο τώρα"/>
+    <LangID ID="Notification_Help_Unavailable" Text="Ο Οδηγός χρήσης είναι μη διαθέσιμος τώρα"/>
+    <LangID ID="Notification_IVI_Unavailable" Text="Η κοινή χρήση ήχου είναι μη διαθέσιμη τώρα"/>
+    <LangID ID="Notification_Initialising" Text="Γίνεται αρχική ρύθμιση..."/>
+    <LangID ID="Notification_Mute_Unavailable" Text="Η Σίγαση είναι μη διαθέσιμη τώρα"/>
+    <LangID ID="Notification_OTT_Unavailable" Text="Εξωτερικός πάροχος περιεχομένου μη διαθέσιμος"/>
+    <LangID ID="Notification_Quick_Menu_Unavailable" Text="Το γρήγορο μενού είναι μη διαθέσιμο τώρα"/>
+    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="Η λειτουργία προς το παρόν δεν είναι διαθέσιμη"/>
+    <LangID ID="Notification_Screen_Unavailable" Text="Η οθόνη είναι μη διαθέσιμη τώρα"/>
+    <LangID ID="Notification_Temperature" Text="Πολύ υψηλή θερμοκρασία οθόνης. Το σύστημα θα\nαπενεργοποιηθεί σύντομα ώστε να μην προκληθεί βλάβη."/>
+    <LangID ID="Notification_Volume_Unavailable" Text="Τα χειριστήρια έντασης ήχου είναι μη διαθέσιμα τώρα"/>
+    <LangID ID="Notification_WiFi_Unavailable" Text="Το Wi-Fi είναι μη διαθέσιμο τώρα"/>
+    <LangID ID="PIN_Entry_Help_Text" Text="Εισαγωγή PIN"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Εισαγάγετε το\nPIN για τη\nσυσκευή Bluetooth."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Main_Text" Text="Η σύνδεση απέτυχε.\nΠροσπαθήστε ξανά αργότερα."/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Η σύνδεση απέτυχε.\nΕλέγξτε το PIN σας."/>
+    <LangID ID="Password_Speller_Help_Text" Text="Εισαγωγή κωδικού πρόσβασης"/>
+    <LangID ID="Quick_Menu_Full_Screen" Text="Πλήρης οθόνη"/>
+    <LangID ID="Quick_Menu_Help" Text="Οδηγός χρήσης"/>
+    <LangID ID="Quick_Menu_Screen_Off" Text="Οθόνη ανενεργή"/>
+    <LangID ID="Quick_Menu_Settings" Text="Ρυθμίσεις"/>
+    <LangID ID="Quick_Menu_Source" Text="Πηγή"/>
+    <LangID ID="RSE_Version_Main_Text" Text="RSE version:"/>
+    <LangID ID="Remote_Crosslink_Notification" Text="Η πηγή άλλαξε - ενεργή διασύνδεση"/>
+    <LangID ID="Remote_HDMI_Notification" Text="Η πηγή άλλαξε - ενεργό HDMI"/>
+    <LangID ID="Rename_Device_Headline" Text="Μετονομασία συσκευής"/>
+    <LangID ID="Reset_Browser_Headline" Text="Επαναφορά προγράμματος περιήγησης"/>
+    <LangID ID="Reset_Browser_Main_Text" Text="Θέλετε σίγουρα επαναφορά προγράμματος περιήγησης;\nΘα χαθούν όλες οι πληροφορίες λογαριασμού\nκαι θα χρειαστεί να συνδεθείτε ξανά."/>
+    <LangID ID="Run_Time_Main_Text" Text="Running time:"/>
+    <LangID ID="Screen_Off_Notification" Text="Πατήστε την οθόνη για ενεργοποίηση"/>
+    <LangID ID="Screen_Timeout_Headline" Text="Χρονικό όριο οθόνης"/>
+    <LangID ID="Settings_Headline" Text="Ρυθμίσεις"/>
+    <LangID ID="Shutting_Down_Notification" Text="Γίνεται απενεργοποίηση του συστήματος..."/>
+    <LangID ID="Software_Reset_Headline" Text="Επαναφορά εργοστασιακών ρυθμίσεων"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Κατά την επαναφορά συστήματος, θα γίνει επαναφορά\nόλων των ρυθμίσεων. Όλα τα προσωπικά δεδομένα,\nόπως αποθηκευμένα δίκτυα, συσκευές Bluetooth και\nκωδικοί πρόσβασης θα διαγραφούν.\n\nΘέλετε σίγουρα να κάνετε επαναφορά;"/>
+    <LangID ID="Software_Reset_Successful_Headline" Text="Επαναφορά εργοστασιακών ρυθμίσεων"/>
+    <LangID ID="Software_Reset_Successful_Main_Text" Text="Έγινε επαναφορά των εργοστασιακών ρυθμίσεων.\nΘα γίνει σύντομα επανεκκίνηση του συστήματος."/>
+    <LangID ID="Software_Update_Headline" Text="Λογισμικό"/>
+    <LangID ID="Software_Version_Headline" Text="Πληροφορίες λογισμικού"/>
+    <LangID ID="Software_Version_Main_Text" Text="Έκδοση Λογισμικού"/>
+    <LangID ID="Source_Device_Menu_Text" Text="Περιεχόμενο από τη συσκευή σας"/>
+    <LangID ID="Source_HDMI_Menu_Text" Text="HDMI"/>
+    <LangID ID="Source_Headline" Text="Πηγή"/>
+    <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
+    <LangID ID="Source_Screensaver_Menu_Text" Text="Προφύλαξη οθόνης"/>
+    <LangID ID="Timeout_Option_1" Text="Ποτέ"/>
+    <LangID ID="Timeout_Option_2" Text="30 δευτερόλεπτα"/>
+    <LangID ID="Timeout_Option_3" Text="1 λεπτό"/>
+    <LangID ID="Timeout_Option_4" Text="5 λεπτά"/>
+    <LangID ID="Timeout_Option_5" Text="10 λεπτά"/>
+    <LangID ID="Timeout_Option_6" Text="30 λεπτά"/>
+    <LangID ID="Timeout_Preview_Option_1" Text="Ποτέ"/>
+    <LangID ID="Timeout_Preview_Option_2" Text="30 δευτερόλεπτα"/>
+    <LangID ID="Timeout_Preview_Option_3" Text="1 λεπτό"/>
+    <LangID ID="Timeout_Preview_Option_4" Text="5 λεπτά"/>
+    <LangID ID="Timeout_Preview_Option_5" Text="10 λεπτά"/>
+    <LangID ID="Timeout_Preview_Option_6" Text="30 λεπτά"/>
+    <LangID ID="Update_Available_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Update_Available_Main_Text" Text="Διαθέσιμη ενημέρωση λογισμικού.\nΛήψη τώρα;"/>
+    <LangID ID="Update_Unavailable_Headline" Text="Αναβάθμιση λογισμικού"/>
+    <LangID ID="Update_Unavailable_Main_Text" Text="Δεν είναι δυνατός ο έλεγχος για ενημερώσεις.\nΠροσπαθήστε ξανά αργότερα."/>
+    <LangID ID="Use_Extension_Headline" Text="Σημείωση"/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Το σύστημα Bentley Entertainment\nθα απενεργοποιηθεί σε {0} δευτερόλεπτα.\nΠατήστε OK για να επεκτείνετε τη χρήση του."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Το σύστημα Bentley Entertainment\nθα απενεργοποιηθεί σε {0} δευτερόλεπτο.\nΠατήστε OK για να επεκτείνετε τη χρήση του."/>
+    <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
+    <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
+</LangDef>
