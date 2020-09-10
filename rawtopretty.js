@@ -4,14 +4,14 @@ const path = require('path')
 const i18n_map ={
     "Arabic":"ar_AE",
     "Cantonese":"zh_HK", //not match
-    "Chinese_Mandarin":"zh_CN", //not match
+    "Chinese Mandarin":"zh_CN", //not match
     "Czech":"cs_CZ",
     "Danish":"da_DK",
     "Dutch":"nl_BE",
-    "English_28UK29":"en_GB",//not match
-    "English_28US29":"en_US",
+    "English (UK)":"en_GB",//not match
+    "English (US)":"en_US",
     "French":"fr_FR",
-    "French_Canadian":"fr_CA",
+    "French Canadian":"fr_CA",
     "German":"de_DE",
     "Greek":"el_GR",
     "Hungarian":"hu_HU",
@@ -21,11 +21,11 @@ const i18n_map ={
     "Norwegian":"nn_NO",
     "Polish":"pl_PL",
     "Portuguese":"pt_PT",
-    "Portuguese_28Brazilian29":"pt_BR",
+    "Portuguese (Brazilian)":"pt_BR",
     "Romanian":"ro_RO",
     "Russian":"ru_RU",
     "Spanish":"es_ES",
-    "Spanish_28US29":"es_US",//not match es_mx not found
+    "Spanish (US)":"es_US",//not match es_mx not found
     "Swedish":"sv_SE",
     "Taiwanese":"zh_TW",
     "Turkish":"tr_TR"
@@ -46,9 +46,10 @@ const newfolder = './clientdata'
 fs.readdir(origindatapath,(err,files)=>{
     files.forEach(file=>{
         //console.log(i18n_map[path.basename(file,'.json')] )
-
-        const newfilename = i18n_map[path.basename(file,'.json')] 
-
+        //console.log(file)
+        const newfilename = i18n_map[path.basename(file,'.json').replace('_BYOC','')] 
+        console.log(file)
+        console.log(newfilename)
         let tmp =JSON.parse( fs.readFileSync(path.join(origindatapath,file),'utf-8') )
 
         //console.log(tmp.elements[0].elements)
@@ -59,7 +60,7 @@ fs.readdir(origindatapath,(err,files)=>{
         });
 
         fs.writeFileSync(path.join(newfolder,newfilename)+'.json',JSON.stringify(result,null,'\t'))
-
+        
     })
 })
 

@@ -62,7 +62,7 @@ let xmlString2 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="ابحث عن رمز QR للاتصال\nبالشبكة عبر Wi-Fi:"/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Ensure your device and this screen are on\nthe same Wi-Fi network to stream media"/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Scan the QR code to connect:"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="ابحث عن رمز QR لتنزيل تطبيق\nالتحكم في ترفيه Bentley."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="ابحث عن رمز QR لتنزيل تطبيق\nالتحكم في ترفيه Audi."/>
     <LangID ID="Connection_Failed_Headline" Text="شبكة Wi-Fi"/>
     <LangID ID="Connection_Failed_Main_Text" Text="تعذر إنشاء\nالاتصال بالشبكة."/>
     <LangID ID="Connection_Failed_Password_Headline" Text="شبكة Wi-Fi"/>
@@ -171,12 +171,12 @@ let xmlString2 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Menu_Help_Crosslink" Text="حدد <span id=\"text_Highlight\">CROSSLINK</span> لمشاهدة محتوى معروض حاليًا\nعلى شاشة مصاحبة. ملاحظة: عند تحديد Crosslink\nبينما تكون مشاركة الصوت مفعلة، تكون أدوات التحكم\nفي الصوت غير متوفرة."/>
     <LangID ID="Menu_Help_HDMI" Text="يمكن تشغيل محتوى من مصدر HDMI\nعند توصيل جهاز متوافق.\nملاحظة: إذا لم يتم تشغيل أي محتوى على جهاز HDMI\nعند تحديده، ستظهر الشاشة فارغة."/>
     <LangID ID="Menu_Help_Input" Text="حدد <span id=\"text_Highlight\">&quot;مدخل&quot;</span> للتوصيل بشبكة Wi-Fi.\nيتيح ذلك لك بث محتوى عبر\nالموفرين الخارجيين أو لإنشاء اتصال\nبجهازك لمشاركة المحتوى."/>
-    <LangID ID="Menu_Help_Intro" Text="يسمح نظام ترفيه Bentley بعرض المحتوى\nوالاستماع إليه من جهازك المحمول المتصل عبر\nWi-Fi أو من جهاز متوافق متصل\nعبر HDMI أو USB."/>
+    <LangID ID="Menu_Help_Intro" Text="يسمح نظام ترفيه Audi بعرض المحتوى\nوالاستماع إليه من جهازك المحمول المتصل عبر\nWi-Fi أو من جهاز متوافق متصل\nعبر HDMI أو USB."/>
     <LangID ID="Menu_Help_OTA" Text="To discover new features and bug fixes,\ndownload the latest software from the settings menu."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="حدد &quot;<span id=\"text_Highlight\">BLUETOOTH</span>&quot; لتوصيل سماعة رأس Bluetooth\nأو اضغط على زر مشاركة الصوت\nلإرسال الصوت إلى سماعات السيارة.\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="حدد &quot;<span id=\"text_Highlight\">BLUETOOTH</span>&quot; لتوصيل سماعة رأس Bluetooth\nأو اضغط على زر مشاركة الصوت\nلإرسال الصوت إلى سماعات السيارة.\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
     <LangID ID="Menu_Help_Source" Text="حدد &quot;<span id=\"text_Highlight\">مصدر</span>&quot; لاختيار المحتوى المطلوب.\nيمكنك عرض المحتوى من الموفرين الخارجيين\nبتحديد الخدمة من القائمة المعروضة.\nيمكن إعادة تعيين المتصفح أيضًا في هذه القائمة."/>
-    <LangID ID="Menu_Help_USB" Text="يمكن تشغيل الوسائط عبر جهاز متوافق\nمتصل عبر USB باستخدام تطبيق\nالتحكم في ترفيه Bentley."/>
+    <LangID ID="Menu_Help_USB" Text="يمكن تشغيل الوسائط عبر جهاز متوافق\nمتصل عبر USB باستخدام تطبيق\nالتحكم في ترفيه Audi."/>
     <LangID ID="Menu_Install_Update" Text="تثبيت التحديث"/>
     <LangID ID="Menu_Legal_About_Us" Text="About us"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Open source declaration"/>
@@ -274,8 +274,8 @@ let xmlString2 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Update_Unavailable_Headline" Text="تحديث البرنامج"/>
     <LangID ID="Update_Unavailable_Main_Text" Text="تعذر التحقق من وجود تحديثات.\nيرجى إعادة المحاولة لاحقًا."/>
     <LangID ID="Use_Extension_Headline" Text="ملاحظة"/>
-    <LangID ID="Use_Extension_Main_Text_PL" Text="سيتم إيقاف تشغيل نظام ترفيه\nBentley خلال {0} ثوان.\nاضغط على موافق لتمديد الاستخدام."/>
-    <LangID ID="Use_Extension_Main_Text_SG" Text="سيتم إيقاف تشغيل نظام ترفيه\nBentley خلال {0} ثانية.\nاضغط على موافق لتمديد الاستخدام."/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="سيتم إيقاف تشغيل نظام ترفيه\nAudi خلال {0} ثوان.\nاضغط على موافق لتمديد الاستخدام."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="سيتم إيقاف تشغيل نظام ترفيه\nAudi خلال {0} ثانية.\nاضغط على موافق لتمديد الاستخدام."/>
     <LangID ID="Wi-Fi_Status" Text="شبكة WI-FI"/>
     <LangID ID="WiFi_Headline" Text="شبكة Wi-Fi"/>
 </LangDef>
@@ -321,7 +321,7 @@ let xmlString3 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="掃描 QR 碼以透過\nWi-Fi 連線至螢幕："/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Ensure your device and this screen are on\nthe same Wi-Fi network to stream media"/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Scan the QR code to connect:"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="掃描 QR 碼以下載\nBentley Entertainment\nControl app。"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="掃描 QR 碼以下載\nAudi Entertainment\nControl app。"/>
     <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Main_Text" Text="無法建立網路連線。"/>
     <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
@@ -430,12 +430,12 @@ let xmlString3 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Menu_Help_Crosslink" Text="選擇 <span id=\"text_highlight\">[交叉連結]</span> 可檢視隨附螢幕上\n目前顯示的內容。附註：如果\n在使用音訊分享時選擇交叉連結，\n則音訊與音量控制無法使用。"/>
     <LangID ID="Menu_Help_HDMI" Text="連線了相容裝置時，可從 HDMI 來源\n播放內容。\n附註：如果選擇時 HDMI 裝置上未播放\n內容，則螢幕顯示空白。"/>
     <LangID ID="Menu_Help_Input" Text="選擇<span id=\"text_highlight\">[輸入]</span>以連線至 Wi-Fi 網路。\n這可讓您透過外部供應商\n串流內容，或者與您的裝置建立\n連線以分享內容。"/>
-    <LangID ID="Menu_Help_Intro" Text="Bentley Entertainment System 可讓您檢視\n並聆聽透過 Wi-Fi 連線的行動裝置\n或者透過 HDMI 或 USB 連線的相容裝置\n中的內容。"/>
+    <LangID ID="Menu_Help_Intro" Text="Audi Entertainment System 可讓您檢視\n並聆聽透過 Wi-Fi 連線的行動裝置\n或者透過 HDMI 或 USB 連線的相容裝置\n中的內容。"/>
     <LangID ID="Menu_Help_OTA" Text="To discover new features and bug fixes,\ndownload the latest software from the settings menu."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="選擇 <span id=\"text_highlight\">[藍牙]</span> 以連線藍牙耳機\n或者按下音訊分享按鈕以\n傳送音訊輸出至汽車喇叭。\n音訊亦可透過有線耳機使用。"/>
     <LangID ID="Menu_Help_Output_SOP2" Text="選擇 <span id=\"text_highlight\">[藍牙]</span> 以連線藍牙耳機\n或者按下音訊分享按鈕以\n傳送音訊輸出至汽車喇叭。\n音訊亦可透過有線耳機使用。"/>
     <LangID ID="Menu_Help_Source" Text="選擇 <span id=\"text_highlight\">[來源]</span> 以選擇您想要的內容。\n您可以從顯示的清單中選擇服務，\n以檢視來自外部供應商的內容。\n亦可在此功能表中重設瀏覽器。"/>
-    <LangID ID="Menu_Help_USB" Text="在使用 Bentley Entertainment Control\napp 時，可透過 USB 從相容的\n裝置播放媒體。"/>
+    <LangID ID="Menu_Help_USB" Text="在使用 Audi Entertainment Control\napp 時，可透過 USB 從相容的\n裝置播放媒體。"/>
     <LangID ID="Menu_Install_Update" Text="安裝更新"/>
     <LangID ID="Menu_Legal_About_Us" Text="About us"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Open source declaration"/>
@@ -533,8 +533,8 @@ let xmlString3 = `<?xml version="1.0" encoding="UTF-8"?>
     <LangID ID="Update_Unavailable_Headline" Text="軟體更新"/>
     <LangID ID="Update_Unavailable_Main_Text" Text="無法檢查更新。\n請稍後再試。"/>
     <LangID ID="Use_Extension_Headline" Text="訊息"/>
-    <LangID ID="Use_Extension_Main_Text_PL" Text="Bentley Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
-    <LangID ID="Use_Extension_Main_Text_SG" Text="Bentley Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Audi Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Audi Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
     <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
     <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
 </LangDef>
@@ -554,13 +554,13 @@ replacer = function(match, p1, p2, p3, offset, string){
 }
 
 
-xmlString3 = xmlString3.replace(/\n/g,'\\n')
+xmlString3 = xmlString3.replace(/\n/g,'\n')
 
 
 
 let afterReplace = xmlString3.replace(/(?<=Text\=\")(.*?)(?="\/\>)/g,replacer)
 afterReplace  = afterReplace.replace(/(?<=\>)(.*?)(?=\<)/g,'\n')
-afterReplace = afterReplace.replace(/<\/LangDef>\\n/g,'</LangDef>')
+afterReplace = afterReplace.replace(/<\/LangDef>\n/g,'</LangDef>')
 //console.log(afterReplace)
 
 //console.log( JSON.stringify( JSON.parse( convert.xml2json(afterReplace)),null,'\t') )
@@ -576,7 +576,7 @@ fs.readdir(BYOC, (err, files) => {
       let tmp = fs.readFileSync( path.join(BYOC,file) ,'utf-8')
       tmp = tmp.replace(/(?<=Text\=\")(.*?)(?="\/\>)/g,replacer)
       tmp  = tmp.replace(/(?<=\>)(.*?)(?=\<)/g,'\n')
-      tmp = tmp.replace(/<\/LangDef>\\n/g,'</LangDef>')
+      tmp = tmp.replace(/<\/LangDef>\n/g,'</LangDef>')
 
 
 

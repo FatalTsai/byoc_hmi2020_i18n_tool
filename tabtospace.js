@@ -9,7 +9,7 @@ fs.readdir(origindatapath,(err,files)=>{
         let tmp = JSON.parse( fs.readFileSync(path.join(oldi18n,file),'utf-8') )
         //let result = JSON.parse( fs.readFileSync(path.join(oldi18n,file),'utf-8') )
         let result = JSON.stringify(tmp,null,'  ')
-        result = result.replace(/\\\\n/g,'\\n')
+        result = result.replace(/\\\n/g,'\n')
 
         result = result.replace(/\\&quot;/g,'"')
         result = result.replace(/&apos;/g,`'`)
