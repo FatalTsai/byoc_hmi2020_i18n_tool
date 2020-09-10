@@ -1,0 +1,2093 @@
+{
+	"declaration": {
+		"attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8"
+		}
+	},
+	"elements": [
+		{
+			"type": "element",
+			"name": "LangDef",
+			"attributes": {
+				"langCode": "041D",
+				"xsi:noNamespaceSchemaLocation": "HMILinguist_Texts.xsd",
+				"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+			},
+			"elements": [
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Left",
+						"Text": "Vänster"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Main_Text",
+						"Text": "Tilldelad plats:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_None",
+						"Text": "Ingen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Right",
+						"Text": "Höger"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Headline",
+						"Text": "Ljud synkronisering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Main_Text",
+						"Text": "Manuell inställning"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Cancel",
+						"Text": "Avbryt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_DELETE",
+						"Text": "Radera"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_INSTALL",
+						"Text": "Installera"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_LATER",
+						"Text": "Senare"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Left",
+						"Text": "Vänster"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_NO",
+						"Text": "Nej"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_OK",
+						"Text": "OK"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_RETRY",
+						"Text": "Försök igen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Right",
+						"Text": "Höger"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_SAVE",
+						"Text": "Spara"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_START",
+						"Text": "START"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_YES",
+						"Text": "Ja"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BT_Name_Main_Text",
+						"Text": "Bluetooth-namn:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Headline",
+						"Text": "Fjärrlänk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Main_Text",
+						"Text": "Skanna QR koden för att se din enhet:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Complete",
+						"Text": "Ljud synkronisering klar."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Error",
+						"Text": "Ljud synkronisering\\nmisslyckades.\\nFörsök igen senare."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Headline",
+						"Text": "Ljud synkronisering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_In_Progress",
+						"Text": "Synkronisering...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Main_Text",
+						"Text": "Håll hörurarna nära intil\\nmikrofonen på skärmen\\noch tryck på start,\\nljudet stängs av under\\nden här processen."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Status",
+						"Text": "BLUETOOTH"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Visibility_Main_Text",
+						"Text": "Parning av nya hörlurar? Hörlurarna\\nmåste vara inställda för parning."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Main_Text",
+						"Text": "Är du säker på att du vill avbryta nerladdningen?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Checkbox_Text",
+						"Text": "Visa inte igen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Activated_Notification",
+						"Text": "Barnlåset har aktiverats"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Active_Notification",
+						"Text": "Barnlåset är aktivt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Deactivated_Notification",
+						"Text": "Barnlåset har inaktiverats"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_1_Headline",
+						"Text": "Anslutningsassistent 1 av 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_2_Headline",
+						"Text": "Anslutningsassistent 2 av 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Headline",
+						"Text": "Anslutningsassistent"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Help_Text",
+						"Text": "Eller tryck på strömknappen\\nför att öppna snabbmenyn."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
+						"Text": "Skanna QR koden till anslutning\\ntill skärmen via Wi-Fi:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
+						"Text": "Tryck på strömbrytarknappen nedan och\\nvälj Wi-Fi för att välja ett tillgängligt nätverk."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
+						"Text": "Se till att din enhet och den här skärmen är\\npå samma nätverk för att strömma media."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
+						"Text": "Skanna QR koden för att ansluta:\\n{0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
+						"Text": "Skanna QR koden efter appen\\neller efter alternativa \\nanslutningsalternativ."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Headline",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Main_Text",
+						"Text": "Nätverksanslutningen kunde inte genomföras."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Headline",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Main_Text",
+						"Text": "Anslutning misslyckades, kontrollera ditt lösenord."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Headline",
+						"Text": "Crosslink inställning"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Main_Text",
+						"Text": "En Crosslink ihopparningsprocess har påbörjats."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_SSID_Text",
+						"Text": "SSID: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Waiting_Text",
+						"Text": "Var god vänta..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Name_Text",
+						"Text": "Skärmnamn: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Successful_Text",
+						"Text": "Crosslink inställning genomförd."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Text",
+						"Text": "Ihopparning ..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Screen_Main_Text",
+						"Text": "Välj fordonssida som du skulle tilldela skärmen."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Searching_Text",
+						"Text": "Sök..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Device_Main_Text",
+						"Text": "Är du säker på att du vill radera?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Main_Text",
+						"Text": "Är du säker på at du vill avbryta?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Network_Main_Text",
+						"Text": "Är du säker på att du vill ta bort det här nätverket?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Device_Search_Menu_Text",
+						"Text": "Sök..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Main_Text",
+						"Text": "Nerladdningen av program misslyckades.\\nVill du försöka på nytt?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Headline",
+						"Text": "Användarguide"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IP_Address_Main_Text",
+						"Text": "IP adress:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Active_Status",
+						"Text": "Ljudoutput till bilen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Delete_Confirm",
+						"Text": "Är du säker på att du vill ta bort {0}?\\nObservera: ljud output till bilhögtalare\\nkommer inte längre att vara tillgängt."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Headline",
+						"Text": "Ljudoutput till bilen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Main_Text",
+						"Text": "Välj skärmnamn som Bluetooth ljudkälla på\\ninfotainmentsystemet. Maximal volym bestäms\\nav masterkontrollen i infotainment systemet."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Failed",
+						"Text": "Ihopparning misslyckades.\\nFörsök igen senare."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Headline",
+						"Text": "Anslutning till ljud-i-bilen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_In_Progress",
+						"Text": "Ihopparning ..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Search",
+						"Text": "Sök..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Complete",
+						"Text": "Ljud synkronisering klar."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Error",
+						"Text": "Ett fel har uppstått.\\nFörsök igen senare."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_In_Progress",
+						"Text": "Synkronisering...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Main_Text",
+						"Text": "Välj skärmnamn som\\nBluetooth ljudkälla i\\ninfotainmentsystemet.\\nKontrollera volymen och\\nminska bakgrundsljud.\\nTryck på START när\\nsystemet är klart."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Headline",
+						"Text": "Observera"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Main_Text",
+						"Text": "{0}% av uppdateringsinstallationen klar.\\n\\nKontrollera att datorn är påslagen tills\\nuppdateringen är helt klar.\\n\\nSystemet kommer att återstarta\\nnär väl installationen är klar."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Main_Text",
+						"Text": "Programuppdatering tillgänglig nu.\\nInstallera nu?\\n\\nUnder installationen går systemet inte att använda."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Main_Text",
+						"Text": "Vill du installera eller ta bort uppdateringen?\\n\\nUnder installationen går systemet inte att använda."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Main_Text",
+						"Text": "Installation av programvara misslyckades.\\nVill försöka igen?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Main_Text",
+						"Text": "Installationen genomförd. Programmet är uppdaterat.\\n\\nVad som är nytt\\n- Allmänna bug-fixar och text uppdateringar\\n- Prestandaförbättring av {0} funktioner\\n- Ny funktion {1}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Headline",
+						"Text": "Språk (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Legal_Info_Headline",
+						"Text": "Legal information och integritetspolicy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "MCU_Version_Main_Text",
+						"Text": "MCU Version:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Max_Volume_Notification",
+						"Text": "Skärmvolymen är inställd på maximum.\\nÖka volymen i ditt infotainment system."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Memory_Usage_Main_Text",
+						"Text": "Minnesanvändning:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active",
+						"Text": "Avbryt nerladdning"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active_Preview",
+						"Text": "{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Crosslink",
+						"Text": "Välj &lt;span id=\\&quot;text_Highlight\\&quot;&gt;CROSSLINK&lt;/span&gt; för att se innehåll som för\\nnärvarande visas på en sidoskärm. Observera:\\nom du väljer Crosslink, när ljdudelning är aktiv,\\när ljud och volymkontroller inte tillgängliga."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_HDMI",
+						"Text": "Innehåll kan också spelas upp från en HDMI-källa\\nnär en kompatibel enhet anslutes. Observera: Om\\ninget innehåll spelas upp på HDMI-enheten när denna\\nhar valts, blir skärmen tom."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Input",
+						"Text": "Välj &lt;span id=\\&quot;text_Highlight\\&quot;&gt;WI-FI&lt;/span&gt; för att ansluta till ett Wi-Fi nätverk.\\nDetta gör det möjligt för dig att strömma innehåll\\ngenom externa leverantörer eller till en etablerad\\nanslutning med din enhet för att dela innehåll."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro",
+						"Text": "Bentley Entertainment System låter dig se och höra\\ninnehållet från din mobilenhet som är ansluten\\nvia Wi-Fi eller från en kompatibel enhet som är\\nansluten via HDMI eller USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_OTA",
+						"Text": "För att upptäcka nya funktioner och bug-fixar,\\nladda ner det senaste programmet från\\ninställningsmeny."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP1",
+						"Text": "Välj &lt;span id=\\&quot;text_Highlight\\&quot;&gt;BLUETOOTH&lt;/span&gt; för att ansluta Bluetooth hörlurar.\\n\\nLjud går även att få genom kabelasnlutna hörlurar."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP2",
+						"Text": "Välj &lt;span id=\\&quot;text_Highlight\\&quot;&gt;BLUETOOTH&lt;/span&gt; för att ansluta Bluetooth hörlurar\\neller tryck på knappen för ljuddelning för att skicka ljud\\ntill högtalarna i bilen. Ljud går även att få genom\\nkabelasnlutna hörlurar."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Source",
+						"Text": "Välj &lt;span id=\\&quot;text_Highlight\\&quot;&gt;KÄLLA&lt;/span&gt; för att välja önskat innehåll. Du kan avläsa\\ninnehållet från externa leverantörer genom att välja\\ntjänsten ur en förteckning som visas. Webbläsaren kan\\nockså återställas i den här menyn."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_USB",
+						"Text": "Media kan spelas upp genom en kompatibel enhet\\nsom är ansluten via USB när Bentley Entertainment\\nControl app används."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Install_Update",
+						"Text": "Instalera uppodatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_About_Us",
+						"Text": "Om oss"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Open_Source",
+						"Text": "Licens med öppen källkod"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Privacy_Policy",
+						"Text": "Integritetspolicy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Acoustic_Feedback",
+						"Text": "Akustisk feedback"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Audio_Sync",
+						"Text": "Ljud synkronisering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Brightness_Persistence",
+						"Text": "Spara inställningarna för ljusstyrka"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Connection_Assistant",
+						"Text": "Anslutningsassistent"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_IVI_Pairing",
+						"Text": "Anslutning till ljud-i-bilen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Language",
+						"Text": "Språk (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Legal_Info",
+						"Text": "Legal information och integritetspolicy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Off",
+						"Text": "Skärm av"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Timeout",
+						"Text": "Skärmtimeout"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Software",
+						"Text": "Programvara"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Volume_Persistence",
+						"Text": "Spara volyminställningarna"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Analytics",
+						"Text": "Analytsk feedback"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Reset",
+						"Text": "Återställ fabriksinställningar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update",
+						"Text": "Kontrollera ev. uppdateringar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update_Check",
+						"Text": "Kontrollera av uppdateringar..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Version",
+						"Text": "Programvaruinformation"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Network_Search_Main_Text",
+						"Text": "Sök..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Connection_Status",
+						"Text": "Inte ansluten"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Device_Status",
+						"Text": "Inte ansluten"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Devices_Main_Text",
+						"Text": "Inga enheter hittades"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Main_Text",
+						"Text": "Inga uppdateringar tillgängliga."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Bluetooth_Unavailable",
+						"Text": "Bluetoothär för närvarande inte tillgängligt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Brightness_Unavailable",
+						"Text": "Kontroller för ljusstyrka är för närvarande inte tillgäng"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Child_Lock_Unavailable",
+						"Text": "Barnlås är för närvarande inte tillgängt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Connecting",
+						"Text": "Ansluter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Crosslink_Unavailable",
+						"Text": "Crosslink är för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Error_Reconnect",
+						"Text": "Anslutning förlorad - Försöker att ansluta ..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Full_Screen_Unavailable",
+						"Text": "Helskärm är för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_HDMI_Unavailable",
+						"Text": "HDMIär för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Help_Unavailable",
+						"Text": "Användarguide är för närvarande inte tillgäng"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_IVI_Unavailable",
+						"Text": "Ljuddelning är för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Initialising",
+						"Text": "Initialiserar ..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Mute_Unavailable",
+						"Text": "Avstängningär för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_OTT_Unavailable",
+						"Text": "Externt innehåll är för närvarande inte tillgängt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Quick_Menu_Unavailable",
+						"Text": "Snabbmenyn är för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"Text": "Funktionen är för närvarande ej tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Screen_Unavailable",
+						"Text": "Skärmen är för närvarande inte tillgänglig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Temperature",
+						"Text": "Skärmtemperaturen för hötg. Systemet stängs av för att inte skadas."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Volume_Unavailable",
+						"Text": "Volymkontroller är för närvarande inte tillgänga"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_WiFi_Unavailable",
+						"Text": "Wi-Fi är för närvarande inte tillgängt"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Help_Text",
+						"Text": "Ange PIN-kod"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Main_Text",
+						"Text": "Ange PIN för din Bluetooth enhet."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Main_Text",
+						"Text": "Anslutning misslyckades.\\nFörsök igen senare."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Headline",
+						"Text": "Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
+						"Text": "Anslutning misslyckades.\\nKontrollera din PIN-kod."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Password_Speller_Help_Text",
+						"Text": "Ange lösenord"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Full_Screen",
+						"Text": "Fullskärm"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Help",
+						"Text": "Användarguide"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Screen_Off",
+						"Text": "Skärm av"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Settings",
+						"Text": "Inställningar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Source",
+						"Text": "Källa"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "RSE_Version_Main_Text",
+						"Text": "RSE Version:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_Crosslink_Notification",
+						"Text": "Källan ändrad - crosslink aktiv"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_HDMI_Notification",
+						"Text": "Källan ändrad - HDMI aktiv"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Rename_Device_Headline",
+						"Text": "Byt namn på enhet"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Headline",
+						"Text": "Återställ webbläsare"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Main_Text",
+						"Text": "Är du säker på att du vill återställa webbläsaren?\\nAll kontoinformation kommer att gå förlorad\\noch du behöver logga in på nytt."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Run_Time_Main_Text",
+						"Text": "Körtid:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Off_Notification",
+						"Text": "Knacka på rutan för att slå på"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Timeout_Headline",
+						"Text": "Skärmtimeout"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Settings_Headline",
+						"Text": "Inställningar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Shutting_Down_Notification",
+						"Text": "Systemet stängs av..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Headline",
+						"Text": "Återställ fabriksinställningar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Main_Text",
+						"Text": "Om du fortsätter, kommer systemet att återgå till\\nfabriksinställningarna. Alla individuella inställningar\\ninklusive sparade nätverk, Bluetooth enheter och\\nlösenord kommer att raderas. Det är inte möjligt\\natt ångra denna process.\\nÄr du säker på att du vill återställa?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Headline",
+						"Text": "Återställ fabriksinställningar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Main_Text",
+						"Text": "Fabriksinställningarna har återställts. Systemet\\nkommer att återstarta inom kort."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Update_Headline",
+						"Text": "Programvara"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Headline",
+						"Text": "Programvaruinformation"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Main_Text",
+						"Text": "Programvaruversion"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Device_Menu_Text",
+						"Text": "Innehåll från din enhet"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_HDMI_Menu_Text",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Headline",
+						"Text": "Källa"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Netflix_Menu_Text",
+						"Text": "Netflix"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Screensaver_Menu_Text",
+						"Text": "Skärmsläckare"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_1",
+						"Text": "Aldrig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_2",
+						"Text": "30 sekunder"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_3",
+						"Text": "1 minut"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_4",
+						"Text": "5 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_5",
+						"Text": "10 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_6",
+						"Text": "30 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_1",
+						"Text": "Aldrig"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_2",
+						"Text": "30 sekunder"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_3",
+						"Text": "1 minut"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_4",
+						"Text": "5 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_5",
+						"Text": "10 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_6",
+						"Text": "30 minuter"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Main_Text",
+						"Text": "Programuppdatering tillgänglig med följande ändringar:\\n\\n- Nya och/eller förbättrade funktioner\\n- Allmänna bug-fixar\\n- Förbättrad användbarhet, stabilitet och säkerhet\\n\\nVersion: {0} Storlek: {1} MB\\n\\nDownload kan ta flera minuter beroende på din\\nanslutningshastighet. Vill du ladda ner nu?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Headline",
+						"Text": "Programvaruuppdatering"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Main_Text",
+						"Text": "Kan inte kontroller uppdateringar.\\nFörsök igen senare."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Headline",
+						"Text": "Observera"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_PL",
+						"Text": "Bentley Entertainment System\\nstänger av om {0} sekunder.\\nTryck OK för att förlänga."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_SG",
+						"Text": "Bentley Entertainment System\\nstänger av om {0} sekunder.\\nTryck OK för att förlänga."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Wi-Fi_Status",
+						"Text": "WI-FI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "WiFi_Headline",
+						"Text": "Wi-Fi"
+					}
+				}
+			]
+		}
+	]
+}

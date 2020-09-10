@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LangDef langCode="0406" xsi:noNamespaceSchemaLocation="HMILinguist_Texts.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <LangID ID="Assigned_Location_Left" Text="Venstre"/>
+    <LangID ID="Assigned_Location_Main_Text" Text="Befinder sig her:"/>
+    <LangID ID="Assigned_Location_None" Text="Ingen"/>
+    <LangID ID="Assigned_Location_Right" Text="Højre"/>
+    <LangID ID="Audio_Sync_Headline" Text="Audio synkronisering"/>
+    <LangID ID="Audio_Sync_Main_Text" Text="Manuel justering"/>
+    <LangID ID="BTN_Cancel" Text="Annuller"/>
+    <LangID ID="BTN_DELETE" Text="Slet"/>
+    <LangID ID="BTN_INSTALL" Text="Installér"/>
+    <LangID ID="BTN_LATER" Text="Sen"/>
+    <LangID ID="BTN_Left" Text="Venstre"/>
+    <LangID ID="BTN_NO" Text="Nej"/>
+    <LangID ID="BTN_OK" Text="OK"/>
+    <LangID ID="BTN_RETRY" Text="Igen"/>
+    <LangID ID="BTN_Right" Text="Højre"/>
+    <LangID ID="BTN_SAVE" Text="Gem"/>
+    <LangID ID="BTN_START" Text="START"/>
+    <LangID ID="BTN_YES" Text="Ja"/>
+    <LangID ID="BT_Name_Main_Text" Text="Bluetooth-navn:"/>
+    <LangID ID="Blocked_Browser_Headline" Text="Fjernlink"/>
+    <LangID ID="Blocked_Browser_Main_Text" Text="Scan QR-koden for visning på dit apparat:"/>
+    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Audio synkronisering færdig."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Audio synkronisering slog fejl.\nPrøv venligst igen senere."/>
+    <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Audio synkronisering"/>
+    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Synkroniserer...\n{0}%"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Hold høretelefoner tæt på\nmikrofon på skærmen\nog tryk start.\nAudio stumstilles under\nsynkroniseringsprocessen."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Parre nye høretelefoner?\nHøretelefoner skal være i parringsmodus."/>
+    <LangID ID="Cancel_Download_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Cancel_Download_Main_Text" Text="Er du sikker på, at du\nvil afbryde downloaden?"/>
+    <LangID ID="Checkbox_Text" Text="Vis ikke igen"/>
+    <LangID ID="Child_Lock_Activated_Notification" Text="Børnelås er blevet tændt"/>
+    <LangID ID="Child_Lock_Active_Notification" Text="Børnelås er tændt"/>
+    <LangID ID="Child_Lock_Deactivated_Notification" Text="Børnelås er blevet slukket"/>
+    <LangID ID="Connection_Assistant_1_Headline" Text="Forbindelsesassistent 1 af 2"/>
+    <LangID ID="Connection_Assistant_2_Headline" Text="Forbindelsesassistent 2 af 2"/>
+    <LangID ID="Connection_Assistant_Headline" Text="Forbindelsesassistent"/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="Eller tryk på power knappen forneden\nfor at åbne kvikmenuen."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Scan QR-koden for at forbinde med\nskærmen via Wi-Fi:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Tryk på power knappen forneden og vælg\nWi-Fi for at vælge et til rådighed stående netværk."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Sørg for at dit apparat og denne skærm er på\ndet samme netværk for at streame medier."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Scan QR-koden for at forbinde:\n{0}"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Scan QR-koden for app'en eller\nfor andre forbindelsesmuligheder."/>
+    <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Main_Text" Text="Der kunne ikke etableres\nen netværksforbindelse."/>
+    <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Password_Main_Text" Text="Forbindelsen mislykkedes.\nKontrollér venligst dit kodeord."/>
+    <LangID ID="Crosslink_Headline" Text="Krydslink opsætning"/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="En krysdlink parringsproces er blevet startet."/>
+    <LangID ID="Crosslink_Host_SSID_Text" Text="SSID: {0}"/>
+    <LangID ID="Crosslink_Host_Waiting_Text" Text="Vent venligst..."/>
+    <LangID ID="Crosslink_Pairing_Name_Text" Text="Skærmnavn: {0}"/>
+    <LangID ID="Crosslink_Pairing_Successful_Text" Text="Krydslink opsætning lykkedes."/>
+    <LangID ID="Crosslink_Pairing_Text" Text="parrer..."/>
+    <LangID ID="Crosslink_Screen_Main_Text" Text="Vælg venligst den side af køretøjet,\nsom du vil tilordne til denne skærm."/>
+    <LangID ID="Crosslink_Searching_Text" Text="Søgning..."/>
+    <LangID ID="Delete_Device_Main_Text" Text="Er du sikker på, at du ønsker?"/>
+    <LangID ID="Delete_Install_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Delete_Install_Main_Text" Text="Er du sikker på, at du\nvil slette software updaten?"/>
+    <LangID ID="Delete_Network_Main_Text" Text="Er du sikker på, at du vil slette dette netværk?"/>
+    <LangID ID="Device_Search_Menu_Text" Text="Søgning..."/>
+    <LangID ID="Download_Failed_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Download_Failed_Main_Text" Text="Software download slog fejl.\nVil du prøve igen?"/>
+    <LangID ID="Help_Headline" Text="Brugervejledning"/>
+    <LangID ID="IP_Address_Main_Text" Text="IP adresse:"/>
+    <LangID ID="IVI_Active_Status" Text="Audio output til bil"/>
+    <LangID ID="IVI_Delete_Confirm" Text="Er du sikker på, at du vil slette\n{0}?\nBemærk: audio output til bilens højtalere\nstår så ikke mere til rådighed."/>
+    <LangID ID="IVI_Headline" Text="Audio output til bil"/>
+    <LangID ID="IVI_Main_Text" Text="Vælg venligst skrærmnavnet som Bluetooth\naudio kilden på infotainment systemet.\nMaksimal lydstyrke bestemmes af\ninfotainment master lydstyrke."/>
+    <LangID ID="IVI_Pairing_Failed" Text="Parring mislykkedes.\nPrøv venligst igen senere."/>
+    <LangID ID="IVI_Pairing_Headline" Text="Forbindelse til bilens audio"/>
+    <LangID ID="IVI_Pairing_In_Progress" Text="parrer..."/>
+    <LangID ID="IVI_Pairing_Search" Text="Søgning..."/>
+    <LangID ID="IVI_Sync_Complete" Text="Audio synkronisering færdig."/>
+    <LangID ID="IVI_Sync_Error" Text="Der er sket en fejl.\nKan ikke synkronisere audio.\nPrøv venligst igen senere."/>
+    <LangID ID="IVI_Sync_In_Progress" Text="Synkroniserer...\n{0}%"/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Vælg skærmnavnet som\nBluetooth audio kilde på\ninfotainment systemet.\nKontrollér lydstyrken og\nreducér baggrundslarm.\nTryk START når\nsystemet er parat."/>
+    <LangID ID="Install_Active_Headline" Text="Bemærk"/>
+    <LangID ID="Install_Active_Main_Text" Text="Installerer opdatering\n{0}% færdig.\n\nVær sikker på, at køretøjet forbliver tændt,\nindtil updaten er færdig.\n\nSystemet genstarter,\nnår installationen er færdig."/>
+    <LangID ID="Install_Available_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Install_Available_Main_Text" Text="Der er en software installation til rådighed.\nVil du downloade nu?\n\nUnder systemupdate kan systemet ikke betjenes."/>
+    <LangID ID="Install_Delete_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Install_Delete_Main_Text" Text="Vil du installere eller slette opdateringen?\n\nUnder systemupdate kan systemet ikke betjenes."/>
+    <LangID ID="Install_Failed_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Install_Failed_Main_Text" Text="Software installering slog fejl.\nVil du prøve igen?"/>
+    <LangID ID="Install_Successful_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Install_Successful_Main_Text" Text="Installering lykkedes. Software opdateret.\nHvad der er nyt\n- Generelle reparationer af bugs og opdateringer\naf tekst\n- Bedre performance af {0} funktion\n- Ny funktion {1}"/>
+    <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Czech" Text="Čeština"/>
+    <LangID ID="Language_Danish" Text="Dansk"/>
+    <LangID ID="Language_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_French" Text="Français"/>
+    <LangID ID="Language_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_German" Text="Deutsch"/>
+    <LangID ID="Language_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Headline" Text="Sprog (Language)"/>
+    <LangID ID="Language_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Italian" Text="Italiano"/>
+    <LangID ID="Language_Japanese" Text="日本語"/>
+    <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Polish" Text="Polski"/>
+    <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Czech" Text="Čeština"/>
+    <LangID ID="Language_Preview_Danish" Text="Dansk"/>
+    <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_French" Text="Français"/>
+    <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_Preview_German" Text="Deutsch"/>
+    <LangID ID="Language_Preview_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Preview_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Preview_Italian" Text="Italiano"/>
+    <LangID ID="Language_Preview_Japanese" Text="日本語"/>
+    <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Preview_Polish" Text="Polski"/>
+    <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Preview_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Romanian" Text="Română"/>
+    <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Spanish" Text="Español"/>
+    <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Romanian" Text="Română"/>
+    <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Spanish" Text="Español"/>
+    <LangID ID="Language_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Legal_Info_Headline" Text="Juridiske informationer"/>
+    <LangID ID="MCU_Version_Main_Text" Text="MCU Version:"/>
+    <LangID ID="Max_Volume_Notification" Text="Skræmens lydstyrke sat til maksimum.\nForøg dit infotainment systems lydstyrke."/>
+    <LangID ID="Memory_Usage_Main_Text" Text="Brug af hukommelse:"/>
+    <LangID ID="Menu_Download_Active" Text="Afbryd download"/>
+    <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
+    <LangID ID="Menu_Help_Crosslink" Text="Vælg &lt;span id=\&quot;text_Highlight\&quot;&gt;KRYDSLINK&lt;/span&gt; for at se momentant vist indhold\npå ledsagerskærmen. Bemærk: ved valg af krydslink,\nnår audiodeling er aktivt, står kontroller over\naudio og lydstyrke ikke til rådighed."/>
+    <LangID ID="Menu_Help_HDMI" Text="Indhold kan spilles fra en HDMI kilde,\nnår et kompatibelt apparat er forbundet.\nBemærk: hvis der ikke afspilles indhold fra HDMI\napparatet når valgt, så er skrærmen tom."/>
+    <LangID ID="Menu_Help_Input" Text="Vælg &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; for at forbinde med et Wi-Fi netværk.\nDet gør, at du kan streame indhold igennem eksterne\nudbydere eller at du kan oprette forbindelse med dit\napparat for at dele indhold."/>
+    <LangID ID="Menu_Help_Intro" Text="Bentleys Underholdningssystem gør at du kan se\nog høre indhold fra dit forbundne mobile apparat\nvia Wi-Fi eller fra et kompatibelt forbundet apparat\nvia HDMI eller USB."/>
+    <LangID ID="Menu_Help_OTA" Text="Download den seneste software fra indstillingsmenuen\nfor at opdage nye features og reparationer af bugs."/>
+    <LangID ID="Menu_Help_Output_SOP1" Text="Vælg &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; for at forbinde Bluetooth\nhøretelefoner.\n\nAudio kan også høres via høretelefoner med kabel."/>
+    <LangID ID="Menu_Help_Output_SOP2" Text="Vælg &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; for at forbinde Bluetooth\nhøretelefoner eller tryk på knappen for audio\ndeling for at sende audio output til bilens højtalere.\nAudio kan også høres via høretelefoner med kabel."/>
+    <LangID ID="Menu_Help_Source" Text="Vælg &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt; for at vælge dit ønskede indhold.\nDu kan se indhold fra eksterne udbydere\nved at vælge servicen fra den viste liste.\nBrowseren kan også nulstilles i denne menu."/>
+    <LangID ID="Menu_Help_USB" Text="Medier kan afspilles via et kompatibelt apparat\nforbundet via USB ved brug af\nBentleys app for kontrol af underholdning."/>
+    <LangID ID="Menu_Install_Update" Text="Installér update"/>
+    <LangID ID="Menu_Legal_About_Us" Text="Om os"/>
+    <LangID ID="Menu_Legal_Open_Source" Text="Info til Open Source Disclaimer"/>
+    <LangID ID="Menu_Legal_Privacy_Policy" Text="Databeskyttelsespolitik"/>
+    <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Akustisk feedback"/>
+    <LangID ID="Menu_Settings_Audio_Sync" Text="Audio synkronisering"/>
+    <LangID ID="Menu_Settings_Brightness_Persistence" Text="Gem indstillinger for lysstyrke"/>
+    <LangID ID="Menu_Settings_Connection_Assistant" Text="Forbindelsesassistent"/>
+    <LangID ID="Menu_Settings_IVI_Pairing" Text="Forbindelse til bilens audio"/>
+    <LangID ID="Menu_Settings_Language" Text="Sprog (Language)"/>
+    <LangID ID="Menu_Settings_Legal_Info" Text="Juridiske informationer"/>
+    <LangID ID="Menu_Settings_Screen_Off" Text="Sluk skærm"/>
+    <LangID ID="Menu_Settings_Screen_Timeout" Text="Skærmens timeout"/>
+    <LangID ID="Menu_Settings_Software" Text="Software"/>
+    <LangID ID="Menu_Settings_Volume_Persistence" Text="Gem indstillinger for lydstyrke"/>
+    <LangID ID="Menu_Software_Analytics" Text="Analytisk feedback"/>
+    <LangID ID="Menu_Software_Reset" Text="Gendan fabriksindstillinger"/>
+    <LangID ID="Menu_Software_Update" Text="Tjek for updates"/>
+    <LangID ID="Menu_Software_Update_Check" Text="Tjekker for updates..."/>
+    <LangID ID="Menu_Software_Version" Text="Softwareinformationer"/>
+    <LangID ID="Network_Search_Main_Text" Text="Søgning..."/>
+    <LangID ID="No_Connection_Status" Text="Ikke forbundet"/>
+    <LangID ID="No_Device_Status" Text="Ikke forbundet"/>
+    <LangID ID="No_Devices_Main_Text" Text="Ingen enheder fundet"/>
+    <LangID ID="No_Updates_Headline" Text="Softwareopdatering"/>
+    <LangID ID="No_Updates_Main_Text" Text="Ingen opdateringer tilgængelige."/>
+    <LangID ID="Notification_Bluetooth_Unavailable" Text="Bluetooth står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Brightness_Unavailable" Text="Lysstyrkekontroller står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Child_Lock_Unavailable" Text="Børnelås står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Connecting" Text="Forbinder..."/>
+    <LangID ID="Notification_Crosslink_Unavailable" Text="Krydslink står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Error_Reconnect" Text="Forbindelse mistet. Forsøg på genforbindelse..."/>
+    <LangID ID="Notification_Full_Screen_Unavailable" Text="Fuld skærm modus står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_HDMI_Unavailable" Text="HDMI står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Help_Unavailable" Text="Brugervejledning står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_IVI_Unavailable" Text="Audio deling står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Initialising" Text="Starter..."/>
+    <LangID ID="Notification_Mute_Unavailable" Text="Funktionen stum står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_OTT_Unavailable" Text="Ekstern udbyder af indhold står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Quick_Menu_Unavailable" Text="Kvikmenu står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="Funktion p.t. ikke tilgængelig"/>
+    <LangID ID="Notification_Screen_Unavailable" Text="Skærm står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_Temperature" Text="Skærmtemperatur er for høj. Systemet\nslukkes snart for at undgå skader.."/>
+    <LangID ID="Notification_Volume_Unavailable" Text="Lydstyrkekontroller står p.t. ikke til rådighed"/>
+    <LangID ID="Notification_WiFi_Unavailable" Text="Wi-Fi står p.t. ikke til rådighed"/>
+    <LangID ID="PIN_Entry_Help_Text" Text="Angiv pinkode"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Indtast venligst\nPIN til dit\nBluetooth apparat."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Main_Text" Text="Forbindelsen mislykkedes.\nPrøv venligst igen senere."/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Forbindelsen mislykkedes.\nKontrollér venligst din PIN."/>
+    <LangID ID="Password_Speller_Help_Text" Text="Angiv adgangskode"/>
+    <LangID ID="Quick_Menu_Full_Screen" Text="Fuld skærm"/>
+    <LangID ID="Quick_Menu_Help" Text="Brugervejledning"/>
+    <LangID ID="Quick_Menu_Screen_Off" Text="Sluk skærm"/>
+    <LangID ID="Quick_Menu_Settings" Text="Indstillinger"/>
+    <LangID ID="Quick_Menu_Source" Text="Kilde"/>
+    <LangID ID="RSE_Version_Main_Text" Text="RSE Version:"/>
+    <LangID ID="Remote_Crosslink_Notification" Text="Kilde er ændret - krydslink er tændt"/>
+    <LangID ID="Remote_HDMI_Notification" Text="Kilde er ændret - HDMI er tændt"/>
+    <LangID ID="Rename_Device_Headline" Text="Giv apparat et nyt navn"/>
+    <LangID ID="Reset_Browser_Headline" Text="Nulstil browser"/>
+    <LangID ID="Reset_Browser_Main_Text" Text="Er du sikker på, at du vil nulstille browseren?\nAlle kontoinformationer mistes\nog du er nødt til at logge ind igen."/>
+    <LangID ID="Run_Time_Main_Text" Text="Aktiv tid:"/>
+    <LangID ID="Screen_Off_Notification" Text="Rør venligst skærmen for at aktivere"/>
+    <LangID ID="Screen_Timeout_Headline" Text="Skærmens timeout"/>
+    <LangID ID="Settings_Headline" Text="Indstillinger"/>
+    <LangID ID="Shutting_Down_Notification" Text="Systemet lukker ned..."/>
+    <LangID ID="Software_Reset_Headline" Text="Gendan fabriksindstillinger"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Hvis du fortsætter, så nulstilles systemet til\nfabriksindstillingerne. Alle individuelle indstillinger\ninklusiv gemte netværk, Bluetooth apparater og\nkodeord bliver slettet. Det er ikke muligt at fortryde\ndenne proces. Er du sikker på, at du vil nulstille?"/>
+    <LangID ID="Software_Reset_Successful_Headline" Text="Gendan fabriksindstillinger"/>
+    <LangID ID="Software_Reset_Successful_Main_Text" Text="Fabriksindstillinger er blevet genskabt.\nSystemet genstarter om lidt."/>
+    <LangID ID="Software_Update_Headline" Text="Software"/>
+    <LangID ID="Software_Version_Headline" Text="Softwareinformationer"/>
+    <LangID ID="Software_Version_Main_Text" Text="Software-version"/>
+    <LangID ID="Source_Device_Menu_Text" Text="Indhold fra dit apparat"/>
+    <LangID ID="Source_HDMI_Menu_Text" Text="HDMI"/>
+    <LangID ID="Source_Headline" Text="Kilde"/>
+    <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
+    <LangID ID="Source_Screensaver_Menu_Text" Text="Pauseskærm"/>
+    <LangID ID="Timeout_Option_1" Text="Aldrig"/>
+    <LangID ID="Timeout_Option_2" Text="30 sekunder"/>
+    <LangID ID="Timeout_Option_3" Text="1 minut"/>
+    <LangID ID="Timeout_Option_4" Text="5 minutter"/>
+    <LangID ID="Timeout_Option_5" Text="10 minutter"/>
+    <LangID ID="Timeout_Option_6" Text="30 minutter"/>
+    <LangID ID="Timeout_Preview_Option_1" Text="Aldrig"/>
+    <LangID ID="Timeout_Preview_Option_2" Text="30 sekunder"/>
+    <LangID ID="Timeout_Preview_Option_3" Text="1 minut"/>
+    <LangID ID="Timeout_Preview_Option_4" Text="5 minutter"/>
+    <LangID ID="Timeout_Preview_Option_5" Text="10 minutter"/>
+    <LangID ID="Timeout_Preview_Option_6" Text="30 minutter"/>
+    <LangID ID="Update_Available_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Update_Available_Main_Text" Text="Der er en softwareopdatering:\n\n- Nye og/eller udvidede features\n- Generelle reparationer af bugs\n- Forbedringer af stabilitet og sikkerhed\n\nVersion: {0} Størrelse: {1} MB\n\nAfhængig af din forbindelseshastighed kan det\ntage flere minutter. Vil du gerne downloade nu?"/>
+    <LangID ID="Update_Unavailable_Headline" Text="Softwareopdatering"/>
+    <LangID ID="Update_Unavailable_Main_Text" Text="Kan ikke tjekke for opdateringer.\nPrøv venligst igen senere."/>
+    <LangID ID="Use_Extension_Headline" Text="Bemærk"/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Bentleys Underholdningssystem\nlukkes om {0} sekunder.\nTryk OK for at forlænge brug."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Bentleys Underholdningssystem\nlukkes om {0} sekunder.\nTryk OK for at forlænge brug."/>
+    <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
+    <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
+</LangDef>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LangDef langCode="0404" xsi:noNamespaceSchemaLocation="HMILinguist_Texts.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <LangID ID="Assigned_Location_Left" Text="左"/>
+    <LangID ID="Assigned_Location_Main_Text" Text="分配位置："/>
+    <LangID ID="Assigned_Location_None" Text="無"/>
+    <LangID ID="Assigned_Location_Right" Text="右"/>
+    <LangID ID="Audio_Sync_Headline" Text="音訊同步"/>
+    <LangID ID="Audio_Sync_Main_Text" Text="手動調整"/>
+    <LangID ID="BTN_Cancel" Text="取消"/>
+    <LangID ID="BTN_DELETE" Text="刪除"/>
+    <LangID ID="BTN_INSTALL" Text="安裝"/>
+    <LangID ID="BTN_LATER" Text="稍後"/>
+    <LangID ID="BTN_Left" Text="左側"/>
+    <LangID ID="BTN_NO" Text="否"/>
+    <LangID ID="BTN_OK" Text="確定"/>
+    <LangID ID="BTN_RETRY" Text="重試"/>
+    <LangID ID="BTN_Right" Text="右側"/>
+    <LangID ID="BTN_SAVE" Text="儲存"/>
+    <LangID ID="BTN_START" Text="開始"/>
+    <LangID ID="BTN_YES" Text="是"/>
+    <LangID ID="BT_Name_Main_Text" Text="藍牙名稱:"/>
+    <LangID ID="Blocked_Browser_Headline" Text="遠端連結"/>
+    <LangID ID="Blocked_Browser_Main_Text" Text="掃描 QR 碼以檢視您的裝置："/>
+    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="音訊同步完成。"/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="音訊同步失敗。\n請稍後再試。"/>
+    <LangID ID="Bluetooth_Audio_Sync_Headline" Text="音訊同步"/>
+    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="同步中...\n{0}%"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="使耳機靠近\n螢幕上的麥克風\n並按 [開始]。\n音訊在同步過程中\n將會靜音。"/>
+    <LangID ID="Bluetooth_Headline" Text="藍牙"/>
+    <LangID ID="Bluetooth_Status" Text="藍牙"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="配對新耳機？\n耳機必須處於配對模式。"/>
+    <LangID ID="Cancel_Download_Headline" Text="軟體更新"/>
+    <LangID ID="Cancel_Download_Main_Text" Text="確定要取消\n下載？"/>
+    <LangID ID="Checkbox_Text" Text="不再顯示"/>
+    <LangID ID="Child_Lock_Activated_Notification" Text="童鎖已啟動"/>
+    <LangID ID="Child_Lock_Active_Notification" Text="童鎖作用中"/>
+    <LangID ID="Child_Lock_Deactivated_Notification" Text="童鎖已停用"/>
+    <LangID ID="Connection_Assistant_1_Headline" Text="連線助理 1/2"/>
+    <LangID ID="Connection_Assistant_2_Headline" Text="連線助理 2/2"/>
+    <LangID ID="Connection_Assistant_Headline" Text="連線助理"/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="或按下面的電源按鈕\n以開啟快速功能表。"/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="掃描 QR 碼以透過\nWi-Fi 連線至螢幕："/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="請按下方電源按鈕，然後選擇Wi-Fi，\n以選取可用網路。"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="確保您的設備與螢幕連接於同一網路以串流媒體。"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="掃描二維條碼以連接：\n{0}"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="掃描二維條碼，獲取應用程式，\n或其他連接選項。"/>
+    <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Main_Text" Text="無法建立網路連線。"/>
+    <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
+    <LangID ID="Connection_Failed_Password_Main_Text" Text="連線失敗。\n請檢查您的密碼。"/>
+    <LangID ID="Crosslink_Headline" Text="交叉連結設定"/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="交叉連結配對程序已開始。"/>
+    <LangID ID="Crosslink_Host_SSID_Text" Text="SSID：{0}"/>
+    <LangID ID="Crosslink_Host_Waiting_Text" Text="請稍候..."/>
+    <LangID ID="Crosslink_Pairing_Name_Text" Text="螢幕名稱：{0}"/>
+    <LangID ID="Crosslink_Pairing_Successful_Text" Text="交叉連結設定成功。"/>
+    <LangID ID="Crosslink_Pairing_Text" Text="配對中..."/>
+    <LangID ID="Crosslink_Screen_Main_Text" Text="請選擇您要指派至此螢幕的車輛側。"/>
+    <LangID ID="Crosslink_Searching_Text" Text="正在搜尋..."/>
+    <LangID ID="Delete_Device_Main_Text" Text="確定要刪除這些檔案嗎？"/>
+    <LangID ID="Delete_Install_Headline" Text="軟體更新"/>
+    <LangID ID="Delete_Install_Main_Text" Text="確定要刪除軟體更新嗎？"/>
+    <LangID ID="Delete_Network_Main_Text" Text="確定要刪除此網路？"/>
+    <LangID ID="Device_Search_Menu_Text" Text="正在搜尋..."/>
+    <LangID ID="Download_Failed_Headline" Text="軟體更新"/>
+    <LangID ID="Download_Failed_Main_Text" Text="軟體下載失敗。\n要重試嗎？"/>
+    <LangID ID="Help_Headline" Text="使用者指南"/>
+    <LangID ID="IP_Address_Main_Text" Text="IP地址："/>
+    <LangID ID="IVI_Active_Status" Text="音訊輸出至汽車"/>
+    <LangID ID="IVI_Delete_Confirm" Text="確定要刪除\n{0} 嗎？\n附註：音訊輸出至汽車喇叭不再可用。"/>
+    <LangID ID="IVI_Headline" Text="音訊輸出至汽車"/>
+    <LangID ID="IVI_Main_Text" Text="請選擇螢幕名稱作為視聽娛樂系統上的音訊來源。\n最大值由視聽娛樂系統的主控音量確定。"/>
+    <LangID ID="IVI_Pairing_Failed" Text="配對失敗。\n請稍後再試。"/>
+    <LangID ID="IVI_Pairing_Headline" Text="連接至車載音訊"/>
+    <LangID ID="IVI_Pairing_In_Progress" Text="配對中..."/>
+    <LangID ID="IVI_Pairing_Search" Text="正在搜尋..."/>
+    <LangID ID="IVI_Sync_Complete" Text="音訊同步完成。"/>
+    <LangID ID="IVI_Sync_Error" Text="發生錯誤。\n無法同步音訊。\n請稍後再試。"/>
+    <LangID ID="IVI_Sync_In_Progress" Text="同步中...\n{0}%"/>
+    <LangID ID="IVI_Sync_Main_Text" Text="選擇螢幕名稱作為\n視聽娛樂系統上的\n藍牙音訊來源。\n檢查音量並\n減少背景雜訊。\n在系統就緒時\n按 [開始]。"/>
+    <LangID ID="Install_Active_Headline" Text="訊息"/>
+    <LangID ID="Install_Active_Main_Text" Text="正在安裝更新\n{0}% 完成。\n\n請確保車輛開啟，直到更新完成。\n\n系統在安裝完成後將會重啟。"/>
+    <LangID ID="Install_Available_Headline" Text="軟體更新"/>
+    <LangID ID="Install_Available_Main_Text" Text="軟體安裝可用。\n要立即安裝嗎？\n\n在更新過程中，將無法操作系統。"/>
+    <LangID ID="Install_Delete_Headline" Text="軟體更新"/>
+    <LangID ID="Install_Delete_Main_Text" Text="要安裝或刪除更新嗎？\n\n在更新過程中，將無法操作系統。"/>
+    <LangID ID="Install_Failed_Headline" Text="軟體更新"/>
+    <LangID ID="Install_Failed_Main_Text" Text="軟體更新失敗。\n要重試嗎？"/>
+    <LangID ID="Install_Successful_Headline" Text="軟體更新"/>
+    <LangID ID="Install_Successful_Main_Text" Text="安裝成功。軟體已更新。\n\n新增內容\n- 一般錯誤修復和文本更新\n- 性能增強{0}功能\n- 新功能{1}"/>
+    <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Czech" Text="Čeština"/>
+    <LangID ID="Language_Danish" Text="Dansk"/>
+    <LangID ID="Language_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_French" Text="Français"/>
+    <LangID ID="Language_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_German" Text="Deutsch"/>
+    <LangID ID="Language_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Headline" Text="語言 (Language)"/>
+    <LangID ID="Language_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Italian" Text="Italiano"/>
+    <LangID ID="Language_Japanese" Text="日本語"/>
+    <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Polish" Text="Polski"/>
+    <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Czech" Text="Čeština"/>
+    <LangID ID="Language_Preview_Danish" Text="Dansk"/>
+    <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_French" Text="Français"/>
+    <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_Preview_German" Text="Deutsch"/>
+    <LangID ID="Language_Preview_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Preview_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Preview_Italian" Text="Italiano"/>
+    <LangID ID="Language_Preview_Japanese" Text="日本語"/>
+    <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Preview_Polish" Text="Polski"/>
+    <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Preview_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Romanian" Text="Română"/>
+    <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Spanish" Text="Español"/>
+    <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Romanian" Text="Română"/>
+    <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Spanish" Text="Español"/>
+    <LangID ID="Language_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Legal_Info_Headline" Text="法律資訊和隱私政策"/>
+    <LangID ID="MCU_Version_Main_Text" Text="MCU 版本:"/>
+    <LangID ID="Max_Volume_Notification" Text="螢幕音量設定為最大值。\n增大您的視聽娛樂系統音量。"/>
+    <LangID ID="Memory_Usage_Main_Text" Text="記憶體使用量："/>
+    <LangID ID="Menu_Download_Active" Text="取消下載"/>
+    <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
+    <LangID ID="Menu_Help_Crosslink" Text="選擇 &lt;span id=\&quot;text_Highlight\&quot;&gt;[交叉連結]&lt;/span&gt; 可檢視隨附螢幕上\n目前顯示的內容。附註：如果\n在使用音訊分享時選擇交叉連結，\n則音訊與音量控制無法使用。"/>
+    <LangID ID="Menu_Help_HDMI" Text="連線了相容裝置時，可從 HDMI 來源\n播放內容。\n附註：如果選擇時 HDMI 裝置上未播放\n內容，則螢幕顯示空白。"/>
+    <LangID ID="Menu_Help_Input" Text="選擇&lt;span id=\&quot;text_Highlight\&quot;&gt;[WI-FI]&lt;/span&gt;以連線至 Wi-Fi 網路。\n這可讓您透過外部供應商\n串流內容，或者與您的裝置建立\n連線以分享內容。"/>
+    <LangID ID="Menu_Help_Intro" Text="Bentley Entertainment System 可讓您檢視\n並聆聽透過 Wi-Fi 連線的行動裝置\n或者透過 HDMI 或 USB 連線的相容裝置\n中的內容。"/>
+    <LangID ID="Menu_Help_OTA" Text="如需查找新功能和錯誤修復，\n請從設定菜單下載最新軟體。"/>
+    <LangID ID="Menu_Help_Output_SOP1" Text="選擇 &lt;span id=\&quot;text_Highlight\&quot;&gt;[藍牙]&lt;/span&gt; 以連線藍牙耳機。\n\n音訊亦可透過有線耳機使用。"/>
+    <LangID ID="Menu_Help_Output_SOP2" Text="選擇 &lt;span id=\&quot;text_Highlight\&quot;&gt;[藍牙]&lt;/span&gt; 以連線藍牙耳機\n或者按下音訊分享按鈕以\n傳送音訊輸出至汽車喇叭。\n音訊亦可透過有線耳機使用。"/>
+    <LangID ID="Menu_Help_Source" Text="選擇 &lt;span id=\&quot;text_Highlight\&quot;&gt;[來源]&lt;/span&gt; 以選擇您想要的內容。\n您可以從顯示的清單中選擇服務，\n以檢視來自外部供應商的內容。\n亦可在此功能表中重設瀏覽器。"/>
+    <LangID ID="Menu_Help_USB" Text="在使用 Bentley Entertainment Control\napp 時，可透過 USB 從相容的\n裝置播放媒體。"/>
+    <LangID ID="Menu_Install_Update" Text="安裝更新"/>
+    <LangID ID="Menu_Legal_About_Us" Text="關於我們"/>
+    <LangID ID="Menu_Legal_Open_Source" Text="開放原始碼授權"/>
+    <LangID ID="Menu_Legal_Privacy_Policy" Text="隱私政策"/>
+    <LangID ID="Menu_Settings_Acoustic_Feedback" Text="聽覺回饋"/>
+    <LangID ID="Menu_Settings_Audio_Sync" Text="音訊同步"/>
+    <LangID ID="Menu_Settings_Brightness_Persistence" Text="儲存亮度設定"/>
+    <LangID ID="Menu_Settings_Connection_Assistant" Text="連線助理"/>
+    <LangID ID="Menu_Settings_IVI_Pairing" Text="連接至車載音訊"/>
+    <LangID ID="Menu_Settings_Language" Text="語言 (Language)"/>
+    <LangID ID="Menu_Settings_Legal_Info" Text="法律資訊和隱私政策"/>
+    <LangID ID="Menu_Settings_Screen_Off" Text="關閉螢幕"/>
+    <LangID ID="Menu_Settings_Screen_Timeout" Text="螢幕逾時"/>
+    <LangID ID="Menu_Settings_Software" Text="軟體"/>
+    <LangID ID="Menu_Settings_Volume_Persistence" Text="儲存音量設定"/>
+    <LangID ID="Menu_Software_Analytics" Text="分析回饋"/>
+    <LangID ID="Menu_Software_Reset" Text="還原出廠設定"/>
+    <LangID ID="Menu_Software_Update" Text="檢查更新"/>
+    <LangID ID="Menu_Software_Update_Check" Text="正在檢查更新..."/>
+    <LangID ID="Menu_Software_Version" Text="軟體資訊"/>
+    <LangID ID="Network_Search_Main_Text" Text="正在搜尋..."/>
+    <LangID ID="No_Connection_Status" Text="未連接"/>
+    <LangID ID="No_Device_Status" Text="未連接"/>
+    <LangID ID="No_Devices_Main_Text" Text="找不到裝置"/>
+    <LangID ID="No_Updates_Headline" Text="軟體更新"/>
+    <LangID ID="No_Updates_Main_Text" Text="無更新可用。"/>
+    <LangID ID="Notification_Bluetooth_Unavailable" Text="藍牙目前無法使用"/>
+    <LangID ID="Notification_Brightness_Unavailable" Text="亮度控制目前無法使用"/>
+    <LangID ID="Notification_Child_Lock_Unavailable" Text="童鎖目前無法使用"/>
+    <LangID ID="Notification_Connecting" Text="連線中..."/>
+    <LangID ID="Notification_Crosslink_Unavailable" Text="交叉連結目前無法使用"/>
+    <LangID ID="Notification_Error_Reconnect" Text="連線遺失。正在嘗試重新連線..."/>
+    <LangID ID="Notification_Full_Screen_Unavailable" Text="全螢幕模式目前無法使用"/>
+    <LangID ID="Notification_HDMI_Unavailable" Text="HDMI 目前無法使用"/>
+    <LangID ID="Notification_Help_Unavailable" Text="使用者指南目前無法使用"/>
+    <LangID ID="Notification_IVI_Unavailable" Text="音訊分享目前無法使用"/>
+    <LangID ID="Notification_Initialising" Text="初始化中..."/>
+    <LangID ID="Notification_Mute_Unavailable" Text="靜音目前無法使用"/>
+    <LangID ID="Notification_OTT_Unavailable" Text="外部內容供應商無法使用"/>
+    <LangID ID="Notification_Quick_Menu_Unavailable" Text="快速功能表目前無法使用"/>
+    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="此功能目前無法使用"/>
+    <LangID ID="Notification_Screen_Unavailable" Text="螢幕目前無法使用"/>
+    <LangID ID="Notification_Temperature" Text="螢幕溫度太高。系統很快就會關閉，以避免損壞。"/>
+    <LangID ID="Notification_Volume_Unavailable" Text="音量控制目前無法使用"/>
+    <LangID ID="Notification_WiFi_Unavailable" Text="Wi-Fi 目前無法使用"/>
+    <LangID ID="PIN_Entry_Help_Text" Text="輸入 PIN 碼"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="請輸入\n藍牙裝置\n的 PIN。"/>
+    <LangID ID="Pairing_Failed_Headline" Text="藍牙"/>
+    <LangID ID="Pairing_Failed_Main_Text" Text="連線失敗。\n請稍後再試。"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="藍牙"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="連線失敗。\n請稍後再試。"/>
+    <LangID ID="Password_Speller_Help_Text" Text="輸入密碼"/>
+    <LangID ID="Quick_Menu_Full_Screen" Text="全螢幕"/>
+    <LangID ID="Quick_Menu_Help" Text="使用者指南"/>
+    <LangID ID="Quick_Menu_Screen_Off" Text="關閉螢幕"/>
+    <LangID ID="Quick_Menu_Settings" Text="設定"/>
+    <LangID ID="Quick_Menu_Source" Text="媒體源"/>
+    <LangID ID="RSE_Version_Main_Text" Text="RSE 版本:"/>
+    <LangID ID="Remote_Crosslink_Notification" Text="來源已變更 - 交叉連結作用中"/>
+    <LangID ID="Remote_HDMI_Notification" Text="來源已變更 - HDMI 作用中"/>
+    <LangID ID="Rename_Device_Headline" Text="重新命名裝置"/>
+    <LangID ID="Reset_Browser_Headline" Text="重設瀏覽器"/>
+    <LangID ID="Reset_Browser_Main_Text" Text="確定要重設瀏覽器嗎？\n所有帳戶資訊將會遺失，\n且您需要重新登入。"/>
+    <LangID ID="Run_Time_Main_Text" Text="運行時間:"/>
+    <LangID ID="Screen_Off_Notification" Text="請輕按螢幕以開啟"/>
+    <LangID ID="Screen_Timeout_Headline" Text="螢幕逾時"/>
+    <LangID ID="Settings_Headline" Text="設定"/>
+    <LangID ID="Shutting_Down_Notification" Text="系統關機中..."/>
+    <LangID ID="Software_Reset_Headline" Text="還原出廠設定"/>
+    <LangID ID="Software_Reset_Main_Text" Text="如繼續，系統將重置為出廠設定所有單獨設定，\n包括儲存的網路、藍牙設備及密碼，將被刪除。\n此過程無法回復。確定要重設嗎？"/>
+    <LangID ID="Software_Reset_Successful_Headline" Text="還原出廠設定"/>
+    <LangID ID="Software_Reset_Successful_Main_Text" Text="原廠設定已還原。\n系統將很快重啟。"/>
+    <LangID ID="Software_Update_Headline" Text="軟體"/>
+    <LangID ID="Software_Version_Headline" Text="軟體資訊"/>
+    <LangID ID="Software_Version_Main_Text" Text="軟體版本"/>
+    <LangID ID="Source_Device_Menu_Text" Text="來自裝置的內容"/>
+    <LangID ID="Source_HDMI_Menu_Text" Text="HDMI"/>
+    <LangID ID="Source_Headline" Text="媒體源"/>
+    <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
+    <LangID ID="Source_Screensaver_Menu_Text" Text="螢幕保護裝置"/>
+    <LangID ID="Timeout_Option_1" Text="永不"/>
+    <LangID ID="Timeout_Option_2" Text="30 秒"/>
+    <LangID ID="Timeout_Option_3" Text="1 分鐘"/>
+    <LangID ID="Timeout_Option_4" Text="5 分鐘"/>
+    <LangID ID="Timeout_Option_5" Text="10 分鐘"/>
+    <LangID ID="Timeout_Option_6" Text="30 分鐘"/>
+    <LangID ID="Timeout_Preview_Option_1" Text="永不"/>
+    <LangID ID="Timeout_Preview_Option_2" Text="30 秒"/>
+    <LangID ID="Timeout_Preview_Option_3" Text="1 分鐘"/>
+    <LangID ID="Timeout_Preview_Option_4" Text="5 分鐘"/>
+    <LangID ID="Timeout_Preview_Option_5" Text="10 分鐘"/>
+    <LangID ID="Timeout_Preview_Option_6" Text="30 分鐘"/>
+    <LangID ID="Update_Available_Headline" Text="軟體更新"/>
+    <LangID ID="Update_Available_Main_Text" Text="軟體可更新，其中包含以下更改：\n\n- 新功能和/或增強功能\n- 一般錯誤修復\n- 改進可用性、穩定性和安全性等方面\n\n版本：{0}大小：{1} MB\n\n下載可能需要幾分鐘，具體取決於您的連接速度。\n要立即下載嗎？"/>
+    <LangID ID="Update_Unavailable_Headline" Text="軟體更新"/>
+    <LangID ID="Update_Unavailable_Main_Text" Text="無法檢查更新。\n請稍後再試。"/>
+    <LangID ID="Use_Extension_Headline" Text="訊息"/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Bentley Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Bentley Entertainment System\n將在 {0} 秒後關機。\n按 [確定] 延長使用。"/>
+    <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
+    <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
+</LangDef>

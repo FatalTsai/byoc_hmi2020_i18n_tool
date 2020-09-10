@@ -1,0 +1,2093 @@
+{
+	"declaration": {
+		"attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8"
+		}
+	},
+	"elements": [
+		{
+			"type": "element",
+			"name": "LangDef",
+			"attributes": {
+				"langCode": "0401",
+				"xsi:noNamespaceSchemaLocation": "HMILinguist_Texts.xsd",
+				"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+			},
+			"elements": [
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Left",
+						"Text": "يسارا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Main_Text",
+						"Text": "الموقع المعين:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_None",
+						"Text": "لا شيء"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Right",
+						"Text": "يمينا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Headline",
+						"Text": "مزامنة الصوت"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Main_Text",
+						"Text": "ضبط يدوي"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Cancel",
+						"Text": "إلغاء"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_DELETE",
+						"Text": "حذف"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_INSTALL",
+						"Text": "تثبيت"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_LATER",
+						"Text": "لاحقا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Left",
+						"Text": "يسار"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_NO",
+						"Text": "لا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_OK",
+						"Text": "موافق"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_RETRY",
+						"Text": "إعادة محاولة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Right",
+						"Text": "يمين"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_SAVE",
+						"Text": "حفظ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_START",
+						"Text": "بدء"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_YES",
+						"Text": "نعم"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BT_Name_Main_Text",
+						"Text": "اسم البلوتوث:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Headline",
+						"Text": "التحكم عن بعد"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Main_Text",
+						"Text": "بحث عن رمز QR لعرضه على جهازك:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Complete",
+						"Text": "اكتملت مزامنة الصوت."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Error",
+						"Text": "فشلت مزامنة الصوت.\\nيرجى إعادة المحاولة لاحقًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Headline",
+						"Text": "مزامنة الصوت"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_In_Progress",
+						"Text": "جاري المزامنة...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Main_Text",
+						"Text": "أمسك سماعة الرأس بالقرب من\\nالميكروفون بالشاشة\\nواضغط بدء. سوف يتم كتم\\nالصوت أثناء عملية المزامنة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Headline",
+						"Text": "مخرج صوت Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Status",
+						"Text": "BLUETOOTH"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Visibility_Main_Text",
+						"Text": "إقران سماعة رأس جديدة؟\\nيجب أن تكون سماعة الرأس في وضع الإقران"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Main_Text",
+						"Text": "هل أنت متأكد من أنك تريد إلغاء التنزيل؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Checkbox_Text",
+						"Text": "عدم إظهار مجددًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Activated_Notification",
+						"Text": "تم تفعيل ميزة قفل الطفل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Active_Notification",
+						"Text": "ميزة قفل الطفل مفعلة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Deactivated_Notification",
+						"Text": "تم إلغاء تفعيل ميزة قفل الطفل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_1_Headline",
+						"Text": "مساعد الاتصال 1 من 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_2_Headline",
+						"Text": "مساعد الاتصال 2 من 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Headline",
+						"Text": "مساعد الاتصال"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Help_Text",
+						"Text": "أو اضغط على زر التشغيل أدناه\\nلفتح القائمة السريعة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
+						"Text": "ابحث عن رمز QR للاتصال\\nبالشبكة عبر Wi-Fi:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
+						"Text": "اضغط على زر الطاقة أدناه واختر\\nشبكة Wi-Fi لاختيار شبكة متاحة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
+						"Text": "تأكد من وجود جهازك وهذه الشاشة على نفس\\nالشبكة من أجل بث الوسائط."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
+						"Text": "امسح رمز الاستجابة السريعة لتوصيل:\\n{0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
+						"Text": "امسح رمز الاستجابة السريعة\\nالخاص بالتطبيق أو الخاص\\nبخيارات الاتصال البديلة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Headline",
+						"Text": "شبكة Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Main_Text",
+						"Text": "تعذر إنشاء\\nالاتصال بالشبكة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Headline",
+						"Text": "شبكة Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Main_Text",
+						"Text": "فشل الاتصال.\\nتحقق من كلمة المرور الخاصة بك."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Headline",
+						"Text": "إعدادات Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Main_Text",
+						"Text": "تم الشروع في عملية إقران Crosslink."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_SSID_Text",
+						"Text": "SSID: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Waiting_Text",
+						"Text": "يرجى الانتظار..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Name_Text",
+						"Text": "اسم الشاشة: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Successful_Text",
+						"Text": "تم إعداد Crosslink بنجاح."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Text",
+						"Text": "جاري الإقران..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Screen_Main_Text",
+						"Text": "يرجى تحديد جانب المركبة\\nالذي تريد تعيينه لهذه الشاشة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Searching_Text",
+						"Text": "البحث..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Device_Main_Text",
+						"Text": "هل ترغب فعلاً في محو جهاز البلوتوث هذا؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Main_Text",
+						"Text": "هل أنت متأكد من أنك تريد حذف تحديث البرنامج؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Network_Main_Text",
+						"Text": "هل أنت متأكد من أنك تريد حذف هذه الشبكة؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Device_Search_Menu_Text",
+						"Text": "البحث..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Main_Text",
+						"Text": "فشل تنزيل البرنامج.\\nهل تريد إعادة المحاولة؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Headline",
+						"Text": "دليل المستخدِم"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IP_Address_Main_Text",
+						"Text": "عنوان IP:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Active_Status",
+						"Text": "إحالة الصوت إلى السيارة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Delete_Confirm",
+						"Text": "هل أنت متأكد من أنك ترغب في حذف\\n{0}؟\\nملاحظة: خرج الصوت إلى سماعات السيارة\\nلن يتوفر بعد الآن."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Headline",
+						"Text": "إحالة الصوت إلى السيارة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Main_Text",
+						"Text": "يرجى تحديد اسم الشاشة كمصدر صوت\\nBluetooth على نظام المعلومات والترفيه.\\nيتم تحديد الحد الأقصى للصوت عن طريق\\nالصوت الرئيسي للمعلومات والترفيه."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Failed",
+						"Text": "فشل الإقران.\\nيرجى إعادة المحاولة لاحقًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Headline",
+						"Text": "الاتصال بالصوت داخل السيارة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_In_Progress",
+						"Text": "جاري الإقران..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Search",
+						"Text": "البحث..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Complete",
+						"Text": "اكتملت مزامنة الصوت."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Error",
+						"Text": "حدث خطأ.\\nتعذرت مزامنة الصوت.\\nيرجى إعادة المحاولة لاحقًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_In_Progress",
+						"Text": "جاري المزامنة...\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Main_Text",
+						"Text": "حدد اسم شاشة كمصدر صوت\\nBluetooth بنظام المعلومات\\nوالترفيه.\\nتحقق من الصوت وقلل من\\nضوضاء الخلفية.\\nاضغط &quot;بدء&quot; لو النظام جاهز."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Headline",
+						"Text": "ملاحظة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Main_Text",
+						"Text": "جار تثبيت التحديث\\nاكتمل {0}%\\n\\nيرجى التأكد من تشغيل المركبة\\nلحين اكتمال التحديث.\\n\\nستتم إعادة تشغيل النظام\\nبمجرد اكتمال التثبيت."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Main_Text",
+						"Text": "تثبيت البرنامج متوفر.\\nهل ترغب في التثبيت الآن؟\\n\\nأثناء التحديث، النظام سيكون متعطلاً."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Main_Text",
+						"Text": "هل ترغب في تثبيت التحديثأم حذفه؟\\n\\nأثناء التحديث، النظام سيكون متعطلاً."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Main_Text",
+						"Text": "فشل تثبيت البرنامج.\\nهل ترغب في إعادة المحاولة؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Main_Text",
+						"Text": "تم التثبيت بنجاح. تم تحديث البرنامج.\\n\\nأحدث الميزات\\n- إصلاحات الأخطاء العامة وتحديثات النص\\n- تحسين أداء وظيفة {0}\\n- وظيفة جديدة {1}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Headline",
+						"Text": "اللغة (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Legal_Info_Headline",
+						"Text": "المعلومات القانونية وسياسة الخصوصية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "MCU_Version_Main_Text",
+						"Text": "MCU طراز:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Max_Volume_Notification",
+						"Text": "تم ضبط صوت الشاشة إلى الحد الأقصى.\\nقم بزيادة صوت نظام المعلومات والترفيه."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Memory_Usage_Main_Text",
+						"Text": "استخدام الذاكرة:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active",
+						"Text": "إلغاء التنزيل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active_Preview",
+						"Text": "{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Crosslink",
+						"Text": "حدد &lt;/span&gt;CROSSLINK&lt;span id=\\&quot;text_Highlight\\&quot;&gt; لمشاهدة محتوى معروض حاليًا\\nعلى شاشة مصاحبة. ملاحظة: عند تحديد Crosslink\\nبينما تكون مشاركة الصوت مفعلة، تكون أدوات التحكم\\nفي الصوت غير متوفرة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_HDMI",
+						"Text": "يمكن تشغيل محتوى من مصدر HDMI\\nعند توصيل جهاز متوافق.\\nملاحظة: إذا لم يتم تشغيل أي محتوى على جهاز HDMI\\nعند تحديده، ستظهر الشاشة فارغة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Input",
+						"Text": "حدد &gt;&quot;WI-FI&quot;&lt;span id=\\&quot;text_Highlight&quot; &lt;/span&gt;للتوصيل بشبكة Wi-Fi.\\nيتيح ذلك لك بث محتوى عبر\\nالموفرين الخارجيين أو لإنشاء اتصال\\nبجهازك لمشاركة المحتوى."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro",
+						"Text": "يسمح نظام ترفيه Bentley بعرض المحتوى\\nوالاستماع إليه من جهازك المحمول المتصل عبر\\nWi-Fi أو من جهاز متوافق متصل\\nعبر HDMI أو USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_OTA",
+						"Text": "لاكتشاف ميزات جديدة وإصلاحات الأخطاء،\\nقم بتنزيل أحدث برنامج من قائمة الإعدادات."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP1",
+						"Text": "حدد &quot;BLUETOOTH&quot;&lt;/span&gt;&lt;span id=\\&quot;text_Highlight\\&quot;&gt; لتوصيل سماعة رأس Bluetooth.\\n\\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP2",
+						"Text": "حدد &lt;span id=\\&quot;text_Highlight\\&quot;&gt;&lt;/span&gt;&quot;BLUETOOTH&quot; لتوصيل سماعة رأس Bluetooth\\nأو اضغط على زر مشاركة الصوت\\nلإرسال الصوت إلى سماعات السيارة.\\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Source",
+						"Text": "حدد &lt;span id=\\&quot;text_Highlight\\&quot;&gt;&quot;مصدر&quot;&lt;/span&gt; لاختيار المحتوى المطلوب.\\nيمكنك عرض المحتوى من الموفرين الخارجيين\\nبتحديد الخدمة من القائمة المعروضة.\\nيمكن إعادة تعيين المتصفح أيضًا في هذه القائمة."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_USB",
+						"Text": "يمكن تشغيل الوسائط عبر جهاز متوافق\\nمتصل عبر USB باستخدام تطبيق\\nالتحكم في ترفيه Bentley."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Install_Update",
+						"Text": "تثبيت التحديث"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_About_Us",
+						"Text": "نبذة عنا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Open_Source",
+						"Text": "تفاصيل إخلاء المسئولية للمصادر المفتوحة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Privacy_Policy",
+						"Text": "سياسة الخصوصية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Acoustic_Feedback",
+						"Text": "مردود صوتي"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Audio_Sync",
+						"Text": "مزامنة الصوت"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Brightness_Persistence",
+						"Text": "حفظ إعدادات السطوع"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Connection_Assistant",
+						"Text": "مساعد الاتصال"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_IVI_Pairing",
+						"Text": "الاتصال بالصوت داخل السيارة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Language",
+						"Text": "اللغة (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Legal_Info",
+						"Text": "المعلومات القانونية وسياسة الخصوصية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Off",
+						"Text": "إيقاف الشاشة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Timeout",
+						"Text": "إطفاء أوتوماتيكي للشاشة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Software",
+						"Text": "برنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Volume_Persistence",
+						"Text": "حفظ إعدادات الصوت"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Analytics",
+						"Text": "الملاحظات التحليلية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Reset",
+						"Text": "استعادة إعدادات المصنع"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update",
+						"Text": "تحقق من وجود تحديثات"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update_Check",
+						"Text": "جار التحقق من وجود تحديثات..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Version",
+						"Text": "معلومات البرمجيات"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Network_Search_Main_Text",
+						"Text": "البحث..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Connection_Status",
+						"Text": "غير متصل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Device_Status",
+						"Text": "غير متصل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Devices_Main_Text",
+						"Text": "لم يتم العثور على أجهزة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Main_Text",
+						"Text": "لا تتوفر تحديثات."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Bluetooth_Unavailable",
+						"Text": "Bluetooth غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Brightness_Unavailable",
+						"Text": "أدوات التحكم في السطوع غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Child_Lock_Unavailable",
+						"Text": "ميزة قفل الطفل غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Connecting",
+						"Text": "جاري الاتصال..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Crosslink_Unavailable",
+						"Text": "Crosslink غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Error_Reconnect",
+						"Text": "تم فقد الاتصال. جاري محاولة إعادة الاتصال..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Full_Screen_Unavailable",
+						"Text": "وضع ملء الشاشة غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_HDMI_Unavailable",
+						"Text": "HDMI غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Help_Unavailable",
+						"Text": "دليل المستخدم غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_IVI_Unavailable",
+						"Text": "مشاركة الصوت غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Initialising",
+						"Text": "جار التهيئة..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Mute_Unavailable",
+						"Text": "كتم الصوت غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_OTT_Unavailable",
+						"Text": "موفر المحتوى الخارجي غير متوفر حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Quick_Menu_Unavailable",
+						"Text": "القائمة السريعة غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"Text": "الوظيفة ليست متاحة حاليا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Screen_Unavailable",
+						"Text": "الشاشة غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Temperature",
+						"Text": "درجة حرارة الشاشة أعلى من اللازم. سيتم إيقاف\\nتشغيل النظام قريبًا لتفادي التلف."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Volume_Unavailable",
+						"Text": "أدوات التحكم في الصوت غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_WiFi_Unavailable",
+						"Text": "Wi-Fi غير متوفرة حاليًا"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Help_Text",
+						"Text": "إدخال رقم PIN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Main_Text",
+						"Text": "يرجى إدخال\\nPIN لجهاز\\n.Bluetooth الخاص بك"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Headline",
+						"Text": "مخرج صوت Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Main_Text",
+						"Text": "فشل الاتصال.\\nيرجى إعادة المحاولة لاحقًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Headline",
+						"Text": "مخرج صوت Bluetooth"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
+						"Text": "فشل الاتصال.\\nيرجى التحقق من PIN."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Password_Speller_Help_Text",
+						"Text": "أدخل كلمة  المرور"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Full_Screen",
+						"Text": "الصورة الكاملة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Help",
+						"Text": "دليل المستخدِم"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Screen_Off",
+						"Text": "إيقاف الشاشة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Settings",
+						"Text": "الإعدادات"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Source",
+						"Text": "المصدر"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "RSE_Version_Main_Text",
+						"Text": "RSE طراز:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_Crosslink_Notification",
+						"Text": "تم تغيير المصدر – Crosslink مفعل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_HDMI_Notification",
+						"Text": "تم تغيير المصدر – HDMI مفعل"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Rename_Device_Headline",
+						"Text": "إعادة تسمية الجهاز"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Headline",
+						"Text": "إعادة تعيين المتصفح"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Main_Text",
+						"Text": "هل أنت متأكد من أنك تريد إعادة تعيين المتصفح؟\\nسيتم فقد كل معلومات الحساب\\nوستحتاج إلى تسجيل الدخول مرة أخرى."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Run_Time_Main_Text",
+						"Text": "زمن تشغيل البرنامج:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Off_Notification",
+						"Text": "يرجى النقر على الشاشة لتشغيلها"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Timeout_Headline",
+						"Text": "إطفاء أوتوماتيكي للشاشة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Settings_Headline",
+						"Text": "الإعدادات"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Shutting_Down_Notification",
+						"Text": "يتم إغلاق النظام..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Headline",
+						"Text": "استعادة إعدادات المصنع"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Main_Text",
+						"Text": "في حالة استمرارك، ستتم إعادة تعيين \\nالنظام إلى إعدادات المصنع. وسيتم حذف جميع\\n الإعدادات الفردية بما في ذلك الشبكات،\\n وأجهزة Bluetooth، وكلمات المرور المحفوظة.\\n ولا يُمكن التراجع عن هذه العملية.\\nهل أنت متأكد من أنك تريد إعادة التعيين؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Headline",
+						"Text": "استعادة إعدادات المصنع"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Main_Text",
+						"Text": "تمت استعادة إعدادات المصنع.\\nسيُعاد بدء تشغيل النظام قريبًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Update_Headline",
+						"Text": "برنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Headline",
+						"Text": "معلومات البرمجيات"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Main_Text",
+						"Text": "إصدار البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Device_Menu_Text",
+						"Text": "محتوى من جهازك"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_HDMI_Menu_Text",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Headline",
+						"Text": "المصدر"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Netflix_Menu_Text",
+						"Text": "Netflix"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Screensaver_Menu_Text",
+						"Text": "شاشة التوقف"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_1",
+						"Text": "مطلقاً"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_2",
+						"Text": "30 ثانية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_3",
+						"Text": "1 دقيقة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_4",
+						"Text": "5 دقائق"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_5",
+						"Text": "10 دقائق"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_6",
+						"Text": "30 دقيقة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_1",
+						"Text": "مطلقاً"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_2",
+						"Text": "30 ثانية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_3",
+						"Text": "1 دقيقة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_4",
+						"Text": "5 دقائق"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_5",
+						"Text": "10 دقائق"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_6",
+						"Text": "30 دقيقة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Main_Text",
+						"Text": "تحديث البرنامج متاح بالتغييرات الآتية:\\n\\n- ميزات جديدة و/أو مُحسّنة\\n- إصلاحات الأخطاء العامة\\n- إجراء تحسينات على قابلية الاستخدام، والاستقرار، والأمان\\n\\nالإصدار: {0} الحجم: {1} ميجابايت\\n\\nقد يستغرق التحميل عدة دقائق حسب سرعة الاتصال.\\nهل ترغب في التنزيل الآن؟"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Headline",
+						"Text": "تحديث البرنامج"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Main_Text",
+						"Text": "تعذر التحقق من وجود تحديثات.\\nيرجى إعادة المحاولة لاحقًا."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Headline",
+						"Text": "ملاحظة"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_PL",
+						"Text": "سيتم إيقاف تشغيل نظام ترفيه\\nBentley خلال {0} ثوان.\\nاضغط على موافق لتمديد الاستخدام."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_SG",
+						"Text": "سيتم إيقاف تشغيل نظام ترفيه\\nBentley خلال {0} ثانية.\\nاضغط على موافق لتمديد الاستخدام."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Wi-Fi_Status",
+						"Text": "شبكة WI-FI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "WiFi_Headline",
+						"Text": "شبكة Wi-Fi"
+					}
+				}
+			]
+		}
+	]
+}
