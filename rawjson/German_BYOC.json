@@ -51,6 +51,102 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Helligkeit"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "Verbindung"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "WLAN-Verbindung"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Einführung"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Audioausgabe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Lautstärke"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Audio_Sync_Headline",
 						"Text": "Audio-Synchronisation"
 					}
@@ -324,7 +420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_Help_Text",
-						"Text": "Oder drücken Sie auf den Ein-/Aus-Schalter\\nunten, um das Schnellmenü zu öffnen."
+						"Text": "Oder drücken Sie die Einschalttaste \\nunten, um das Schnellmenü zu öffnen."
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "Installation erfolgreich. Software\\naktualisiert:\\n- Allgemeine Fehlerbereinigungen\\nund Textaktualisierungen\\n- Leistungssteigerung von Funktion {0}\\n- Neue Funktion {1}"
+						"Text": "Installation erfolgreich. Software aktualisiert.\\n\\nWas ist neu\\n- Neue und/oder erweiterte Funktionen\\n- Allgemeine Fehlerbereinigungen\\n- Verbesserungen in Stabilität und Sicherheit"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -781,6 +893,14 @@
 					"attributes": {
 						"ID": "Language_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -859,6 +979,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Norwegian",
 						"Text": "Norsk"
 					}
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1157,6 +1373,14 @@
 					"attributes": {
 						"ID": "Language_Turkish",
 						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "Inhalte können von einer HDMI-Quelle abge-\\nspielt werden, wenn ein kompatibles Gerät\\nverbunden ist. Wenn nach der Auswahl kein\\nInhalt auf dem HDMI-Gerät abgespielt wird, \\nwird ein leerer Bildschirm angezeigt."
+						"Text": "Inhalte können von einer HDMI-Quelle abgespielt\\nwerden, wenn ein kompatibles Gerät verbunden ist.\\nWenn nach der Auswahl kein Inhalt auf dem HDMI-Gerät\\nabgespielt wird, wird ein leerer Bildschirm angezeigt."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "Das Audi Entertainment System gestattet\\nIhnen, Inhalte von einem über WLAN ver-\\nbundenen Mobilgerät oder einem kompa-\\ntiblen Gerät anzusehen, das über HDMI\\noder USB verbunden ist."
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Das Audi Entertainment System gestattet\\nIhnen, Inhalte von einem über WLAN\\nverbundenen Mobilgerät oder einem\\nkompatiblen Gerät anzusehen, das über\\nHDMI oder USB verbunden ist."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Das Audi Entertainment System gestattet\\nIhnen, Inhalte von Ihrem über WLAN\\nverbundenen Mobilgerät oder von einem\\nkompatiblen Gerät, das über HDMI oder USB\\nverbunden ist, anzusehen und anzuhören."
 					}
 				},
 				{
@@ -1244,7 +1476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_OTA",
-						"Text": "Um die neuesten Funktionen und Fehlerbe-\\nreinigungen zu entdecken, laden Sie die\\nneueste Software aus dem Einstellungsmenü\\nherunter."
+						"Text": "Um die neuesten Funktionen und\\nFehlerbereinigungen zu entdecken, \\nladen Sie die neueste Software aus\\ndem Einstellungsmenü herunter."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Wählen Sie &lt;span id=\\&quot;text_Highlight\\&quot;&gt;QUELLE&lt;/span&gt; aus, um den gewünschten Inhalt\\nauszuwählen. Sie können Inhalte von externen\\nAnbietern ansehen, indem Sie den Dienst in der\\nangezeigten Liste auswählen. Der Browser kann in\\ndiesem Menü ebenfalls zurückgesetzt werden."
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "Medien können mithilfe der Font Media\\nControl App über ein kompatibles, per USB\\nverbundenes Gerät abgespielt werden."
+						"Text": "Medien können mithilfe der Fond Media\\nControl App über ein kompatibles, per USB\\nverbundenes Gerät abgespielt werden."
 					}
 				},
 				{
@@ -1491,38 +1731,6 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "Bluetooth® ist derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "Helligkeitsregler sind derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "Die Kindersicherung ist nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "Verbindung wird aufgebaut…"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Crosslink_Unavailable",
 						"Text": "Crosslink ist derzeit nicht verfügbar"
 					}
@@ -1531,32 +1739,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "Keine Verbindung. Verbinde erneut..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "Vollbild-Modus ist derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_HDMI_Unavailable",
 						"Text": "HDMI ist derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "Benutzerhandbuch ist derzeit nicht verfügbar"
 					}
 				},
 				{
@@ -1595,24 +1779,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "Schnellmenü ist derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "Die Funktion ist zurzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "Bildschirm ist derzeit nicht verfügbar"
 					}
 				},
 				{
@@ -1629,14 +1797,6 @@
 					"attributes": {
 						"ID": "Notification_Volume_Unavailable",
 						"Text": "Lautstärkeregler ist derzeit nicht verfügbar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "WLAN ist derzeit nicht verfügbar"
 					}
 				},
 				{
@@ -1693,6 +1853,14 @@
 					"attributes": {
 						"ID": "Password_Speller_Help_Text",
 						"Text": "Passwort eingeben"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Zurücksetzen"
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "Das Audi Entertainment System\\nwird sich in {0} Sekunde abschalten.\\nOK drücken, um es weiterhin zu verwenden."
+						"Text": "Das Audi Entertainment System\\nwird sich in {0} Sekunden abschalten.\\nOK drücken, um es weiterhin zu verwenden."
 					}
 				},
 				{

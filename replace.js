@@ -7,7 +7,10 @@ const newfolder = './i18n'
 fs.readdir(origindatapath,(err,files)=>{
     files.forEach(file=>{
         let tmp = JSON.parse( fs.readFileSync(path.join(origindatapath,file),'utf-8') )
-        let result = JSON.parse( fs.readFileSync(path.join(oldi18n,file),'utf-8') )
+        if(fs.existsSync(path.join(oldi18n,file)))
+            var result = JSON.parse( fs.readFileSync(path.join(oldi18n,file),'utf-8') )
+        else
+            var result = JSON.parse(  fs.readFileSync(path.join(oldi18n,'en_US.json'),'utf-8')  )
         //console.log(tmp)
         Object.keys(tmp).forEach(function (key) {
             // do something with obj[key]

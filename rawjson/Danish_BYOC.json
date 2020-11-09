@@ -28,7 +28,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Assigned_Location_Main_Text",
-						"Text": "Befinder sig her:"
+						"Text": "Tildelt position:"
 					}
 				},
 				{
@@ -51,8 +51,104 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Lysstyrke"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "Forbindelse"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "Wireless connection"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Quick introduction"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Lydgengivelse"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Lydstyrke"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Audio_Sync_Headline",
-						"Text": "Audio synkronisering"
+						"Text": "Audiosynkronisering"
 					}
 				},
 				{
@@ -60,7 +156,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audio_Sync_Main_Text",
-						"Text": "Manuel justering"
+						"Text": "Manuel tilpasning"
 					}
 				},
 				{
@@ -84,7 +180,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_INSTALL",
-						"Text": "Installér"
+						"Text": "Installer"
 					}
 				},
 				{
@@ -92,7 +188,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_LATER",
-						"Text": "Sen"
+						"Text": "Senere"
 					}
 				},
 				{
@@ -124,7 +220,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_RETRY",
-						"Text": "Igen"
+						"Text": "Gentag"
 					}
 				},
 				{
@@ -164,7 +260,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BT_Name_Main_Text",
-						"Text": "Bluetooth-navn:"
+						"Text": "Bluetooth®-navn:"
 					}
 				},
 				{
@@ -172,7 +268,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Blocked_Browser_Headline",
-						"Text": "Fjernlink"
+						"Text": "Remote-forbindelse"
 					}
 				},
 				{
@@ -180,7 +276,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Blocked_Browser_Main_Text",
-						"Text": "Scan QR-koden for visning på dit apparat:"
+						"Text": "Scan QR-koden for at se følgende indhold på dit apparat:"
 					}
 				},
 				{
@@ -188,7 +284,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Complete",
-						"Text": "Audio synkronisering færdig."
+						"Text": "Audiosynkronisering\\nafsluttet."
 					}
 				},
 				{
@@ -196,7 +292,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Error",
-						"Text": "Audio synkronisering slog fejl.\\nPrøv venligst igen senere."
+						"Text": "Audiosynkronisering\\nmislykkedes.\\nForsøg igen senere."
 					}
 				},
 				{
@@ -204,7 +300,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Headline",
-						"Text": "Audio synkronisering"
+						"Text": "Audiosynkronisering"
 					}
 				},
 				{
@@ -220,7 +316,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Main_Text",
-						"Text": "Hold høretelefoner tæt på\\nmikrofon på skærmen\\nog tryk start.\\nAudio stumstilles under\\nsynkroniseringsprocessen."
+						"Text": "Hold hovedtelefonerne\\nhen mod mikrofonen på\\nskærmen, og tryk start.\\nLyden er slukket under\\nsynkroniseringen."
 					}
 				},
 				{
@@ -228,7 +324,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -236,7 +332,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Status",
-						"Text": "BLUETOOTH"
+						"Text": "BLUETOOTH®"
 					}
 				},
 				{
@@ -244,7 +340,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Visibility_Main_Text",
-						"Text": "Parre nye høretelefoner?\\nHøretelefoner skal være i parringsmodus."
+						"Text": "Vil du parre nye hovedtelefoner?\\nHovedtelefoner skal være i\\nparringsindstilling."
 					}
 				},
 				{
@@ -260,7 +356,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Cancel_Download_Main_Text",
-						"Text": "Er du sikker på, at du\\nvil afbryde downloaden?"
+						"Text": "Vil du virkelig\\nafbryde downloadingen?"
 					}
 				},
 				{
@@ -276,7 +372,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Child_Lock_Activated_Notification",
-						"Text": "Børnelås er blevet tændt"
+						"Text": "Børnesikring blev aktiveret."
 					}
 				},
 				{
@@ -284,7 +380,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Child_Lock_Active_Notification",
-						"Text": "Børnelås er tændt"
+						"Text": "Børnesikring aktiv"
 					}
 				},
 				{
@@ -292,7 +388,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Child_Lock_Deactivated_Notification",
-						"Text": "Børnelås er blevet slukket"
+						"Text": "Børnesikring blev deaktiveret."
 					}
 				},
 				{
@@ -324,7 +420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_Help_Text",
-						"Text": "Eller tryk på power knappen forneden\\nfor at åbne kvikmenuen."
+						"Text": "Eller tryk på tændknappen nederst\\nfor at åbne lynmenuen."
 					}
 				},
 				{
@@ -332,7 +428,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
-						"Text": "Scan QR-koden for at forbinde med\\nskærmen via Wi-Fi:"
+						"Text": "Scan QR-koden\\nfor at oprette forbindelse\\ntil skærmen via Wi-Fi:"
 					}
 				},
 				{
@@ -340,7 +436,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
-						"Text": "Tryk på power knappen forneden og vælg\\nWi-Fi for at vælge et til rådighed stående netværk."
+						"Text": "Tryk på tændknappen, og vælg\\nWi-Fi for at vælge et netværk."
 					}
 				},
 				{
@@ -348,7 +444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
-						"Text": "Sørg for at dit apparat og denne skærm er på\\ndet samme netværk for at streame medier."
+						"Text": "Apparatet og skærmen skal være på\\nsamme netværk for at afspille medier."
 					}
 				},
 				{
@@ -356,7 +452,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
-						"Text": "Scan QR-koden for at forbinde:\\n{0}"
+						"Text": "Scan QR-koden\\nfor at oprette forbindelse:\\n{0}"
 					}
 				},
 				{
@@ -364,7 +460,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
-						"Text": "Scan QR-koden for app&apos;en eller\\nfor andre forbindelsesmuligheder."
+						"Text": "Scan QR-koden for at\\noprette forbindelse til appen\\neller andre muligheder."
 					}
 				},
 				{
@@ -380,7 +476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Main_Text",
-						"Text": "Der kunne ikke etableres\\nen netværksforbindelse."
+						"Text": "Der kunne ikke oprettes netværksforbindelse."
 					}
 				},
 				{
@@ -396,7 +492,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Password_Main_Text",
-						"Text": "Forbindelsen mislykkedes.\\nKontrollér venligst dit kodeord."
+						"Text": "Forbindelse mislykkedes.\\nKontroller dit password."
 					}
 				},
 				{
@@ -404,7 +500,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Headline",
-						"Text": "Krydslink opsætning"
+						"Text": "Crosslink-konfiguration"
 					}
 				},
 				{
@@ -412,7 +508,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Host_Main_Text",
-						"Text": "En krysdlink parringsproces er blevet startet."
+						"Text": "Der er blevet startet en Crosslink-parring."
 					}
 				},
 				{
@@ -428,7 +524,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Host_Waiting_Text",
-						"Text": "Vent venligst..."
+						"Text": "Vent..."
 					}
 				},
 				{
@@ -444,7 +540,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Pairing_Successful_Text",
-						"Text": "Krydslink opsætning lykkedes."
+						"Text": "Crosslink-konfiguration korrekt"
 					}
 				},
 				{
@@ -452,7 +548,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Pairing_Text",
-						"Text": "parrer..."
+						"Text": "Parres..."
 					}
 				},
 				{
@@ -460,7 +556,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Screen_Main_Text",
-						"Text": "Vælg venligst den side af køretøjet,\\nsom du vil tilordne til denne skærm."
+						"Text": "Vælg den side af bilen,\\nsom du vil relatere denne skærm til."
 					}
 				},
 				{
@@ -476,7 +572,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Device_Main_Text",
-						"Text": "Er du sikker på, at du ønsker?"
+						"Text": "Vil du virkelig slette\\ndette Bluetooth®-apparat?"
 					}
 				},
 				{
@@ -492,7 +588,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Install_Main_Text",
-						"Text": "Er du sikker på, at du\\nvil slette software updaten?"
+						"Text": "Vil du virkelig slette\\nsoftwareopdateringen?"
 					}
 				},
 				{
@@ -500,7 +596,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Network_Main_Text",
-						"Text": "Er du sikker på, at du vil slette dette netværk?"
+						"Text": "Vil du virkelig slette netværket?"
 					}
 				},
 				{
@@ -524,7 +620,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Download_Failed_Main_Text",
-						"Text": "Software download slog fejl.\\nVil du prøve igen?"
+						"Text": "Softwaredownloading mislykkedes.\\nVil du forsøge igen?"
 					}
 				},
 				{
@@ -532,7 +628,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Help_Headline",
-						"Text": "Brugervejledning"
+						"Text": "Brugerhåndbog"
 					}
 				},
 				{
@@ -540,7 +636,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IP_Address_Main_Text",
-						"Text": "IP adresse:"
+						"Text": "IP-adresse:"
 					}
 				},
 				{
@@ -548,7 +644,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Active_Status",
-						"Text": "Audio output til bil"
+						"Text": "Audio i bil"
 					}
 				},
 				{
@@ -556,7 +652,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Delete_Confirm",
-						"Text": "Er du sikker på, at du vil slette\\n{0}?\\nBemærk: audio output til bilens højtalere\\nstår så ikke mere til rådighed."
+						"Text": "Vil du virkelig slette\\n{0}?\\nBemærk:\\nAudioafspilning via bilens højttalere\\ner så ikke længere tilgængelig."
 					}
 				},
 				{
@@ -564,7 +660,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Headline",
-						"Text": "Audio output til bil"
+						"Text": "Audioafspilning i bil"
 					}
 				},
 				{
@@ -572,7 +668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Main_Text",
-						"Text": "Vælg venligst skrærmnavnet som Bluetooth\\naudio kilden på infotainment systemet.\\nMaksimal lydstyrke bestemmes af\\ninfotainment master lydstyrke."
+						"Text": "Vælg i infotainmentsystemet\\nskærmen som Bluetooth®-audiokilde.\\nDen maksimale lydstyrke defineres\\nved hjælp af infotainmentsystemet."
 					}
 				},
 				{
@@ -580,7 +676,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Pairing_Failed",
-						"Text": "Parring mislykkedes.\\nPrøv venligst igen senere."
+						"Text": "Parring mislykkedes.\\nForsøg igen senere."
 					}
 				},
 				{
@@ -588,7 +684,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Pairing_Headline",
-						"Text": "Forbindelse til bilens audio"
+						"Text": "Audioafspilning i bil"
 					}
 				},
 				{
@@ -596,7 +692,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Pairing_In_Progress",
-						"Text": "parrer..."
+						"Text": "Parres..."
 					}
 				},
 				{
@@ -612,7 +708,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Complete",
-						"Text": "Audio synkronisering færdig."
+						"Text": "Audiosynkronisering\\nafsluttet."
 					}
 				},
 				{
@@ -620,7 +716,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Error",
-						"Text": "Der er sket en fejl.\\nKan ikke synkronisere audio.\\nPrøv venligst igen senere."
+						"Text": "Fejl opstået.\\nAudiosynkronisering var ikke mulig.\\nForsøg igen senere."
 					}
 				},
 				{
@@ -636,7 +732,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Main_Text",
-						"Text": "Vælg skærmnavnet som\\nBluetooth audio kilde på\\ninfotainment systemet.\\nKontrollér lydstyrken og\\nreducér baggrundslarm.\\nTryk START når\\nsystemet er parat."
+						"Text": "Vælg i\\ninfotainmentsystemet\\nskærmen som\\nBluetooth®-audiokilde.\\nReducer støj.\\nTryk på START, når\\nsystemet er driftsklart."
 					}
 				},
 				{
@@ -652,7 +748,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Active_Main_Text",
-						"Text": "Installerer opdatering\\n{0}% færdig.\\n\\nVær sikker på, at køretøjet forbliver tændt,\\nindtil updaten er færdig.\\n\\nSystemet genstarter,\\nnår installationen er færdig."
+						"Text": "Installation af opdatering\\n{0} % afsluttet.\\n\\nSørg for, at tændingen er tilsluttet,\\nindtil opdateringen er afsluttet.\\nSystemet genstarter,\\nnår installationen er afsluttet."
 					}
 				},
 				{
@@ -668,7 +764,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Available_Main_Text",
-						"Text": "Der er en software installation til rådighed.\\nVil du downloade nu?\\n\\nUnder systemupdate kan systemet ikke betjenes."
+						"Text": "Softwareinstallation tilgængelig.\\nVil du installere den nu?\\n\\nSystemet er ikke driftsklart\\nunder opdateringen."
 					}
 				},
 				{
@@ -684,7 +780,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Delete_Main_Text",
-						"Text": "Vil du installere eller slette opdateringen?\\n\\nUnder systemupdate kan systemet ikke betjenes."
+						"Text": "Vil du installere eller slette opdateringen?\\n\\nSystemet er ikke driftsklart\\nunder systemopdateringen."
 					}
 				},
 				{
@@ -700,7 +796,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Failed_Main_Text",
-						"Text": "Software installering slog fejl.\\nVil du prøve igen?"
+						"Text": "Softwareinstallation mislykkedes.\\nVil du forsøge igen?"
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "Installering lykkedes. Software opdateret.\\nHvad der er nyt\\n- Generelle reparationer af bugs og opdateringer\\naf tekst\\n- Bedre performance af {0} funktion\\n- Ny funktion {1}"
+						"Text": "Installation udført korrekt. Software opdateret:\\n\\nHvad der er nyt\\n- Nye og/eller udvidede funktioner\\n- Generelle fejlafhjælpninger\\n- Forbedringer af stabilitet og sikkerhed"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -781,6 +893,14 @@
 					"attributes": {
 						"ID": "Language_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -859,6 +979,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Norwegian",
 						"Text": "Norsk"
 					}
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1163,8 +1379,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Legal_Info_Headline",
-						"Text": "Juridiske informationer"
+						"Text": "Juridiske oplysninger"
 					}
 				},
 				{
@@ -1172,7 +1396,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "MCU_Version_Main_Text",
-						"Text": "MCU Version:"
+						"Text": "MCU-version:"
 					}
 				},
 				{
@@ -1180,7 +1404,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Max_Volume_Notification",
-						"Text": "Skræmens lydstyrke sat til maksimum.\\nForøg dit infotainment systems lydstyrke."
+						"Text": "Skærm indstillet til maksimal lydstyrke.\\nØg dit infotainmentsystems lydstyrke."
 					}
 				},
 				{
@@ -1188,7 +1412,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Memory_Usage_Main_Text",
-						"Text": "Brug af hukommelse:"
+						"Text": "Anvendt hukommelse:"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "Indhold kan spilles fra en HDMI kilde,\\nnår et kompatibelt apparat er forbundet.\\nBemærk: hvis der ikke afspilles indhold fra HDMI\\napparatet når valgt, så er skrærmen tom."
+						"Text": "Indhold kan afspilles fra en HDMI-kilde,\\nhvis der er forbundet et kompatibelt apparat.\\nDer bliver vist en tom skærm, hvis der\\nikke afspilles indhold fra HDMI-apparatet,\\nnår det er valgt."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "Bentleys Underholdningssystem gør at du kan se\\nog høre indhold fra dit forbundne mobile apparat\\nvia Wi-Fi eller fra et kompatibelt forbundet apparat\\nvia HDMI eller USB."
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Audi entertainment-systemet gør\\nat du kan se indhold fra et mobilt apparat,\\nder er forbundet via Wi-Fi,\\neller fra et kompatibelt apparat,\\nder er forbundet via HDMI eller USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Audis Underholdningssystem gør at du kan se\\nog høre indhold fra dit forbundne mobile apparat\\nvia Wi-Fi eller fra et kompatibelt forbundet apparat\\nvia HDMI eller USB."
 					}
 				},
 				{
@@ -1244,7 +1476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_OTA",
-						"Text": "Download den seneste software fra indstillingsmenuen\\nfor at opdage nye features og reparationer af bugs."
+						"Text": "Download den nyeste software\\nfra indstillingsmenuen for at opleve\\nde nyeste funktioner og fejlafhjælpninger."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Vælg &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt; for at vælge dit ønskede indhold.\\nDu kan se indhold fra eksterne udbydere\\nved at vælge servicen fra den viste liste.\\nBrowseren kan også nulstilles i denne menu."
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "Medier kan afspilles via et kompatibelt apparat\\nforbundet via USB ved brug af\\nBentleys app for kontrol af underholdning."
+						"Text": "Medier kan ved hjælp af\\nFond Media Control-appen\\nafspilles via et kompatibelt apparat,\\nder er forbundet via USB."
 					}
 				},
 				{
@@ -1284,7 +1524,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Install_Update",
-						"Text": "Installér update"
+						"Text": "Installer opdatering"
 					}
 				},
 				{
@@ -1292,7 +1532,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Legal_About_Us",
-						"Text": "Om os"
+						"Text": "Kolofon"
 					}
 				},
 				{
@@ -1300,7 +1540,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Legal_Open_Source",
-						"Text": "Info til Open Source Disclaimer"
+						"Text": "Open source-licens"
 					}
 				},
 				{
@@ -1308,7 +1548,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
-						"Text": "Databeskyttelsespolitik"
+						"Text": "Databeskyttelsesretningslinje"
 					}
 				},
 				{
@@ -1324,7 +1564,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Audio_Sync",
-						"Text": "Audio synkronisering"
+						"Text": "Audiosynkronisering"
 					}
 				},
 				{
@@ -1348,7 +1588,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_IVI_Pairing",
-						"Text": "Forbindelse til bilens audio"
+						"Text": "Audioafspilning i bil"
 					}
 				},
 				{
@@ -1364,7 +1604,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Legal_Info",
-						"Text": "Juridiske informationer"
+						"Text": "Juridiske oplysninger"
 					}
 				},
 				{
@@ -1372,7 +1612,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Screen_Off",
-						"Text": "Sluk skærm"
+						"Text": "Skærm slukket"
 					}
 				},
 				{
@@ -1380,7 +1620,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Screen_Timeout",
-						"Text": "Skærmens timeout"
+						"Text": "Skærmtimeout"
 					}
 				},
 				{
@@ -1420,7 +1660,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Software_Update",
-						"Text": "Tjek for updates"
+						"Text": "Søg efter opdateringer"
 					}
 				},
 				{
@@ -1428,7 +1668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Software_Update_Check",
-						"Text": "Tjekker for updates..."
+						"Text": "Søgning efter opdateringer..."
 					}
 				},
 				{
@@ -1468,7 +1708,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "No_Devices_Main_Text",
-						"Text": "Ingen enheder fundet"
+						"Text": "Ingen apparater fundet"
 					}
 				},
 				{
@@ -1491,56 +1731,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "Bluetooth står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "Lysstyrkekontroller står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "Børnelås står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "Forbinder..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Crosslink_Unavailable",
-						"Text": "Krydslink står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "Forbindelse mistet. Forsøg på genforbindelse..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "Fuld skærm modus står p.t. ikke til rådighed"
+						"Text": "Crosslink p.t. ikke tilgængeligt"
 					}
 				},
 				{
@@ -1548,15 +1740,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_HDMI_Unavailable",
-						"Text": "HDMI står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "Brugervejledning står p.t. ikke til rådighed"
+						"Text": "HDMI p.t. ikke tilgængeligt"
 					}
 				},
 				{
@@ -1564,7 +1748,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_IVI_Unavailable",
-						"Text": "Audio deling står p.t. ikke til rådighed"
+						"Text": "Audiooverførsel p.t. ikke tilgængelig"
 					}
 				},
 				{
@@ -1572,7 +1756,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_Initialising",
-						"Text": "Starter..."
+						"Text": "Startes..."
 					}
 				},
 				{
@@ -1580,7 +1764,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_Mute_Unavailable",
-						"Text": "Funktionen stum står p.t. ikke til rådighed"
+						"Text": "Afbrydelse af lyd p.t. ikke tilgængelig"
 					}
 				},
 				{
@@ -1588,22 +1772,14 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_OTT_Unavailable",
-						"Text": "Ekstern udbyder af indhold står p.t. ikke til rådighed"
+						"Text": "Ekst. udbyder af indhold p.t. ikke tilgængelig"
 					}
 				},
 				{
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "Kvikmenu står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "Funktion p.t. ikke tilgængelig"
 					}
 				},
@@ -1611,16 +1787,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "Skærm står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Temperature",
-						"Text": "Skærmtemperatur er for høj. Systemet\\nslukkes snart for at undgå skader.."
+						"Text": "Skærmtemperatur for høj.\\nSystemet slukkes snart for at undgå skader."
 					}
 				},
 				{
@@ -1628,15 +1796,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_Volume_Unavailable",
-						"Text": "Lydstyrkekontroller står p.t. ikke til rådighed"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "Wi-Fi står p.t. ikke til rådighed"
+						"Text": "Lydstyrkeregulator p.t. ikke tilgængelig"
 					}
 				},
 				{
@@ -1652,7 +1812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "PIN_Entry_Main_Text",
-						"Text": "Indtast venligst\\nPIN til dit\\nBluetooth apparat."
+						"Text": "Angiv pinkode til\\ndit Bluetooth®-apparat."
 					}
 				},
 				{
@@ -1660,7 +1820,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1668,7 +1828,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Main_Text",
-						"Text": "Forbindelsen mislykkedes.\\nPrøv venligst igen senere."
+						"Text": "Forbindelse mislykkedes.\\nForsøg igen senere."
 					}
 				},
 				{
@@ -1676,7 +1836,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1684,7 +1844,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
-						"Text": "Forbindelsen mislykkedes.\\nKontrollér venligst din PIN."
+						"Text": "Forbindelse mislykkedes.\\nKontroller din pinkode."
 					}
 				},
 				{
@@ -1692,7 +1852,15 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Password_Speller_Help_Text",
-						"Text": "Angiv adgangskode"
+						"Text": "Angiv password"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Nulstil"
 					}
 				},
 				{
@@ -1716,7 +1884,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Quick_Menu_Screen_Off",
-						"Text": "Sluk skærm"
+						"Text": "Skærm slukket"
 					}
 				},
 				{
@@ -1740,7 +1908,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "RSE_Version_Main_Text",
-						"Text": "RSE Version:"
+						"Text": "RSE-version:"
 					}
 				},
 				{
@@ -1748,7 +1916,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Remote_Crosslink_Notification",
-						"Text": "Kilde er ændret - krydslink er tændt"
+						"Text": "Kilde ændret - Crosslink aktivt"
 					}
 				},
 				{
@@ -1756,7 +1924,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Remote_HDMI_Notification",
-						"Text": "Kilde er ændret - HDMI er tændt"
+						"Text": "Kilde ændret - HDMI aktivt"
 					}
 				},
 				{
@@ -1764,7 +1932,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Rename_Device_Headline",
-						"Text": "Giv apparat et nyt navn"
+						"Text": "Omdøb apparat"
 					}
 				},
 				{
@@ -1780,7 +1948,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Reset_Browser_Main_Text",
-						"Text": "Er du sikker på, at du vil nulstille browseren?\\nAlle kontoinformationer mistes\\nog du er nødt til at logge ind igen."
+						"Text": "Vil du virkelig nulstille browseren?\\nAlle brugerinformationer går tabt,\\nog du skal logge på igen."
 					}
 				},
 				{
@@ -1788,7 +1956,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Run_Time_Main_Text",
-						"Text": "Aktiv tid:"
+						"Text": "Løbetid:"
 					}
 				},
 				{
@@ -1796,7 +1964,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Screen_Off_Notification",
-						"Text": "Rør venligst skærmen for at aktivere"
+						"Text": "Tryk på skærm for at tænde."
 					}
 				},
 				{
@@ -1804,7 +1972,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Screen_Timeout_Headline",
-						"Text": "Skærmens timeout"
+						"Text": "Skærmtimeout"
 					}
 				},
 				{
@@ -1836,7 +2004,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Main_Text",
-						"Text": "Hvis du fortsætter, så nulstilles systemet til\\nfabriksindstillingerne. Alle individuelle indstillinger\\ninklusiv gemte netværk, Bluetooth apparater og\\nkodeord bliver slettet. Det er ikke muligt at fortryde\\ndenne proces. Er du sikker på, at du vil nulstille?"
+						"Text": "Hvis du fortsætter, nulstilles systemet\\ntil fabriksindstillingerne.\\nAlle personlige indstillinger som fx\\ngemte netværk eller passwords bliver slettet.\\nDet er ikke muligt at fortryde handlingen.\\nVil du virkelig nulstille?"
 					}
 				},
 				{
@@ -1852,7 +2020,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Successful_Main_Text",
-						"Text": "Fabriksindstillinger er blevet genskabt.\\nSystemet genstarter om lidt."
+						"Text": "Fabriksindstillinger blev gendannet.\\nSystemet genstartes om lidt."
 					}
 				},
 				{
@@ -1876,7 +2044,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Version_Main_Text",
-						"Text": "Software-version"
+						"Text": "Softwareversion"
 					}
 				},
 				{
@@ -1932,7 +2100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Option_2",
-						"Text": "30 sekunder"
+						"Text": "30 s"
 					}
 				},
 				{
@@ -1940,7 +2108,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Option_3",
-						"Text": "1 minut"
+						"Text": "1 min"
 					}
 				},
 				{
@@ -1948,7 +2116,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Option_4",
-						"Text": "5 minutter"
+						"Text": "5 min"
 					}
 				},
 				{
@@ -1956,7 +2124,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Option_5",
-						"Text": "10 minutter"
+						"Text": "10 min"
 					}
 				},
 				{
@@ -1964,7 +2132,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Option_6",
-						"Text": "30 minutter"
+						"Text": "30 min"
 					}
 				},
 				{
@@ -1980,7 +2148,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Preview_Option_2",
-						"Text": "30 sekunder"
+						"Text": "30 s"
 					}
 				},
 				{
@@ -1988,7 +2156,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Preview_Option_3",
-						"Text": "1 minut"
+						"Text": "1 min"
 					}
 				},
 				{
@@ -1996,7 +2164,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Preview_Option_4",
-						"Text": "5 minutter"
+						"Text": "5 min"
 					}
 				},
 				{
@@ -2004,7 +2172,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Preview_Option_5",
-						"Text": "10 minutter"
+						"Text": "10 min"
 					}
 				},
 				{
@@ -2012,7 +2180,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Timeout_Preview_Option_6",
-						"Text": "30 minutter"
+						"Text": "30 min"
 					}
 				},
 				{
@@ -2028,7 +2196,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Available_Main_Text",
-						"Text": "Der er en softwareopdatering:\\n\\n- Nye og/eller udvidede features\\n- Generelle reparationer af bugs\\n- Forbedringer af stabilitet og sikkerhed\\n\\nVersion: {0} Størrelse: {1} MB\\n\\nAfhængig af din forbindelseshastighed kan det\\ntage flere minutter. Vil du gerne downloade nu?"
+						"Text": "Der er en tilgængelig softwareopdatering:\\n- Nye og/eller udvidede funktioner\\n- Generelle fejlafhjælpninger\\n- Forbedringer af stabilitet og sikkerhed\\nVersion: {0}, størrelse: {1} MB\\nVil du downloade den nu?"
 					}
 				},
 				{
@@ -2044,7 +2212,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Unavailable_Main_Text",
-						"Text": "Kan ikke tjekke for opdateringer.\\nPrøv venligst igen senere."
+						"Text": "Søgning efter opdateringer ikke mulig.\\nForsøg igen senere."
 					}
 				},
 				{
@@ -2060,7 +2228,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_PL",
-						"Text": "Bentleys Underholdningssystem\\nlukkes om {0} sekunder.\\nTryk OK for at forlænge brug."
+						"Text": "Audis entertainment-systemet\\nslukker om {0} s.\\nTryk på OK for at fortsætte\\nmed at anvende det."
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "Bentleys Underholdningssystem\\nlukkes om {0} sekunder.\\nTryk OK for at forlænge brug."
+						"Text": "Audis entertainment-systemet\\nslukker om {0} s.\\nTryk på OK for at fortsætte\\nmed at anvende det."
 					}
 				},
 				{

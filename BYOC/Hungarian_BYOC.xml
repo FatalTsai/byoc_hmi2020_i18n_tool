@@ -4,6 +4,18 @@
     <LangID ID="Assigned_Location_Main_Text" Text="Kijelölt hely:"/>
     <LangID ID="Assigned_Location_None" Text="Nincs"/>
     <LangID ID="Assigned_Location_Right" Text="Jobb oldal"/>
+    <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
+    <LangID ID="Audi_Brightnsss" Text="Fényerősség"/>
+    <LangID ID="Audi_Connection" Text="Összeköttetés"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="WLAN-összeköttetés"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Output" Text="Audiolejátszás"/>
+    <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Volume" Text="Hangerősség"/>
+    <LangID ID="Audi_WiFi" Text="WLAN"/>
     <LangID ID="Audio_Sync_Headline" Text="Hangfájlok szinkronizálása"/>
     <LangID ID="Audio_Sync_Main_Text" Text="Manuális szabályozás"/>
     <LangID ID="BTN_Cancel" Text="Mégsem"/>
@@ -18,17 +30,17 @@
     <LangID ID="BTN_SAVE" Text="Tárolás"/>
     <LangID ID="BTN_START" Text="INDÍTÁS"/>
     <LangID ID="BTN_YES" Text="Igen"/>
-    <LangID ID="BT_Name_Main_Text" Text="Bluetooth név:"/>
+    <LangID ID="BT_Name_Main_Text" Text="Bluetooth® név:"/>
     <LangID ID="Blocked_Browser_Headline" Text="Távoli kapcoslat"/>
     <LangID ID="Blocked_Browser_Main_Text" Text="Olvassa be a QR-kódot az eszközön történő megjelenítéséhez:"/>
-    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Hangfájlok szinkronizálása\nkész."/>
-    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Hangfájlok szinkronizálása\nsikertelen. Próbálkozzon\nújra később."/>
+    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Hangfájlok\nszinkronizálása\nkész."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Hangfájlok\nszinkronizálása\nsikertelen.\nPróbálkozzon\nújra később."/>
     <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Hangfájlok szinkronizálása"/>
     <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Szinkronizálás...\n{0}%"/>
-    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Tartsa a fejhallgatót a\nképernyőn lévő mikrofon\nközelébe és nyomja meg a\nstart gombot. A hang elnémul\na szinkronizálás során."/>
-    <LangID ID="Bluetooth_Headline" Text="Bluetooth"/>
-    <LangID ID="Bluetooth_Status" Text="BLUETOOTH"/>
-    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Új fejhallgatót párosít?\nA fejhallgatónak párosítás üzemmódban kell lennie."/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Tartsa a fejhallgatót a\nképernyőn lévő mikrofon\nközelébe, és nyomja\nmeg a Start gombot.\nA hang elnémul a\nszinkronizálás közben."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth®"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH®"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Új fejhallgatót csatlakoztat?\nA fejhallgatónak párosítás\nüzemmódban kell lennie."/>
     <LangID ID="Cancel_Download_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="Cancel_Download_Main_Text" Text="Biztos megszakítja a\nletöltést?"/>
     <LangID ID="Checkbox_Text" Text="Többet ne mutassa"/>
@@ -38,12 +50,12 @@
     <LangID ID="Connection_Assistant_1_Headline" Text="Kapcsolódási asszisztens 1/2"/>
     <LangID ID="Connection_Assistant_2_Headline" Text="Kapcsolódási asszisztens 2/2"/>
     <LangID ID="Connection_Assistant_Headline" Text="Kapcsolódási asszisztens"/>
-    <LangID ID="Connection_Assistant_Help_Text" Text="Vagy nyomja meg az alábbi bekapcsoló gombot\na gyorsmenü megnyitásához."/>
-    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Olvassa be a QR-kódot, hogy Wi-Fi\nhasználatával kapcs. a képernyőhöz:"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="A hálózat kiválasztásához nyomja meg az alábbi\nbekapcsológombot, és válassza a Wi-Fi lehetőséget."/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Ellenőrizze, hogy készüléke és ez a képernyő\nugyanazon a hálózaton található-e a streameléshez."/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="Vagy nyomja meg a bekapcsoló\ngombot alul a gyorsmenü megnyitásához."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Olvassa be a QR-kódot, hogy\nWi-Fi használatával\nkapcsolódjon a képernyőhöz:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="A hálózat kiválasztásához nyomja meg\na bekapcsoló gombot, és válassza a Wi-Fi-t."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Médiafájlok lejátszásához a készüléknek és a\nképerny.nek ugyanazon a hálóz.on kell lenni."/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="QR-kód beolvasása a\ncsatlakozáshoz:\n{0}"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Olvassa be az alkalmazás vagy\naz alternatív csatlakozási\nlehetőségek QR-kódját."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Az alkalmazáshoz vagy más\nlehetőséghez való kapcs.hoz\nolvassa be a QR-kódot."/>
     <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Main_Text" Text="A hálózati kapcsolat nem\nhozható létre."/>
     <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
@@ -57,7 +69,7 @@
     <LangID ID="Crosslink_Pairing_Text" Text="Párosítás..."/>
     <LangID ID="Crosslink_Screen_Main_Text" Text="Válassza ki, hogy a jármű melyik oldalához\nszeretné rendelni ezt a képernyőt."/>
     <LangID ID="Crosslink_Searching_Text" Text="Keresés..."/>
-    <LangID ID="Delete_Device_Main_Text" Text="Biztosan törölni akarja ezeket a fájlokat?"/>
+    <LangID ID="Delete_Device_Main_Text" Text="Biztosan törölni akarja ezt a\nBluetooth®-eszközt?"/>
     <LangID ID="Delete_Install_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="Delete_Install_Main_Text" Text="Biztosan törli a\nszoftver-frissítést?"/>
     <LangID ID="Delete_Network_Main_Text" Text="Biztosan törölni kívánja ezt a hálózatot?"/>
@@ -66,18 +78,18 @@
     <LangID ID="Download_Failed_Main_Text" Text="A szoftver letöltése sikertelen.\nKíván újra próbálkozni?"/>
     <LangID ID="Help_Headline" Text="Felhasználói útmutató"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-cím:"/>
-    <LangID ID="IVI_Active_Status" Text="Hangkimenet az autóhoz"/>
-    <LangID ID="IVI_Delete_Confirm" Text="Biztosan törli a következőt:\n{0}?\nMegjegyzés: a jármű hangkimenetének hangszórói\na továbbiakban nem lesznek elérhetők."/>
+    <LangID ID="IVI_Active_Status" Text="Hangkimenet autóhoz"/>
+    <LangID ID="IVI_Delete_Confirm" Text="Biztosan törli a következőt:\n{0}?\nMegjegyzés: a jármű\nhangkimenetének hangszórói\na továbbiakban nem lesznek elérhetők."/>
     <LangID ID="IVI_Headline" Text="Hangkimenet az autóhoz"/>
-    <LangID ID="IVI_Main_Text" Text="Kérjük válassza ki a Bluetooth rendszer\nhangforrásaként használni kívánt képernyőt az\ninfotainmenet rendszeren. A max. hangerőt az\ninfotainment hangereje határozza meg."/>
+    <LangID ID="IVI_Main_Text" Text="Kérjük, válassza ki a képernyőt Bluetooth®-\nhangforrásként az infotainment rendszeren.\nA maximális hangerőt az infotainment\nrendszer határozza meg."/>
     <LangID ID="IVI_Pairing_Failed" Text="A párosítás sikertelen.\nPróbálja újra később."/>
     <LangID ID="IVI_Pairing_Headline" Text="Csatlakozás autós audióhoz"/>
     <LangID ID="IVI_Pairing_In_Progress" Text="Párosítás..."/>
     <LangID ID="IVI_Pairing_Search" Text="Keresés..."/>
-    <LangID ID="IVI_Sync_Complete" Text="Hangfájlok szinkronizálása\nkész."/>
+    <LangID ID="IVI_Sync_Complete" Text="Hangfájlok\nszinkronizálása\nkész."/>
     <LangID ID="IVI_Sync_Error" Text="Hiba lépett fel.\nA hangfájlok nem szinkronizálhatók.\nPróbálja újra később."/>
     <LangID ID="IVI_Sync_In_Progress" Text="Szinkronizálás...\n{0}%"/>
-    <LangID ID="IVI_Sync_Main_Text" Text="Adja meg a Bluetooth\nhangforrás nevét az\ninfotainment rendszeren.\nEllenőrizze a hangerőt és\ncsökkentse a háttérzajt.\nNyomja meg a INDÍTÁS\ngombot ha a rendszer kész."/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Válassza ki a képernyőt\nBluetooth®-\nhangforrásként az\ninfotainment rendsz.en.\nCsökkentse a háttérzajt.\nNyomja meg a START\ngombot, ha a rsz. kész."/>
     <LangID ID="Install_Active_Headline" Text="Megjegyzés"/>
     <LangID ID="Install_Active_Main_Text" Text="Frissítés telepítése\n{0}% kész.\n\nÜgyeljen arra, hogy a jármű a frissítés\nvégéig be legyen indítva.\n\nA rendszer a telepítést\nkövetően újraindul."/>
     <LangID ID="Install_Available_Headline" Text="Szoftverfrissítés"/>
@@ -87,15 +99,18 @@
     <LangID ID="Install_Failed_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="Install_Failed_Main_Text" Text="A szoftver telepítése sikertelen.\nKíván újra próbálkozni?"/>
     <LangID ID="Install_Successful_Headline" Text="Szoftverfrissítés"/>
-    <LangID ID="Install_Successful_Main_Text" Text="A telepítés sikeres. A szoftver frissítve.\n\nMi új\n- Általános hibajavítások és szöveges frissítések\n- A {0} funkció teljesítményének fokozása\n- Új funkció: {1}"/>
+    <LangID ID="Install_Successful_Main_Text" Text="A telepítés sikeres. A szoftver frissítve.\n\nMi új\n- Új és/vagy továbbfejlesztett funkciók\n- Általános hibajavítások\n- A stabilitás és a biztonság javítása"/>
     <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Czech" Text="Čeština"/>
     <LangID ID="Language_Danish" Text="Dansk"/>
     <LangID ID="Language_Dutch" Text="Nederlands"/>
     <LangID ID="Language_English_UK" Text="English (UK)"/>
     <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_Finnish" Text="Suomi"/>
     <LangID ID="Language_French" Text="Français"/>
     <LangID ID="Language_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_German" Text="Deutsch"/>
@@ -105,18 +120,22 @@
     <LangID ID="Language_Italian" Text="Italiano"/>
     <LangID ID="Language_Japanese" Text="日本語"/>
     <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Polish" Text="Polski"/>
     <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Preview_Czech" Text="Čeština"/>
     <LangID ID="Language_Preview_Danish" Text="Dansk"/>
     <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
     <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
     <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_Finnish" Text="Suomi"/>
     <LangID ID="Language_Preview_French" Text="Français"/>
     <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_Preview_German" Text="Deutsch"/>
@@ -125,24 +144,33 @@
     <LangID ID="Language_Preview_Italian" Text="Italiano"/>
     <LangID ID="Language_Preview_Japanese" Text="日本語"/>
     <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Preview_Polish" Text="Polski"/>
     <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Preview_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Romanian" Text="Română"/>
     <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Preview_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Preview_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Preview_Spanish" Text="Español"/>
     <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
     <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Preview_Ukrainian" Text="Українська"/>
     <LangID ID="Language_Romanian" Text="Română"/>
     <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Spanish" Text="Español"/>
     <LangID ID="Language_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Swedish" Text="Svenska"/>
     <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Ukrainian" Text="Українська"/>
     <LangID ID="Legal_Info_Headline" Text="Jogi információk"/>
     <LangID ID="MCU_Version_Main_Text" Text="MCU Változat:"/>
     <LangID ID="Max_Volume_Notification" Text="A képernyő hangereje a maximumon van.\nNövelje az infotainment rendszer hangerejét."/>
@@ -150,14 +178,16 @@
     <LangID ID="Menu_Download_Active" Text="Letöltés megszakítása"/>
     <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
     <LangID ID="Menu_Help_Crosslink" Text="Válassza a &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; lehetőséget a jelenlegi tartalin\nkís.képernyőn történő megjel. Megjegyzés: ha a\ncrosslink hangmegosztáskor van kivál., az audio- és\nhangerőszabályzók nem érhetők el."/>
-    <LangID ID="Menu_Help_HDMI" Text="A tartalom akkor játszható le HDMI-forrásból,\nha kompatibilis eszköz van csatlakoztatva.\njátszik le tartalmat, a képernyő üres lesz."/>
+    <LangID ID="Menu_Help_HDMI" Text="Akkor játszható le tartalom HDMI-forrásból,\nha kompatibilis eszköz van csatlakoztatva. Ha\na kiválasztás után semmilyen tartalom\nlejátszása nem történik meg a HDMI-\neszközön, akkor üres képernyő látható."/>
     <LangID ID="Menu_Help_Input" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; lehetőséget a\nWi-Fi-kapcsolathoz. Ez lehetővé teszi a külsős\nszolgáltatói tartalmak streamelését vagy kapcsolatot\nlétrehozását az eszközzel tartalommegosztás céljából."/>
-    <LangID ID="Menu_Help_Intro" Text="A Bentley Entertainment System lehetővé teszi\nWi-Fi-n keresztül csatlakoztatott mobil eszközön vagy\nHDMI-n vagy USB-n keresztül csatlakoztatott komp.\neszközök tartalmainak megtekintését és hallgatását."/>
-    <LangID ID="Menu_Help_OTA" Text="Új funkciók és hibajavítások felfedezéséhez töltse\nle a legújabb szoftvert a beállítások menüből."/>
+    <LangID ID="Menu_Help_Intro_SOP1" Text="Az Audi Entertainment System lehetővé teszi\nWi-Fi-n keresztül csatlakoztatott mobil\neszköz vagy HDMI-n, ill. USB-n\nkeresztül csatlakoztatott kompatibilis\neszköz tartalmainak megtekintését."/>
+    <LangID ID="Menu_Help_Intro_SOP2" Text="A Audi Entertainment System lehetővé teszi\nWi-Fi-n keresztül csatlakoztatott mobil eszközön vagy\nHDMI-n vagy USB-n keresztül csatlakoztatott komp.\neszközök tartalmainak megtekintését és hallgatását."/>
+    <LangID ID="Menu_Help_OTA" Text="A legújabb funkciók és hibajavítások\nmegismeréséhez töltse le a legújabb\nszoftvert a Beállítások menüből."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; lehetőséget Bluetooth\n-fejhallg. csatlakoztatásához. A hang vezetékes\nfejhallgatón keresztül is hallgatható."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; lehetőséget Bluetooth\n-fejhallg. csatlakoztatásához vagy nyomja meg a\nhangmegosztás gombot a hang hangszóróra történő\nküldéséhez. A hang vezetékes fejhallgatón keresztül\nis hallgatható."/>
+    <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
     <LangID ID="Menu_Help_Source" Text="Válassza a &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt; gombot a kívánt tartalomhoz.\nKülsős szolgáltatók tartalmainak megtekintéséhez.\nválassza ki a szolgáltatást a megjelenő listából.\nA böngésző is ebben a menüben állítható vissza."/>
-    <LangID ID="Menu_Help_USB" Text="Médiafájlok akkor játszhatók le USB-n\nkeresztül csatlakoztatott eszközről, ha a\nBentley Entertainment Control alkalmazást használja."/>
+    <LangID ID="Menu_Help_USB" Text="Médiafájlok a Fond Media Control App\nsegítségével egy kompatibilis, USB-n\nkeresztül csatlakoztatott eszközről\njátszhatók le."/>
     <LangID ID="Menu_Install_Update" Text="Frissítés telepítése"/>
     <LangID ID="Menu_Legal_About_Us" Text="Rólunk"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Nyílt forráskódú licenc"/>
@@ -184,34 +214,25 @@
     <LangID ID="No_Devices_Main_Text" Text="Nem található készülék"/>
     <LangID ID="No_Updates_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="No_Updates_Main_Text" Text="Nincsenek elérhető frissítések."/>
-    <LangID ID="Notification_Bluetooth_Unavailable" Text="A Bluetooth jelenleg nem érhető el"/>
-    <LangID ID="Notification_Brightness_Unavailable" Text="A fényerőszabályzók jelenleg nem érhetők el"/>
-    <LangID ID="Notification_Child_Lock_Unavailable" Text="A gyermekzár jelenleg nem érhető el"/>
-    <LangID ID="Notification_Connecting" Text="Kapcsolódás..."/>
     <LangID ID="Notification_Crosslink_Unavailable" Text="A Crosslink jelenleg nem érhető el"/>
-    <LangID ID="Notification_Error_Reconnect" Text="Kapcsolat megszakadt. Újrakapcsolódás..."/>
-    <LangID ID="Notification_Full_Screen_Unavailable" Text="A teljes képernyős mód jelenleg nem érhető el"/>
     <LangID ID="Notification_HDMI_Unavailable" Text="A HDMI jelenleg nem érhető el"/>
-    <LangID ID="Notification_Help_Unavailable" Text="A felhasználói útmutató jelenleg nem érhető el"/>
     <LangID ID="Notification_IVI_Unavailable" Text="A hangmegosztás jelenleg nem érhető el"/>
     <LangID ID="Notification_Initialising" Text="Inicializálás..."/>
     <LangID ID="Notification_Mute_Unavailable" Text="A némítás jelenleg nem érhető el"/>
     <LangID ID="Notification_OTT_Unavailable" Text="A külső tartalomszolgáltató nem érhető el"/>
-    <LangID ID="Notification_Quick_Menu_Unavailable" Text="A gyorsmenü jelenleg nem érhető el"/>
-    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="A funkció jelenleg nem érhető el"/>
-    <LangID ID="Notification_Screen_Unavailable" Text="A képernyő jelenleg nem érhető el"/>
-    <LangID ID="Notification_Temperature" Text="A képernyő hőmérséklete túl magas. A rendszer\na károsodás megelőzése érdekében hamarosan kikapcsol."/>
+    <LangID ID="Notification_SOP1_Function_Unavailable" Text="A funkció jelenleg nem érhető el"/>
+    <LangID ID="Notification_Temperature" Text="A képernyő hőmérséklete túl magas. A rendszer\na károsodás megelőzése érd.ben hamarosan kikapcsol."/>
     <LangID ID="Notification_Volume_Unavailable" Text="A hangerőszabályzók jelenleg nem érhetők el"/>
-    <LangID ID="Notification_WiFi_Unavailable" Text="A Wi-Fi jelenleg nem érhető el"/>
     <LangID ID="PIN_Entry_Help_Text" Text="PIN-kód megadása"/>
-    <LangID ID="PIN_Entry_Main_Text" Text="Adja meg a\nPIN-kódot a\nBluetooth-eszköz."/>
-    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Adja meg Bluetooth®-\neszköze PIN-kódját."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Main_Text" Text="Kapcsolat sikertelen.\nPróbálkozzon újra később."/>
-    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Kapcsolat sikertelen.\nEllenőrizze a PIN-kódot."/>
     <LangID ID="Password_Speller_Help_Text" Text="Jelszó beírása"/>
+    <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Visszaállítás"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Teljes képernyő"/>
-    <LangID ID="Quick_Menu_Help" Text="Felhaszn. útmutató"/>
+    <LangID ID="Quick_Menu_Help" Text="Felhaszn. útmut."/>
     <LangID ID="Quick_Menu_Screen_Off" Text="Képernyő ki"/>
     <LangID ID="Quick_Menu_Settings" Text="Beállítások"/>
     <LangID ID="Quick_Menu_Source" Text="Forrás"/>
@@ -221,13 +242,13 @@
     <LangID ID="Rename_Device_Headline" Text="Eszköz átnevezése"/>
     <LangID ID="Reset_Browser_Headline" Text="Böngésző visszaállítása"/>
     <LangID ID="Reset_Browser_Main_Text" Text="Biztos visszaállítja a böngészőt?\nAz összes fiókinformáció elveszik,\nÖnnek pedig újból be kell jelentkeznie."/>
-    <LangID ID="Run_Time_Main_Text" Text="Érvényességének időtartama:"/>
+    <LangID ID="Run_Time_Main_Text" Text="Érvényesség időtartama:"/>
     <LangID ID="Screen_Off_Notification" Text="A bekapcsoláshoz koppintson a képernyőre"/>
     <LangID ID="Screen_Timeout_Headline" Text="Kijelző kikapcsolása"/>
     <LangID ID="Settings_Headline" Text="Beállítások"/>
     <LangID ID="Shutting_Down_Notification" Text="A rendszer leáll..."/>
     <LangID ID="Software_Reset_Headline" Text="Gyári beállítások visszaállítása"/>
-    <LangID ID="Software_Reset_Main_Text" Text="Ha folytatja, a rendszer visszaáll a gyári beállításokra.\nAz összes egyedi beállítás -beleértve a mentett\nhálózatokat, a Bluetooth-eszközöket és a jelszavakat-\ntörlődik. Ezt a folyamatot nem lehet visszavonni.\n\nBiztos elvégzi a visszaállítást?"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Ha folytatja, a rendszer visszaáll a gyári\nbeállításokra. Az összes egyedi beállítás,\npl. mentett hálózatok és a jelszavak,\ntörlődik. A folyamatot nem lehet visszavonni.\nBiztosan elvégzi a visszaállítást?"/>
     <LangID ID="Software_Reset_Successful_Headline" Text="Gyári beállítások visszaállítása"/>
     <LangID ID="Software_Reset_Successful_Main_Text" Text="Gyári beállítások visszaállítva.\nA rendszer rövidesen újraindul."/>
     <LangID ID="Software_Update_Headline" Text="Szoftver"/>
@@ -251,12 +272,12 @@
     <LangID ID="Timeout_Preview_Option_5" Text="10 perc"/>
     <LangID ID="Timeout_Preview_Option_6" Text="30 perc"/>
     <LangID ID="Update_Available_Headline" Text="Szoftverfrissítés"/>
-    <LangID ID="Update_Available_Main_Text" Text="A következő változásokkal elérhető szoftverfrissítés:\n\n- Új és / vagy továbbfejlesztett szolgáltatások\n- Általános hibajavítások\n- A használhatóság, a stabilitás és a biztonság javítása\n\nVerzió: {0} Méret: {1} MB\n\nA letöltés a kapcsolat sebességétől függően néhány\npercet vehet igénybe. Szeretné most letölteni?"/>
+    <LangID ID="Update_Available_Main_Text" Text="Szoftverfrissítés elérhető:\n- Új és/vagy továbbfejlesztett funkciók\n- Általános hibajavítások\n- A stabilitás és a biztonság javítása\nVerzió: {0} Méret: {1} MB\nLe szeretné most tölteni?"/>
     <LangID ID="Update_Unavailable_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="Update_Unavailable_Main_Text" Text="Frissítések nem ellenőrizhetők.\nPróbálja újra később."/>
     <LangID ID="Use_Extension_Headline" Text="Megjegyzés"/>
-    <LangID ID="Use_Extension_Main_Text_PL" Text="A Bentley Entertainment System\n{0} másodperc múlva kikapcsol.\nA további használathoz nyomja\nmeg az Rendben gombot."/>
-    <LangID ID="Use_Extension_Main_Text_SG" Text="A Bentley Entertainment System\n{0} másodperc múlva kikapcsol.\nA további használathoz nyomja\nmeg az Rendben gombot."/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Az Audi Entertainment System\n{0} másodperc múlva kikapcsol.\nA további használathoz nyomja\nmeg az OK gombot."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Az Audi Entertainment System\n{0} másodperc múlva kikapcsol.\nA további használathoz nyomja\nmeg az OK gombot."/>
     <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
     <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
 </LangDef>

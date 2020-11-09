@@ -51,6 +51,102 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Helderheid"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "Verbinding"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "WLAN-verbinding"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Quick introduction"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Audiouitgave"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Volume"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Audio_Sync_Headline",
 						"Text": "Audiosynchronisatie"
 					}
@@ -84,7 +180,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_INSTALL",
-						"Text": "Installeren"
+						"Text": "Install."
 					}
 				},
 				{
@@ -164,7 +260,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BT_Name_Main_Text",
-						"Text": "Bluetooth-naam:"
+						"Text": "Bluetooth®-naam:"
 					}
 				},
 				{
@@ -188,7 +284,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Complete",
-						"Text": "Audiosynchronisatie voltooid."
+						"Text": "Audiosynchronisatie\\nvoltooid."
 					}
 				},
 				{
@@ -196,7 +292,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Error",
-						"Text": "Audiosynchronisatie mislukt.\\nProbeer het later opnieuw."
+						"Text": "Audiosynchronisatie\\nmislukt. Probeert u het\\nlater nog eens a.u.b."
 					}
 				},
 				{
@@ -220,7 +316,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Main_Text",
-						"Text": "Houd de hoofdtelefoon\\nin de buurt van de micro-\\nfoon op het scherm en\\ndruk op start. Tijdens\\nhet synchronisatieproces\\nwordt audio gedempt."
+						"Text": "Houd de hoofdtelefoon\\nbij de microfoon op het\\nbeeldscherm en druk op\\nstart. Tijdens het\\nsynchroniseren wordt\\nhet geluid onderdrukt."
 					}
 				},
 				{
@@ -228,7 +324,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -236,7 +332,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Status",
-						"Text": "BLUETOOTH"
+						"Text": "BLUETOOTH®"
 					}
 				},
 				{
@@ -244,7 +340,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Visibility_Main_Text",
-						"Text": "Nieuwe hoofdtelefoon koppelen?\\nHoofdtelefoon moet zich in koppelingsmodus bevinden."
+						"Text": "Nieuwe hoofdtelefoon verbinden?\\nDe hoofdtelefoon moet zich in\\nde koppelingsmodus bevinden."
 					}
 				},
 				{
@@ -324,7 +420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_Help_Text",
-						"Text": "Of druk op de aan/uit-toets\\nhieronder om het snelmenu te openen."
+						"Text": "Of druk op de inschakeltoets hieronder\\nom het snelmenu te openen."
 					}
 				},
 				{
@@ -332,7 +428,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
-						"Text": "Scan de QR-code om te\\nverbinden met het scherm via wifi:"
+						"Text": "Scan de QR-code om\\nu via wifi te verbinden\\nmet het beeldscherm:"
 					}
 				},
 				{
@@ -340,7 +436,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
-						"Text": "Druk op de onderstaande startknop en\\nselecteer wifi om een beschikbaar netwerk te kiezen."
+						"Text": "Druk op de inschakeltoets en kies wifi\\nom een beschikbaar netwerk te kiezen."
 					}
 				},
 				{
@@ -348,7 +444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
-						"Text": "Controleer of uw apparaat en dit scherm zich op\\nhetzelfde netwerk bevinden om media te streamen."
+						"Text": "Om media af te spelen, moeten apparaat\\nen beeldscherm op hetzelfde netwerk zitten."
 					}
 				},
 				{
@@ -356,7 +452,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
-						"Text": "Scan de QR-code om te verbinden:\\n{0}"
+						"Text": "Scan de QR-code om een ver-\\nbinding tot stand te brengen:\\n{0}"
 					}
 				},
 				{
@@ -364,7 +460,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
-						"Text": "Scan de QR-code voor de app ov\\nvoor alternatieve verbindingsopties."
+						"Text": "Scan de QR-code om u met\\nde app of met andere opties\\nte verbinden."
 					}
 				},
 				{
@@ -412,7 +508,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Host_Main_Text",
-						"Text": "Een Crosslink-koppelingsprocedure is gestart."
+						"Text": "Een Crosslink-koppeling is gestart."
 					}
 				},
 				{
@@ -476,7 +572,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Device_Main_Text",
-						"Text": "Wilt u dit Bluetooth-apparaat werkelijk wissen?"
+						"Text": "Wilt u dit Bluetooth®-apparaat\\nwerkelijk wissen?"
 					}
 				},
 				{
@@ -500,7 +596,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Network_Main_Text",
-						"Text": "Weet u zeker dat u dit netwerk wilt verwijderen?"
+						"Text": "Weet u zeker dat u dit netwerk wilt wissen?"
 					}
 				},
 				{
@@ -548,7 +644,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Active_Status",
-						"Text": "Audio-uitvoer naar auto"
+						"Text": "Audio in de wagen"
 					}
 				},
 				{
@@ -572,7 +668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Main_Text",
-						"Text": "Kies de schermnaam als de Bluetooth-\\naudiobron op het infotainment-systeem.\\nMet maximale volume wordt bepaald door\\nhet infotainment-hoofdvolume."
+						"Text": "Kies in het infotainmentsysteem het\\nbeeldscherm als Bluetooth®-audiobron.\\nHet maximale volume wordt met behulp\\nvan het infotainmentsysteem vastgelegd."
 					}
 				},
 				{
@@ -612,7 +708,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Complete",
-						"Text": "Audiosynchronisatie voltooid."
+						"Text": "Audiosynchronisatie\\nvoltooid."
 					}
 				},
 				{
@@ -636,7 +732,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Main_Text",
-						"Text": "Selecteer de schermnaam als\\nBluetooth audiobron op het\\ninfotainment-systeem.\\nControleer het volume en\\nverminder achtergrondgeluid.\\nDruk op START wanneer het\\nsysteem gereed is."
+						"Text": "Beeldscherm kiezen als\\nBluetooth® audiobron\\nin het infotainment-\\nsysteem. Achtergrond-\\ngeluiden reduceren.\\nSTART indrukken als\\nhet systeem gereed is."
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "Installatie gelukt. Software is bijgewerkt.\\n\\nWat is er nieuw\\n- Algemene bugfixes en tekst-updates\\n- Verbeterde werking van de {0}-functie\\n- Nieuwe functie {1}"
+						"Text": "Installatie gelukt. Software is bijgewerkt.\\n\\nWat is er nieuw\\n- Nieuwe en/of uitgebreide functies\\n- Algemene bugfixes\\n- Verbeteringen in stabiliteit en veiligheid"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -781,6 +893,14 @@
 					"attributes": {
 						"ID": "Language_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -859,6 +979,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Norwegian",
 						"Text": "Norsk"
 					}
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1163,8 +1379,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Legal_Info_Headline",
-						"Text": "Juridische informatie en privacyverklaring"
+						"Text": "Juridische informatie"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "Inhoud kan worden afgespeeld van een HDMI-bron\\nwanneer een compatibel apparaat is aangesloten.\\nOpmerking: als er geen inhoud wordt afgespeeld op het\\nHDMI-apparaat, is het scherm leeg bij selectie."
+						"Text": "Inhoud kan worden afgespeeld vanaf\\neen HDMI-bron wanneer een compatibel\\napparaat is verbonden. Als er na selectie\\ngeen inhoud wordt afgespeeld op het\\nHDMI-apparaat, is het scherm leeg."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "Met het Bentley Entertainment-systeem kunt u inhoud\\nzien en horen van uw mobiele apparaat verbonden\\nvia wifi of van een compatibel apparaat dat is\\nverbonden via HDMI of USB."
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Met het Audi Entertainment-systeem kunt u\\ninhoud zien en horen van uw via wifi\\nverbonden mobiele apparaat of van een\\ncompatibel apparaat dat is verbonden via\\nHDMI of USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Met het Audi Entertainment-systeem kunt u inhoud\\nzien en horen van uw mobiele apparaat verbonden\\nvia wifi of van een compatibel apparaat dat is\\nverbonden via HDMI of USB."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Kies &lt;span id=\\&quot;text_Highlight\\&quot;&gt;BRON&lt;/span&gt; om uw gewenste inhoud te kiezen.\\nU kunt inhoud van externe providers bekijken door\\nhet kiezen van de service in de getoonde lijst.\\nDe browser kan in dit menu ook worden gereset."
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "Media kan worden afgespeeld via een compatibel\\napparaat verbonden via USB wanneer de Bentley\\nEntertainment besturings-app wordt gebruikt."
+						"Text": "Media kunnen met behulp van de Fond\\nMedia Control app vanaf een compatibel,\\nvia USB verbonden apparaat worden\\nafgespeeld."
 					}
 				},
 				{
@@ -1364,7 +1604,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Legal_Info",
-						"Text": "Juridische informatie en privacyverklaring"
+						"Text": "Juridische informatie"
 					}
 				},
 				{
@@ -1491,38 +1731,6 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "Bluetooth is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "Helderheidsregeling momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "Kinderslot is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "Verbinden..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Crosslink_Unavailable",
 						"Text": "Crosslink is momenteel niet beschikbaar"
 					}
@@ -1531,32 +1739,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "Verbinding verloren. Opnieuw proberen..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "Volledig scherm is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_HDMI_Unavailable",
 						"Text": "HDMI is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "Gebruikersgids is momenteel niet beschikbaar"
 					}
 				},
 				{
@@ -1595,24 +1779,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "Snelmenu is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "De functie is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "Scherm is momenteel niet beschikbaar"
 					}
 				},
 				{
@@ -1635,14 +1803,6 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "Wifi is momenteel niet beschikbaar"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "PIN_Entry_Help_Text",
 						"Text": "Pincode ingeven"
 					}
@@ -1652,7 +1812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "PIN_Entry_Main_Text",
-						"Text": "Vul de pincode\\nvoor uw Bluetooth-\\napparaat in."
+						"Text": "Vul de pincode voor\\nuw Bluetooth®-\\napparaat in a.u.b."
 					}
 				},
 				{
@@ -1660,7 +1820,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1676,7 +1836,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1699,6 +1859,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Resetten"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Quick_Menu_Full_Screen",
 						"Text": "Volledig scherm"
 					}
@@ -1708,7 +1876,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Quick_Menu_Help",
-						"Text": "Gebruikershandleiding"
+						"Text": "Handboek"
 					}
 				},
 				{
@@ -1836,7 +2004,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Main_Text",
-						"Text": "Als u doorgaat wordt het systeem teruggezet naar\\nfabrieksinstellingen. Alle persoonlijke instellingen \\nwaaronder opgeslagen netwerken, Bluetooth-apparaten\\nen wachtwoorden worden verwijderd. Dit proces kan \\nniet ongedaan worden gemaakt.\\nWeet u zeker dat u wilt resetten?"
+						"Text": "Als u doorgaat wordt het systeem teruggezet\\nop fabrieksinstellingen. Alle persoonlijke\\ninstellingen zoals opgeslagen netwerken of\\nwachtwoorden worden verwijderd. Dit proces\\nkan niet ongedaan worden gemaakt. Weet u\\nzeker dat u wilt terugzetten?"
 					}
 				},
 				{
@@ -2028,7 +2196,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Available_Main_Text",
-						"Text": "Software-update beschikbaar:\\n\\n- Algemene bugfixes\\n- Verbeteringen in gebruik, stabiliteit en beveiliging\\n\\nVersie: {0} Grootte: {1} MB\\n\\nHet downloaden kan enkele minuten duren, afhankelijk\\nvan uw verbindingssnelheid. Wilt u nu downloaden?"
+						"Text": "De software-update is beschikbaar:\\n- Nieuwe en/of uitgebreide functies\\n- Algemene bugfixes\\n- Verbeteringen in stabiliteit en veiligheid\\nVersie: {0} Grootte: {1} MB\\nWilt u de update nu downloaden?"
 					}
 				},
 				{
@@ -2060,7 +2228,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_PL",
-						"Text": "Het Bentley Entertainment-systeem\\nzal binnen {0} seconden uitschakelen.\\nDruk op OK om het gebruik te verlengen."
+						"Text": "Het Audi Entertainment-systeem zal over\\n{0} seconden uitschakelen.\\nDruk op OK om het te blijven gebruiken."
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "Het Bentley Entertainment-systeem\\nzal binnen {0} seconden uitschakelen.\\nDruk op OK om het gebruik te verlengen."
+						"Text": "Het Audi Entertainment-systeem zal over\\n{0} seconden uitschakelen.\\nDruk op OK om het te blijven gebruiken."
 					}
 				},
 				{

@@ -1,0 +1,2261 @@
+{
+	"declaration": {
+		"attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8"
+		}
+	},
+	"elements": [
+		{
+			"type": "element",
+			"name": "LangDef",
+			"attributes": {
+				"langCode": "0422",
+				"xsi:noNamespaceSchemaLocation": "HMILinguist_Texts.xsd",
+				"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+			},
+			"elements": [
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Left",
+						"Text": "Зліва"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Main_Text",
+						"Text": "Призначене місце:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_None",
+						"Text": "Немає"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Assigned_Location_Right",
+						"Text": "Справа"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Яскравість"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "З’єднання"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "З’єднання WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Вступ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Відтворення аудіо"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Оновлення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Гучність"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Headline",
+						"Text": "Синхронізація аудіо"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audio_Sync_Main_Text",
+						"Text": "Ручне настроювання"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Cancel",
+						"Text": "Скасувати"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_DELETE",
+						"Text": "Видалити"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_INSTALL",
+						"Text": "Інстал."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_LATER",
+						"Text": "Пізніше"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Left",
+						"Text": "Зліва"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_NO",
+						"Text": "Ні"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_OK",
+						"Text": "OK"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_RETRY",
+						"Text": "Повтор."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_Right",
+						"Text": "Справа"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_SAVE",
+						"Text": "Зберегти"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_START",
+						"Text": "ПОЧАТИ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BTN_YES",
+						"Text": "Так"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "BT_Name_Main_Text",
+						"Text": "Ім’я Bluetooth®:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Headline",
+						"Text": "Віддалене підключення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Blocked_Browser_Main_Text",
+						"Text": "Зіскануйте QR-код, щоб побачити на своєму пристрої такий вміст:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Complete",
+						"Text": "Синхронізацію аудіо\\nзавершено."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Error",
+						"Text": "Помилка синхронізації\\nаудіо. Повторіть спробу\\nпізніше."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Headline",
+						"Text": "Синхронізація Audio"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_In_Progress",
+						"Text": "Синхронізація…\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Audio_Sync_Main_Text",
+						"Text": "Утримуйте навушники\\nбіля мікрофона на\\nекрані й натисніть\\n&quot;Почати&quot;. Під час\\nсинхронізації аудіо\\nне відтворюється."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Headline",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Status",
+						"Text": "BLUETOOTH®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Bluetooth_Visibility_Main_Text",
+						"Text": "Підключити нові навушники?\\nНавушники мають бути в режимі\\nз’єднання."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Cancel_Download_Main_Text",
+						"Text": "Справді скасувати завантаження?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Checkbox_Text",
+						"Text": "Більше не показувати"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Activated_Notification",
+						"Text": "Блокування від дітей увімкнено"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Active_Notification",
+						"Text": "Блокування від дітей активне"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Child_Lock_Deactivated_Notification",
+						"Text": "Блокування від дітей вимкнено"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_1_Headline",
+						"Text": "Асистент підключення 1 з 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_2_Headline",
+						"Text": "Асистент підключення 2 з 2"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Headline",
+						"Text": "Асистент підключення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_Help_Text",
+						"Text": "Або натисніть кнопку ввімкнення внизу,\\nщоб відкрити меню швидкого доступу."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
+						"Text": "Зіскануйте QR-код, щоб\\nпідключитися до екрана\\nчерез WLAN:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
+						"Text": "Щоб вибрати мережу, натисніть кнопку\\nввімкнення й виберіть WLAN."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
+						"Text": "Для відтворення мультимедійного вмісту\\nпристрій і екран мають бути в одній мережі."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
+						"Text": "Щоб установити з’єднання,\\nзіскануйте QR_код:\\n{0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
+						"Text": "Зіскануйте QR-код, щоб \\nпідключитися до програми\\nчи інших можливостей."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Headline",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Main_Text",
+						"Text": "Не вдалося встановити з’єднання\\nз мережею."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Headline",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Connection_Failed_Password_Main_Text",
+						"Text": "Помилка з’єднання.\\nПеревірте пароль."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Headline",
+						"Text": "Налаштування Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Main_Text",
+						"Text": "З’єднання Crosslink розпочато."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_SSID_Text",
+						"Text": "SSID: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Host_Waiting_Text",
+						"Text": "Зачекайте..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Name_Text",
+						"Text": "Ім’я екрана: {0}"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Successful_Text",
+						"Text": "Crosslink успішно налаштовано."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Pairing_Text",
+						"Text": "З’єднання..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Screen_Main_Text",
+						"Text": "Виберіть сторону автомобіля, яку \\nхочете призначити цьому екрану."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Crosslink_Searching_Text",
+						"Text": "Пошук..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Device_Main_Text",
+						"Text": "Справді видалити цей пристрій\\nBluetooth®?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Install_Main_Text",
+						"Text": "Справді видалити оновлення програмного\\nзабезпечення?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Delete_Network_Main_Text",
+						"Text": "Справді видалити мережу?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Device_Search_Menu_Text",
+						"Text": "Пошук..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Download_Failed_Main_Text",
+						"Text": "Помилка завантаження ПЗ.\\nПовторити спробу?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Headline",
+						"Text": "Посібник користувача"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IP_Address_Main_Text",
+						"Text": "IP-адреса:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Active_Status",
+						"Text": "Аудіо в автомобілі"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Delete_Confirm",
+						"Text": "Справді видалити {0}?\\nВказівка: після цього відтворення\\nаудіо в автомобілі через динаміки\\nстане неможливим."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Headline",
+						"Text": "Відтворення аудіо в автомобілі"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Main_Text",
+						"Text": "У системі Infotainment виберіть екран\\nяк аудіоджерело Bluetooth®. \\nМаксимальна гучність визначатиметься\\nвідповідно до системи Infotainment."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Failed",
+						"Text": "Помилка з’єднання.\\nПовторіть спробу пізніше."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Headline",
+						"Text": "Відтворення аудіо в автомобілі"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_In_Progress",
+						"Text": "З’єднання..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Pairing_Search",
+						"Text": "Пошук..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Complete",
+						"Text": "Синхронізацію аудіо\\nзавершено."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Error",
+						"Text": "Сталася помилка.\\nСинхронізувати аудіо не вдалося.\\nПовторіть спробу пізніше."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_In_Progress",
+						"Text": "Синхронізація…\\n{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "IVI_Sync_Main_Text",
+						"Text": "Виберіть екран як\\nаудіоджерело Blue-\\ntooth® у системі \\nInfotainment. Зменште\\nшуми. Натисніть \\nПОЧАТИ, коли \\nсистема буде готова."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Headline",
+						"Text": "Вказівка"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Active_Main_Text",
+						"Text": "Інсталяція оновлення\\n{0}% завершено.\\n\\nНе вимикайте запалювання, доки\\nтриватиме процес оновлення.\\nКоли інсталяція завершиться,\\nсистема перезапуститься."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Available_Main_Text",
+						"Text": "Можна інсталювати програмне\\nзабезпечення. Інсталювати зараз?\\n\\nПід час оновлення система не\\nпрацюватиме."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Delete_Main_Text",
+						"Text": "Інсталювати чи видалити оновлення?\\n\\nПід час оновлення система не\\nпрацюватиме."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Failed_Main_Text",
+						"Text": "Помилка інсталяції програмного \\nзабезпечення. Повторити спробу?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Install_Successful_Main_Text",
+						"Text": "Install successful. Software updated."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Headline",
+						"Text": "Мова (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Arabic",
+						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Cantonese",
+						"Text": "繁體中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Chinese",
+						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Czech",
+						"Text": "Čeština"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Danish",
+						"Text": "Dansk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Dutch",
+						"Text": "Nederlands"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_UK",
+						"Text": "English (UK)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_English_US",
+						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French",
+						"Text": "Français"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_French_Can",
+						"Text": "Français (Canada)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_German",
+						"Text": "Deutsch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Greek",
+						"Text": "Ελληνικά"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Hungarian",
+						"Text": "Magyar"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Italian",
+						"Text": "Italiano"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Japanese",
+						"Text": "日本語"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Korean",
+						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Norwegian",
+						"Text": "Norsk"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Polish",
+						"Text": "Polski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Port_Br",
+						"Text": "Português (Brasil)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Portuguese",
+						"Text": "Português"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Romanian",
+						"Text": "Română"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Russian",
+						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish",
+						"Text": "Español"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Spanish_US",
+						"Text": "Español (México)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Swedish",
+						"Text": "Svenska"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Taiwanese",
+						"Text": "繁體中文 (台灣)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Turkish",
+						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Legal_Info_Headline",
+						"Text": "Юридична інформація"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "MCU_Version_Main_Text",
+						"Text": "Версія MCU:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Max_Volume_Notification",
+						"Text": "Екран настроєно на максимальну гучність.\\nПідвищте гучність у системі Infotainment."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Memory_Usage_Main_Text",
+						"Text": "Використання пам’яті:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active",
+						"Text": "Скасувати завантаження"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Download_Active_Preview",
+						"Text": "{0}%"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Crosslink",
+						"Text": "Select CROSSLINK to view content currently shown on the companion screen. Note: if selecting crosslink when audio sharing is active, audio and volume controls are unavailable."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_HDMI",
+						"Text": "Content can be played from a HDMI source when a compatible device is connected. Note: if no content is playing on the HDMI device when selected, the screen will appear blank."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Input",
+						"Text": "Select INPUT to connect to a Wi-Fi network. This enables you to stream content through external providers or to establish a connection with your device to share content."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Система Audi Entertainment System\\nдає можливість переглядати вміст\\nіз мобільного пристрою, підключеного \\nчерез WLAN, або сумісного пристрою, \\nпідключеного через HDMI чи USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Система Audi Entertainment System дає\\nможливість переглядати та слухати вміст\\nіз мобільного пристрою, підключеного \\nчерез WLAN, або сумісного пристрою, \\nпідключеного через HDMI чи USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_OTA",
+						"Text": "Щоб користуватися новими функціями\\nта виправленнями помилок, завантажте\\nнайновіше програмне забезпечення в\\nменю настройок."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP1",
+						"Text": "Select OUTPUT to connect Bluetooth headphones or press the audio sharing button to send audio output to the car speakers. Audio is also available through wired headphones."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Output_SOP2",
+						"Text": "Select OUTPUT to connect Bluetooth headphones. Audio is also available through wired headphones."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat, pull the collar on the mounting arm towards the rear of the vehicle then pull the screen until it is clear of the seat.."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Source",
+						"Text": "Select SOURCE to choose your desired content. You can view content from external providers by selecting the service from the list shown. The browser can also be reset in this menu."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_USB",
+						"Text": "Мультимедійний вміст можна відтворювати\\nза допомогою програми Fond Media Control\\nчерез сумісний пристрій, підключений\\nчерез USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Install_Update",
+						"Text": "Інсталювати оновлення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_About_Us",
+						"Text": "Вихідні дані"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Open_Source",
+						"Text": "Ліцензія з відкритим кодом"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Privacy_Policy",
+						"Text": "Політика конфіденційності"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Acoustic_Feedback",
+						"Text": "Акустичний відгук"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Audio_Sync",
+						"Text": "Синхронізація аудіо"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Brightness_Persistence",
+						"Text": "Зберегти настройки яскравості"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Connection_Assistant",
+						"Text": "Асистент підключення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_IVI_Pairing",
+						"Text": "Відтворення аудіо в автомобілі"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Language",
+						"Text": "Мова (Language)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Legal_Info",
+						"Text": "Юридична інформація"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Off",
+						"Text": "Вимкнути екран"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Screen_Timeout",
+						"Text": "Таймаут екрана"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Software",
+						"Text": "Програмне забезпечення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Settings_Volume_Persistence",
+						"Text": "Зберегти настройки гучності"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Analytics",
+						"Text": "Аналітичний відгук"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Reset",
+						"Text": "Відновити заводські настройки"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update",
+						"Text": "Пошук оновлень"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Update_Check",
+						"Text": "Пошук оновлень..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Software_Version",
+						"Text": "Інформація про ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Network_Search_Main_Text",
+						"Text": "Пошук..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Connection_Status",
+						"Text": "Не з’єднано"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Device_Status",
+						"Text": "Не з’єднано"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Devices_Main_Text",
+						"Text": "Пристроїв не знайдено"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "No_Updates_Main_Text",
+						"Text": "Оновлень немає."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Crosslink_Unavailable",
+						"Text": "Crosslink наразі недоступний"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_HDMI_Unavailable",
+						"Text": "HDMI наразі недоступний"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_IVI_Unavailable",
+						"Text": "Передавання аудіо наразі недоступне"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Initialising",
+						"Text": "Триває запуск..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Mute_Unavailable",
+						"Text": "Вимкнути звук наразі неможливо"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_OTT_Unavailable",
+						"Text": "Зовнішній постачальник вмісту недоступн."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_SOP1_Function_Unavailable",
+						"Text": "Функція наразі недоступна"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Temperature",
+						"Text": "Зависока температура екрана. Система невдовзі \\nвимкнеться, щоб запобігти пошкодженням."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Notification_Volume_Unavailable",
+						"Text": "Регулювання гучності наразі недоступне"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Help_Text",
+						"Text": "Ввести PIN-код"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "PIN_Entry_Main_Text",
+						"Text": "Введіть PIN-код свого\\nпристрою Bluetooth®."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Headline",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Main_Text",
+						"Text": "Помилка з’єднання.\\nПовторіть спробу пізніше."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Headline",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
+						"Text": "Помилка з’єднання.\\nПеревірте свій PIN-код."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Password_Speller_Help_Text",
+						"Text": "Ввести пароль"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Скинути"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Full_Screen",
+						"Text": "На весь екран"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Help",
+						"Text": "Посібник"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Screen_Off",
+						"Text": "Вимкнути екран"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Settings",
+						"Text": "Настройки"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Quick_Menu_Source",
+						"Text": "Джерело"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "RSE_Version_Main_Text",
+						"Text": "Версія RSE:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_Crosslink_Notification",
+						"Text": "Джерело змінено – увімкнено Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Remote_HDMI_Notification",
+						"Text": "Джерело змінено – увімкнено HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Rename_Device_Headline",
+						"Text": "Перейменування пристрою"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Headline",
+						"Text": "Скинути браузер"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Reset_Browser_Main_Text",
+						"Text": "Справді скинути браузер? Усі дані\\nкористувача буде втрачено, і вам\\nпотрібно буде повторно\\nвиконувати вхід."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Run_Time_Main_Text",
+						"Text": "Час роботи:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Off_Notification",
+						"Text": "Щоб увімкнути, торкніться екрана"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Screen_Timeout_Headline",
+						"Text": "Таймаут екрана"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Settings_Headline",
+						"Text": "Настройки"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Shutting_Down_Notification",
+						"Text": "Завершення роботи системи..."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Headline",
+						"Text": "Відновлення завод. настройок"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Main_Text",
+						"Text": "Якщо ви продовжите, буде відновлено\\nзаводські настройки системи. Усі\\nперсональні настройки, як-от збережені\\nмережі чи паролі, буде видалено.\\nЦей процес не можна скасувати. Справді\\nвідновити настройки?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Headline",
+						"Text": "Відновлення завод. настройок"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Reset_Successful_Main_Text",
+						"Text": "Заводські настройки відновлено.\\nНевдовзі систему буде\\nперезапущено."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Update_Headline",
+						"Text": "Програмне забезпечення"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Headline",
+						"Text": "Інформація про ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Software_Version_Main_Text",
+						"Text": "Версія ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Device_Menu_Text",
+						"Text": "Вміст вашого пристрою"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_HDMI_Menu_Text",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Headline",
+						"Text": "Джерело"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Netflix_Menu_Text",
+						"Text": "Netflix"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Source_Screensaver_Menu_Text",
+						"Text": "Екранна заставка"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_1",
+						"Text": "Ніколи"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_2",
+						"Text": "30 секунд"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_3",
+						"Text": "1 хвилина"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_4",
+						"Text": "5 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_5",
+						"Text": "10 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Option_6",
+						"Text": "30 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_1",
+						"Text": "Ніколи"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_2",
+						"Text": "30 секунд"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_3",
+						"Text": "1 хвилина"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_4",
+						"Text": "5 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_5",
+						"Text": "10 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Timeout_Preview_Option_6",
+						"Text": "30 хвилин"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Available_Main_Text",
+						"Text": "Доступне оновлення ПЗ:\\n- нові й/або розширені функції;\\n- загальні виправлення помилок;\\n- покращення стабільності й надійності.\\nВерсія: {0} Розмір: {1} МБ\\nЗавантажити зараз?"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Headline",
+						"Text": "Оновлення ПЗ"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Update_Unavailable_Main_Text",
+						"Text": "Пошук оновлень неможливий.\\nПовторіть спробу пізніше."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Headline",
+						"Text": "Вказівка"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_PL",
+						"Text": "Система Audi Entertainment System\\nвимкнеться через {0} с.\\nЩоб продовжити користуватися нею,\\nнатисніть кнопку &quot;OK&quot;."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Use_Extension_Main_Text_SG",
+						"Text": "Система Audi Entertainment System\\nвимкнеться через {0} с.\\nЩоб продовжити користуватися нею,\\nнатисніть кнопку &quot;OK&quot;."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Wi-Fi_Status",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "WiFi_Headline",
+						"Text": "WLAN"
+					}
+				}
+			]
+		}
+	]
+}

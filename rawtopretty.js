@@ -5,13 +5,17 @@ const i18n_map ={
     "Arabic":"ar_AE",
     "Cantonese":"zh_HK", //not match
     "Chinese Mandarin":"zh_CN", //not match
+    "Chinese_Mandarin":"zh_CN", //not match
     "Czech":"cs_CZ",
     "Danish":"da_DK",
     "Dutch":"nl_BE",
     "English (UK)":"en_GB",//not match
+    "English_28UK29":"en_GB",
     "English (US)":"en_US",
+    "English_28US29":"en_US",
     "French":"fr_FR",
     "French Canadian":"fr_CA",
+    "French_Canadian":"fr_CA",
     "German":"de_DE",
     "Greek":"el_GR",
     "Hungarian":"hu_HU",
@@ -22,13 +26,23 @@ const i18n_map ={
     "Polish":"pl_PL",
     "Portuguese":"pt_PT",
     "Portuguese (Brazilian)":"pt_BR",
+    "Portuguese_28Brazilian29":"pt_BR",
     "Romanian":"ro_RO",
     "Russian":"ru_RU",
     "Spanish":"es_ES",
     "Spanish (US)":"es_US",//not match es_mx not found
+    "Spanish_28US29":"es_US",
     "Swedish":"sv_SE",
     "Taiwanese":"zh_TW",
-    "Turkish":"tr_TR"
+    "Turkish":"tr_TR",
+    "Ukrainisch":"uk_UA",
+    "Bosnisch":"bs_BA",
+    "Finnisch":"fi_FI",
+    "Kroatisch":"hr_HR",
+    "Malaysisch":"ms_MY",
+    "Serbisch":"sr_RS",
+    "Slowakisch":"sk_SK",
+    "Slowenisch":"sl_SI"
 }
 /*
 let tmp =JSON.parse( fs.readFileSync('./rawjson/English_28US29.json','utf-8') )
@@ -48,6 +62,8 @@ fs.readdir(origindatapath,(err,files)=>{
         //console.log(i18n_map[path.basename(file,'.json')] )
         //console.log(file)
         const newfilename = i18n_map[path.basename(file,'.json').replace('_BYOC','')] 
+        //const newfilename = i18n_map[path.basename(file,'.json')] 
+
         console.log(file)
         console.log(newfilename)
         let tmp =JSON.parse( fs.readFileSync(path.join(origindatapath,file),'utf-8') )

@@ -51,6 +51,102 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Luminosité"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "Connexion"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "Connexion Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Quick introduction"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Sortie audio"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Volume sonore"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "Wi-Fi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Audio_Sync_Headline",
 						"Text": "Synchronisation audio"
 					}
@@ -140,7 +236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_SAVE",
-						"Text": "Enregistrer"
+						"Text": "Enreg."
 					}
 				},
 				{
@@ -148,7 +244,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BTN_START",
-						"Text": "DEMARRER"
+						"Text": "DÉMARR."
 					}
 				},
 				{
@@ -164,7 +260,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BT_Name_Main_Text",
-						"Text": "Nom du Bluetooth :"
+						"Text": "Nom du Bluetooth® :"
 					}
 				},
 				{
@@ -196,7 +292,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Error",
-						"Text": "Échec de la synchronisation\\naudio. Veuillez réessayer."
+						"Text": "Échec de la\\nsynchronisation audio.\\nVeuillez réessayer."
 					}
 				},
 				{
@@ -212,7 +308,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_In_Progress",
-						"Text": "Synchronisation en cours...\\n{0}%"
+						"Text": "Synchronisation...\\n{0}%"
 					}
 				},
 				{
@@ -220,7 +316,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Main_Text",
-						"Text": "Tenir écouteurs à proximité\\ndu microphone à l&apos;écran\\net appuyez sur start.\\nLe son sera coupé\\npendant le processus de\\nsynchronisation."
+						"Text": "Tenir écouteurs à\\nproximité du micro\\nà l&apos;écran et appuyez\\nsur start. Le son\\nsera coupé pendant\\nle processus de\\nsynchronisation."
 					}
 				},
 				{
@@ -228,7 +324,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -236,7 +332,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Status",
-						"Text": "BLUETOOTH"
+						"Text": "BLUETOOTH®"
 					}
 				},
 				{
@@ -244,7 +340,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Visibility_Main_Text",
-						"Text": "Paire de nouveaux écouteurs ?\\nLes écouteurs doivent être en mode d&apos;appariement."
+						"Text": "Connecter la paire de nouveaux écouteurs ?\\nLes écouteurs doivent être en mode\\nd&apos;appariement."
 					}
 				},
 				{
@@ -324,7 +420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_Help_Text",
-						"Text": "Ou appuyez sur le bouton d&apos;alimentation ci-dessous\\npour ouvrir le menu rapide."
+						"Text": "Ou appuyez sur le bouton d&apos;alimentation\\nci-dessous pour ouvrir le menu rapide."
 					}
 				},
 				{
@@ -340,7 +436,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
-						"Text": "Appuyez sur le bouton d&apos;alimentation ci-dessous et\\nsélectionnez Wi-Fi pour choisir un réseau disponible."
+						"Text": "Appuyez sur le bouton d&apos;alimentation et\\nsélectionnez Wi-Fi pour choisir un réseau."
 					}
 				},
 				{
@@ -348,7 +444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
-						"Text": "Assurez-vous que votre appareil et cet écran sont sur\\nle même réseau pour diffuser le média en continu."
+						"Text": "L&apos;appareil et l&apos;écran doivent être sur le\\nmême réseau pour diffuser le média."
 					}
 				},
 				{
@@ -364,7 +460,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
-						"Text": "Scannez le QR code de l&apos;application\\nou pour accéder à d&apos;autres options."
+						"Text": "Scannez le QR code pour\\naccéder à l&apos;application ou\\nà d&apos;autres options."
 					}
 				},
 				{
@@ -476,7 +572,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Device_Main_Text",
-						"Text": "Voulez-vous vraiment effacer ce\\npériphérique Bluetooth?"
+						"Text": "Voulez-vous vraiment effacer ce\\npériphérique Bluetooth®?"
 					}
 				},
 				{
@@ -500,7 +596,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Network_Main_Text",
-						"Text": "Êtes-vous sûr de vouloir supprimer ce réseau ?"
+						"Text": "Supprimer ce réseau ?"
 					}
 				},
 				{
@@ -548,7 +644,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Active_Status",
-						"Text": "Sortie audio vers le véhicule"
+						"Text": "Audio dans le véhicule"
 					}
 				},
 				{
@@ -572,7 +668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Main_Text",
-						"Text": "Veuillez sélectionner le nom de l&apos;écran com source\\naudio Bluetooth sur le système d&apos;infodivertissement.\\nVolume maximum est déterminé par\\nvolume principal d&apos;infodivertissement."
+						"Text": "Sélectionnez l&apos;écran comme source audio\\nBluetooth® sur le système infodivertissem.\\nLe volume maximum est déterminé par le\\nvolume principal d&apos;infodivertissement."
 					}
 				},
 				{
@@ -588,7 +684,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Pairing_Headline",
-						"Text": "Connexion à l&apos;entrée audio du véhicule"
+						"Text": "Sortie audio du véhicule"
 					}
 				},
 				{
@@ -628,7 +724,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_In_Progress",
-						"Text": "Synchronisation en cours...\\n{0}%"
+						"Text": "Synchronisation...\\n{0}%"
 					}
 				},
 				{
@@ -636,7 +732,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Main_Text",
-						"Text": "Sélectionnez nom d&apos;écran\\ncomme source audio\\nBluetooth sur système\\nd&apos;infodivertissement.\\nVérifiez volume et réduire\\nbruit fond. Appuyez\\nDEMARRER lorsque prêt."
+						"Text": "Sélectionnez l&apos;écran\\ncomme source audio\\nBluetooth® sur système\\nd&apos;infodivertissement.\\nRéduire bruit de fond.\\nAppuyez sur DÉMARR.\\nlorsque système prêt."
 					}
 				},
 				{
@@ -652,7 +748,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Active_Main_Text",
-						"Text": "Installation de la mise à jour\\n{0}% terminée.\\n\\nVeuillez vous assurer que le véhicule est allumé\\njusqu&apos;à ce que la mise à jour soit terminée.\\n\\nLe système va redémarrer\\nune fois l&apos;installation terminée."
+						"Text": "Installation de la mise à jour\\n{0}% terminée.\\n\\nVeuillez vous assurer que le contact est\\nallumé jusqu&apos;à ce que la mise à jour soit\\nterminée. Le système va redémarrer\\nune fois l&apos;installation terminée."
 					}
 				},
 				{
@@ -668,7 +764,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Available_Main_Text",
-						"Text": "Installation du logiciel disponible.\\nVous souhaitez vous installer maintenant ?\\n\\nPendant la mise à jour, le système sera inutilisable."
+						"Text": "Installation du logiciel disponible.\\nVous souhaitez vous installer\\nmaintenant ?\\n\\nPendant la mise à jour, le système\\nsera inutilisable."
 					}
 				},
 				{
@@ -684,7 +780,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Delete_Main_Text",
-						"Text": "Voulez-vous installer ou supprimer\\nla mise à jour ?\\n\\nPendant la mise à jour, le système sera inutilisable."
+						"Text": "Voulez-vous installer ou supprimer\\nla mise à jour ?\\n\\nPendant la mise à jour, le système\\nsera inutilisable."
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "Installation réussie. Logiciel mis à jour.\\nQuoi de neuf\\n- Corrections de bogues généraux\\net mises à jour du texte\\n- Amélioration des performances de la fonction {0}\\n- Nouvelle fonction {1}"
+						"Text": "Installation réussie. Logiciel mis à jour.\\n\\nQuoi de neuf\\n- Fonctions nouvelles et/ou améliorées\\n- Corrections de bogues générales\\n- Améliorations de stabilité et de sécurité"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -781,6 +893,14 @@
 					"attributes": {
 						"ID": "Language_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -859,6 +979,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Norwegian",
 						"Text": "Norsk"
 					}
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1163,6 +1379,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Legal_Info_Headline",
 						"Text": "Mentions légales"
 					}
@@ -1180,7 +1404,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Max_Volume_Notification",
-						"Text": "Volume de l&apos;écran réglé au maximum.\\nAugmentez le volume de votre système d&apos;infodivertissement."
+						"Text": "Volume de l&apos;écran réglé au maximum.\\nAugmentez le volume de l&apos;infodivertissement."
 					}
 				},
 				{
@@ -1196,7 +1420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Download_Active",
-						"Text": "Annuler le téléchargement"
+						"Text": "Annuler téléchargement"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "Le contenu peut être lu depuis une source HDMI\\nlorsqu&apos;un appareil compatible est connecté.\\nNote : si aucun contenu n&apos;est diffusé sur l&apos;appareil\\nHDMI une fois sélectionné, l&apos;écran apparaîtra vide."
+						"Text": "Le contenu peut être lu depuis une\\nsource HDMI lorsqu&apos;un appareil\\ncompatible est connecté. Note : si aucun\\ncontenu n&apos;est diffusé sur l&apos;appareil HDMI une\\nfois sélectionné, l&apos;écran apparaîtra vide."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "Le système de divertissement Bentley permet de\\nvisualiser et d&apos;écouter du contenu appareil connecté\\npar Wi-Fi ou depuis appareil compatible connecté\\nvia HDMI ou USB."
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Le système de divertissement Audi\\npermet de visualiser et d&apos;écouter du\\ncontenu d&apos;un appareil connecté par Wi-Fi ou\\ndepuis un appareil compatible connecté\\nvia HDMI ou USB."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Le système de divertissement Audi permet\\nde visualiser et d&apos;écouter du contenu\\nappareil connecté par Wi-Fi ou depuis\\nappareil compatible connecté\\nvia HDMI ou USB."
 					}
 				},
 				{
@@ -1244,7 +1476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_OTA",
-						"Text": "Pour découvrir les nouvelles fonctionnalités et les\\ncorrections de bogues, téléchargez la dernière\\nversion du logiciel dans le menu des paramètres."
+						"Text": "Pour découvrir les nouvelles fonctionnalités\\net les corrections de bogues, téléchargez\\nla dernière version du logiciel dans le\\nmenu des paramètres."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Sélectionnez &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt; pour choisir le contenu\\nsouhaité. Vous pouvez consulter le contenu de\\nfournisseurs externes en sélectionnant le service\\ndans la liste affichée. Le navigateur peut également\\nêtre réinitialisé dans le menu."
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "Les médias peuvent être lus par un appareil compatible\\nconnecté via USB lors utilisation du contrôle\\nde l&apos;appli divertissement Bentley."
+						"Text": "Les médias peuvent être lus par\\nun appareil compatible connecté via\\nUSB lors de l&apos;utilisation du contrôle\\nde l&apos;appli Fond Media Control."
 					}
 				},
 				{
@@ -1332,7 +1572,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Brightness_Persistence",
-						"Text": "Enregistrer les réglages de la luminosité"
+						"Text": "Enregistrer réglages de luminosité"
 					}
 				},
 				{
@@ -1348,7 +1588,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_IVI_Pairing",
-						"Text": "Connexion à l&apos;entrée audio du véhicule"
+						"Text": "Sortie audio du véhicule"
 					}
 				},
 				{
@@ -1491,56 +1731,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "Bluetooth est actuellement indisponible"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "Contrôles de luminosité actuellement indisponibles"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "La sécurité enfant est actuellement indisponible"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "Connexion..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Crosslink_Unavailable",
-						"Text": "La liaison croisée est actuellement indisponible"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "Connexion perdue. Tentative de reconnexion..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "Le mode plein écran est actuellement indisponible"
+						"Text": "La liaison croisée est indisponible"
 					}
 				},
 				{
@@ -1555,16 +1747,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "Le guide de l&apos;utilisateur est actuellement indisponible"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_IVI_Unavailable",
-						"Text": "Le partage audio est actuellement indisponible"
+						"Text": "Le partage audio est indisponible"
 					}
 				},
 				{
@@ -1588,31 +1772,15 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_OTT_Unavailable",
-						"Text": "Le fournisseur de contenu externe est indisponible"
+						"Text": "Fournisseur de contenu externe indisponible"
 					}
 				},
 				{
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "Le menu rapide est actuellement indisponible"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "La fonction n&apos;est pas disponible actuellement"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "L&apos;écran est actuellement indisponible"
 					}
 				},
 				{
@@ -1628,15 +1796,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_Volume_Unavailable",
-						"Text": "Contrôles du volume actuellement indisponibles"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "Le Wi-Fi est actuellement indisponible"
+						"Text": "Contrôles du volume indisponibles"
 					}
 				},
 				{
@@ -1652,7 +1812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "PIN_Entry_Main_Text",
-						"Text": "Veuillez entrer le\\nPIN pour votre\\ndispositif Bluetooth."
+						"Text": "Veuillez entrer le\\nNIP pour votre\\ndispositif Bluetooth®."
 					}
 				},
 				{
@@ -1660,7 +1820,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1676,7 +1836,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1699,6 +1859,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Réinitialiser"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Quick_Menu_Full_Screen",
 						"Text": "Plein écran"
 					}
@@ -1708,7 +1876,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Quick_Menu_Help",
-						"Text": "Guide de l&apos;utilisateur"
+						"Text": "Guide utilisateur"
 					}
 				},
 				{
@@ -1780,7 +1948,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Reset_Browser_Main_Text",
-						"Text": "Êtes-vous sûr de vouloir réinitialiser le navigateur ?\\nToutes les informations du compte seront perdues\\net vous devrez vous connecter à nouveau."
+						"Text": "Êtes-vous sûr de vouloir réinitialiser\\nle navigateur ? Toutes les informations\\ndu compte seront perdues et vous devrez\\nvous connecter à nouveau."
 					}
 				},
 				{
@@ -1836,7 +2004,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Main_Text",
-						"Text": "Si vous continuez, le système sera réinitialisé\\naux paramètres d&apos;usine. Tous les paramètres\\nindividuels, y compris les réseaux enregistrés,\\nles appareils Bluetooth et les mots de passe,\\nseront supprimés. Il n&apos;est pas possible d&apos;annuler\\nce processus. Êtes-vous sur de vouloir réinitialiser?"
+						"Text": "Si vous continuez, le système sera réinitialisé\\naux paramètres d&apos;usine. Tous les paramètres\\nindividuels, comme les réseaux enregistrés,\\nou les mots de passe, seront supprimés.\\nIl n&apos;est pas possible d&apos;annuler ce processus.\\nÊtes-vous sur de vouloir réinitialiser?"
 					}
 				},
 				{
@@ -2028,7 +2196,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Available_Main_Text",
-						"Text": "Mise à jour du logiciel disponible :\\n\\n- Caractéristiques nouvelles et/ou améliorées\\n- Corrections de bogues générales\\n- Améliorations de stabilité et de sécurité\\n\\nVersion : {0} Taille : {1} Mo\\n\\nLe téléchargement peut prendre plusieurs minutes\\nselon la vitesse de votre connexion. Voulez-vous\\nla télécharger maintenant ?"
+						"Text": "Mise à jour du logiciel disponible :\\n- Fonctions nouvelles et/ou améliorées\\n- Corrections de bogues générales\\n- Améliorations de stabilité et de sécurité\\nVersion : {0} Taille : {1} Mo\\nVoulez-vous la télécharger maintenant ?"
 					}
 				},
 				{
@@ -2060,7 +2228,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_PL",
-						"Text": "Le système de divertissement Bentley\\ns&apos;arrêtera dans {0} secondes.\\nAppuyez sur OK pour prolonger l&apos;utilisation."
+						"Text": "Le système de divertissement Audi\\ns&apos;arrêtera dans {0} seconde.\\nAppuyez sur OK pour prolonger l&apos;utilisation."
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "Le système de divertissement Bentley\\ns&apos;arrêtera dans {0} seconde.\\nAppuyez sur OK pour prolonger l&apos;utilisation."
+						"Text": "Le système de divertissement Audi\\ns&apos;arrêtera dans {0} seconde.\\nAppuyez sur OK pour prolonger l&apos;utilisation."
 					}
 				},
 				{

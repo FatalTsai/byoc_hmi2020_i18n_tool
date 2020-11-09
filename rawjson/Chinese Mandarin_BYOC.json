@@ -20,7 +20,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Assigned_Location_Left",
-						"Text": "左"
+						"Text": "左侧"
 					}
 				},
 				{
@@ -28,7 +28,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Assigned_Location_Main_Text",
-						"Text": "已分配的位置："
+						"Text": "已分配的位置:"
 					}
 				},
 				{
@@ -44,7 +44,103 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Assigned_Location_Right",
-						"Text": "右"
+						"Text": "右侧"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "蓝牙"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "亮度"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "连接"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "Wireless connection"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Quick introduction"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "音频输出"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "音量"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "WLAN"
 					}
 				},
 				{
@@ -180,7 +276,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Blocked_Browser_Main_Text",
-						"Text": "扫描二维码以在设备上查看："
+						"Text": "扫描二维码以在设备上查看:"
 					}
 				},
 				{
@@ -188,7 +284,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Complete",
-						"Text": "音频同步完成。"
+						"Text": "音频同步完成."
 					}
 				},
 				{
@@ -196,7 +292,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Error",
-						"Text": "音频同步失败。\\n请稍后再试。"
+						"Text": "音频同步失败.\\n请稍后再试."
 					}
 				},
 				{
@@ -220,7 +316,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Main_Text",
-						"Text": "将耳机靠近\\n屏幕上的麦克风\\n并按“开始”。\\n在同步过程中\\n音频将静音。"
+						"Text": "将耳机靠近屏幕\\n上的话筒并按压\\n&quot;开始&quot;.\\n在同步过程中音\\n频将静音."
 					}
 				},
 				{
@@ -244,7 +340,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Visibility_Main_Text",
-						"Text": "是否要配对新耳机？\\n耳机必须处于配对模式。"
+						"Text": "是否配对新耳机?\\n耳机必须处于配对模式."
 					}
 				},
 				{
@@ -260,7 +356,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Cancel_Download_Main_Text",
-						"Text": "是否确定要\\n取消下载？"
+						"Text": "确认取消下载?"
 					}
 				},
 				{
@@ -276,14 +372,6 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Child_Lock_Activated_Notification",
-						"Text": "儿童锁已激活"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Child_Lock_Active_Notification",
 						"Text": "儿童锁已启用"
 					}
 				},
@@ -291,8 +379,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Child_Lock_Active_Notification",
+						"Text": "儿童锁启用"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Child_Lock_Deactivated_Notification",
-						"Text": "儿童锁已被禁用"
+						"Text": "儿童锁已停用"
 					}
 				},
 				{
@@ -300,7 +396,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_1_Headline",
-						"Text": "连接助手 1，共 2 个"
+						"Text": "连接助手 1, 共 2 个"
 					}
 				},
 				{
@@ -308,7 +404,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_2_Headline",
-						"Text": "连接助手 2，共 2 个"
+						"Text": "连接助手 2, 共 2 个"
 					}
 				},
 				{
@@ -332,7 +428,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
-						"Text": "扫描二维码，通过 Wi-Fi\\n连接屏幕："
+						"Text": "扫描二维码, 利用 WlAN\\n连接屏幕:"
 					}
 				},
 				{
@@ -340,7 +436,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
-						"Text": "按下面的电源按钮，\\n然后选择 Wi-Fi 以选取可用的网络。"
+						"Text": "按压下面的电源按钮并选择\\nWLAN 以挑选可用的网络."
 					}
 				},
 				{
@@ -348,7 +444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
-						"Text": "确保您的设备和这个屏幕在同一个网络中，\\n这样才能在线观看媒体。"
+						"Text": "确保您的设备和此屏幕在同一个 WLAN\\n网络中, 以便在线观看媒体."
 					}
 				},
 				{
@@ -356,7 +452,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Scan_Text",
-						"Text": "扫描二维码以进行连接：\\n{0}"
+						"Text": "扫描二维码以连接:\\n{0}"
 					}
 				},
 				{
@@ -364,7 +460,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
-						"Text": "扫描二维码以获取应用\\n或替代连接选项。"
+						"Text": "扫描二维码以连接应用\\n或以其它方式连接."
 					}
 				},
 				{
@@ -372,7 +468,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Headline",
-						"Text": "Wi-Fi"
+						"Text": "WLAN"
 					}
 				},
 				{
@@ -380,7 +476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Main_Text",
-						"Text": "无法建立网络连接。"
+						"Text": "无法建立网络连接."
 					}
 				},
 				{
@@ -388,7 +484,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Password_Headline",
-						"Text": "Wi-Fi"
+						"Text": "WLAN"
 					}
 				},
 				{
@@ -396,7 +492,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Failed_Password_Main_Text",
-						"Text": "连接失败。\\n请检查您的密码。"
+						"Text": "连接失败.\\n请检查您的密码."
 					}
 				},
 				{
@@ -412,7 +508,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Host_Main_Text",
-						"Text": "已启动 Crosslink 配对过程。"
+						"Text": "已启动 Crosslink 配对过程."
 					}
 				},
 				{
@@ -420,7 +516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Host_SSID_Text",
-						"Text": "SSID：{0}"
+						"Text": "SSID: {0}"
 					}
 				},
 				{
@@ -436,7 +532,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Pairing_Name_Text",
-						"Text": "屏幕名称：{0}"
+						"Text": "屏幕名称: {0}"
 					}
 				},
 				{
@@ -444,7 +540,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Pairing_Successful_Text",
-						"Text": "Crosslink 设置成功。"
+						"Text": "Crosslink 设置成功."
 					}
 				},
 				{
@@ -460,7 +556,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Crosslink_Screen_Main_Text",
-						"Text": "请选择您要分配给此屏幕的车辆一侧。"
+						"Text": "请选择您要分配给此屏幕的车辆一侧."
 					}
 				},
 				{
@@ -492,7 +588,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Install_Main_Text",
-						"Text": "是否确定要删除软件更新？"
+						"Text": "确认删除软件更新?"
 					}
 				},
 				{
@@ -500,7 +596,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Network_Main_Text",
-						"Text": "是否确定要删除此网络？"
+						"Text": "确认删除网络?"
 					}
 				},
 				{
@@ -524,7 +620,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Download_Failed_Main_Text",
-						"Text": "软件下载失败。\\n要重试吗？"
+						"Text": "软件下载失败. \\n要重试吗?"
 					}
 				},
 				{
@@ -540,7 +636,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IP_Address_Main_Text",
-						"Text": "IP 地址："
+						"Text": "IP 地址:"
 					}
 				},
 				{
@@ -548,7 +644,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Active_Status",
-						"Text": "音频输出到汽车"
+						"Text": "音频输出至车辆"
 					}
 				},
 				{
@@ -556,7 +652,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Delete_Confirm",
-						"Text": "是否确定要删除\\n{0}？\\n注意：将无法再向汽车扬声器输出音频。"
+						"Text": "确认删除 {0}?\\n注意: 将无法再向车辆扬声器\\n输出音频."
 					}
 				},
 				{
@@ -564,7 +660,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Headline",
-						"Text": "音频输出到汽车"
+						"Text": "音频输出至车辆"
 					}
 				},
 				{
@@ -572,7 +668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Main_Text",
-						"Text": "请选择屏幕名称作为信息娱乐系统的蓝牙音频源。\\n最大音量由信息娱乐主卷决定。"
+						"Text": "请选择作为信息娱乐系统中蓝牙音频源\\n的屏幕. 最大音量由信息娱乐系统决定."
 					}
 				},
 				{
@@ -580,7 +676,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Pairing_Failed",
-						"Text": "配对失败。\\n请稍后再试。"
+						"Text": "配对失败.\\n请稍后再试."
 					}
 				},
 				{
@@ -612,7 +708,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Complete",
-						"Text": "音频同步完成。"
+						"Text": "音频同步完成."
 					}
 				},
 				{
@@ -620,7 +716,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Error",
-						"Text": "发生了一个错误。\\n无法同步音频。\\n请稍后再试。"
+						"Text": "发生了一个错误.\\n无法同步音频.\\n请稍后再试."
 					}
 				},
 				{
@@ -636,7 +732,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Main_Text",
-						"Text": "选择屏幕名称作为\\n信息娱乐系统上的\\n蓝牙音频源。\\n检查音量和降低背景噪音。\\n系统准备就绪时按“开始”。"
+						"Text": "选择作为信息娱\\n乐系统中蓝牙音\\n频源的屏幕. \\n降低背景噪音.\\n当系统准备就绪\\n时按压 &quot;开始&quot;."
 					}
 				},
 				{
@@ -652,7 +748,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Active_Main_Text",
-						"Text": "安装更新\\n已完成 {0}%。\\n\\n更新完成前请确保车辆一直启动。\\n\\n安装完成后系统将立即重新启动。"
+						"Text": "安装更新\\n已完成 {0}%.\\n\\n更新完成前请确保车辆处于启动状态.\\n\\n安装完成后系统将立即重新启动."
 					}
 				},
 				{
@@ -668,7 +764,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Available_Main_Text",
-						"Text": "软件安装可用。\\n是否立即安装？\\n\\n在更新期间系统将无法运行。"
+						"Text": "软件安装可用.\\n现在是否安装?\\n\\n在更新期间系统将无法运行."
 					}
 				},
 				{
@@ -684,7 +780,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Delete_Main_Text",
-						"Text": "是否要安装或删除更新？\\n\\n在更新期间系统将无法运行。"
+						"Text": "确认安装或删除更新?\\n\\n在更新期间系统将无法运行."
 					}
 				},
 				{
@@ -700,7 +796,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Failed_Main_Text",
-						"Text": "软件安装失败。\\n要重试吗？"
+						"Text": "软件安装失败.\\n要重试吗?"
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "安装成功。软件已更新。\\n\\n新内容\\n- 常规错误修复和文本更新\\n- {0} 功能的性能改进\\n- 新功能 {1}"
+						"Text": "安装成功。软件已更新。\\n\\n新内容\\n- 新功能和/或增强功能\\n- 常规缺陷修复\\n- 改进稳定性和安全性"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -787,6 +899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_French",
 						"Text": "Français"
 					}
@@ -820,7 +940,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Language_Headline",
-						"Text": "语言 (Language)"
+						"Text": "语言"
 					}
 				},
 				{
@@ -853,6 +973,14 @@
 					"attributes": {
 						"ID": "Language_Korean",
 						"Text": "한국어"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
 					}
 				},
 				{
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1163,8 +1379,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Legal_Info_Headline",
-						"Text": "法律信息和隐私政策"
+						"Text": "法律信息"
 					}
 				},
 				{
@@ -1180,7 +1404,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Max_Volume_Notification",
-						"Text": "屏幕音量设置为最大音量。\\n提高信息娱乐系统音量。"
+						"Text": "屏幕音量设置为最大音量.\\n增加信息娱乐系统音量."
 					}
 				},
 				{
@@ -1188,7 +1412,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Memory_Usage_Main_Text",
-						"Text": "内存使用："
+						"Text": "内存使用:"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "连接兼容设备时\\n可以播放 HDMI 来源内容。\\n注意：如果未播放所选的 HDMI 设备\\n上的内容，屏幕将显示空白。"
+						"Text": "如果连接了一个兼容设备, 则可以\\n播放来自 HDMI 媒体源的内容.\\n如果未播放 HDMI 设备上的内容,\\n屏幕将显示空白."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "Bentley 娱乐系统可用于查看和播放\\n通过 Wi-Fi 连接的移动设备中\\n的内容或通过 HDMI 或 USB\\n连接的兼容设备中的内容。"
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Audi 娱乐系统可用于查看通过 WLAN 连接\\n的移动设备中的内容或通过 HDMI 或 USB\\n连接的兼容设备中的内容."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "Audi 娱乐系统可用于查看和播放\\n通过 Wi-Fi 连接的移动设备中\\n的内容或通过 HDMI 或 USB\\n连接的兼容设备中的内容。"
 					}
 				},
 				{
@@ -1244,7 +1476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_OTA",
-						"Text": "要发现新功能和错误修复，\\n请从设置菜单下载最新软件。"
+						"Text": "要探索最新功能和缺陷修复,\\n请从设置菜单下载最新软件."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "选择&lt;span id=\\&quot;text_Highlight\\&quot;&gt;“来源”&lt;/span&gt;以选择所需的内容。\\n您可以从显示的列表中选择服务，\\n查看来自外部提供商的内容。\\n浏览器也可以在此菜单中重置。"
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "使用 Bentley 娱乐控制应用程序时，\\n可以播放通过 USB 连接的\\n兼容设备上的媒体。"
+						"Text": "使用 &quot;Fond Media Control&quot; 应用程\\n序时, 可以播放通过 USB 连接的兼\\n容设备上的媒体."
 					}
 				},
 				{
@@ -1300,7 +1540,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Legal_Open_Source",
-						"Text": "开源免责声明的详细信息"
+						"Text": "开源声明"
 					}
 				},
 				{
@@ -1356,7 +1596,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Settings_Language",
-						"Text": "语言 (Language)"
+						"Text": "语言"
 					}
 				},
 				{
@@ -1484,39 +1724,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "No_Updates_Main_Text",
-						"Text": "没有可用的更新。"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "蓝牙当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "亮度控件当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "儿童锁当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "正在连接..."
+						"Text": "没有可用的更新."
 					}
 				},
 				{
@@ -1531,32 +1739,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "连接丢失。正在尝试重新连接..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "全屏模式当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_HDMI_Unavailable",
 						"Text": "HDMI 当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "用户指南当前不可用"
 					}
 				},
 				{
@@ -1595,15 +1779,7 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "快速菜单当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "此功能当前不可用"
 					}
 				},
@@ -1611,16 +1787,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "屏幕当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Temperature",
-						"Text": "屏幕温度过高。系统即将关闭，以免损坏。"
+						"Text": "屏幕温度过高. 系统即将关闭以避免损坏."
 					}
 				},
 				{
@@ -1628,15 +1796,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Notification_Volume_Unavailable",
-						"Text": "音量控件当前不可用"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "Wi-Fi 当前不可用"
+						"Text": "音量控制当前不可用"
 					}
 				},
 				{
@@ -1668,7 +1828,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Main_Text",
-						"Text": "连接失败。\\n请稍后再试。"
+						"Text": "连接失败.\\n请稍后再试."
 					}
 				},
 				{
@@ -1684,7 +1844,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Main_Text",
-						"Text": "连接失败。\\n请检查您的密码。"
+						"Text": "连接失败.\\n请检查您的 PIN 码."
 					}
 				},
 				{
@@ -1693,6 +1853,14 @@
 					"attributes": {
 						"ID": "Password_Speller_Help_Text",
 						"Text": "输入密码"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "重置"
 					}
 				},
 				{
@@ -1748,7 +1916,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Remote_Crosslink_Notification",
-						"Text": "来源已更改 - Crosslink 启用"
+						"Text": "媒体源已更改 - Crosslink 启用"
 					}
 				},
 				{
@@ -1756,7 +1924,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Remote_HDMI_Notification",
-						"Text": "来源已更改 - HDMI 启用"
+						"Text": "媒体源已更改 - HDMI 启用"
 					}
 				},
 				{
@@ -1780,7 +1948,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Reset_Browser_Main_Text",
-						"Text": "是否确定要重置浏览器？\\n所有帐户信息都将丢失，\\n您需要再次登录。"
+						"Text": "确认要重置浏览器?\\n所有帐户信息都将丢失,\\n并且您需要重新登录."
 					}
 				},
 				{
@@ -1796,7 +1964,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Screen_Off_Notification",
-						"Text": "请点按屏幕以打开"
+						"Text": "请轻触屏幕开启"
 					}
 				},
 				{
@@ -1820,7 +1988,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Shutting_Down_Notification",
-						"Text": "系统将关闭..."
+						"Text": "系统正在关闭..."
 					}
 				},
 				{
@@ -1836,7 +2004,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Main_Text",
-						"Text": "如果您继续，系统将重置为出厂设置。\\n所有个别设置（包括已保存的网络、\\n蓝牙设备和密码）都将删除。不可以撤销此过程。\\n\\n是否确定要重置？"
+						"Text": "如果继续, 系统将重置为出厂设置.\\n所有个性化设置都将被删除, 如已\\n保存的网络或密码. 此过程无法撤销. \\n确认重置?"
 					}
 				},
 				{
@@ -1852,7 +2020,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Successful_Main_Text",
-						"Text": "已恢复出厂设置。\\n系统即将重新启动。"
+						"Text": "已恢复出厂设置.\\n系统即将重新启动."
 					}
 				},
 				{
@@ -1884,7 +2052,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Source_Device_Menu_Text",
-						"Text": "设备中的内容"
+						"Text": "来自设备的内容"
 					}
 				},
 				{
@@ -2028,7 +2196,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Available_Main_Text",
-						"Text": "软件更新提供以下更改：\\n\\n- 新功能和/或增强功能\\n- 常规错误修复\\n- 可用性、稳定性和安全性的改进\\n\\n版本：{0} 大小：{1} MB\\n\\n下载可能需要几分钟，具体取决于您的连接速度。\\n您想现在下载吗？"
+						"Text": "发现可用的软件更新:\\n- 新功能和/或增强功能\\n- 常规缺陷修复\\n- 改进稳定性和安全性\\n版本: {0} 大小: {1} MB\\n现在下载?"
 					}
 				},
 				{
@@ -2044,7 +2212,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Unavailable_Main_Text",
-						"Text": "无法检查更新。\\n请稍后再试。"
+						"Text": "无法检查更新.\\n请稍后再试."
 					}
 				},
 				{
@@ -2060,7 +2228,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_PL",
-						"Text": "Bentley 娱乐系统\\n将在 {0} 秒内关闭。\\n按“确定”以继续使用。"
+						"Text": "Audi 娱乐系统将\\n在 {0} 秒内关闭.\\n按 &quot;确定&quot; 以继续\\n使用."
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "Bentley 娱乐系统\\n将在 {0} 秒内关闭。\\n按“确定”可继续使用。"
+						"Text": "Audi 娱乐系统将\\n在 {0} 秒内关闭.\\n按 &quot;确定&quot; 以继续\\n使用."
 					}
 				},
 				{
@@ -2076,7 +2244,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Wi-Fi_Status",
-						"Text": "WI-FI"
+						"Text": "WLAN"
 					}
 				},
 				{
@@ -2084,7 +2252,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "WiFi_Headline",
-						"Text": "Wi-Fi"
+						"Text": "WLAN"
 					}
 				}
 			]

@@ -51,6 +51,102 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Audi_Bluetooth",
+						"Text": "Bluetooth®"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Brightnsss",
+						"Text": "Fényerősség"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Connection",
+						"Text": "Összeköttetés"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Crosslink",
+						"Text": "Crosslink"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_HDMI",
+						"Text": "HDMI"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Input",
+						"Text": "WLAN-összeköttetés"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Intro",
+						"Text": "Quick introduction"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_Output",
+						"Text": "Audiolejátszás"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_Headline_USB",
+						"Text": "USB"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Menu_Help_headline_OTA",
+						"Text": "Update"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_Volume",
+						"Text": "Hangerősség"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Audi_WiFi",
+						"Text": "WLAN"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Audio_Sync_Headline",
 						"Text": "Hangfájlok szinkronizálása"
 					}
@@ -164,7 +260,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "BT_Name_Main_Text",
-						"Text": "Bluetooth név:"
+						"Text": "Bluetooth® név:"
 					}
 				},
 				{
@@ -188,7 +284,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Complete",
-						"Text": "Hangfájlok szinkronizálása\\nkész."
+						"Text": "Hangfájlok\\nszinkronizálása\\nkész."
 					}
 				},
 				{
@@ -196,7 +292,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Error",
-						"Text": "Hangfájlok szinkronizálása\\nsikertelen. Próbálkozzon\\nújra később."
+						"Text": "Hangfájlok\\nszinkronizálása\\nsikertelen.\\nPróbálkozzon\\nújra később."
 					}
 				},
 				{
@@ -220,7 +316,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Audio_Sync_Main_Text",
-						"Text": "Tartsa a fejhallgatót a\\nképernyőn lévő mikrofon\\nközelébe és nyomja meg a\\nstart gombot. A hang elnémul\\na szinkronizálás során."
+						"Text": "Tartsa a fejhallgatót a\\nképernyőn lévő mikrofon\\nközelébe, és nyomja\\nmeg a Start gombot.\\nA hang elnémul a\\nszinkronizálás közben."
 					}
 				},
 				{
@@ -228,7 +324,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -236,7 +332,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Status",
-						"Text": "BLUETOOTH"
+						"Text": "BLUETOOTH®"
 					}
 				},
 				{
@@ -244,7 +340,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Bluetooth_Visibility_Main_Text",
-						"Text": "Új fejhallgatót párosít?\\nA fejhallgatónak párosítás üzemmódban kell lennie."
+						"Text": "Új fejhallgatót csatlakoztat?\\nA fejhallgatónak párosítás\\nüzemmódban kell lennie."
 					}
 				},
 				{
@@ -324,7 +420,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_Help_Text",
-						"Text": "Vagy nyomja meg az alábbi bekapcsoló gombot\\na gyorsmenü megnyitásához."
+						"Text": "Vagy nyomja meg a bekapcsoló\\ngombot alul a gyorsmenü megnyitásához."
 					}
 				},
 				{
@@ -332,7 +428,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_1_Main_Text",
-						"Text": "Olvassa be a QR-kódot, hogy Wi-Fi\\nhasználatával kapcs. a képernyőhöz:"
+						"Text": "Olvassa be a QR-kódot, hogy\\nWi-Fi használatával\\nkapcsolódjon a képernyőhöz:"
 					}
 				},
 				{
@@ -340,7 +436,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Help_Text",
-						"Text": "A hálózat kiválasztásához nyomja meg az alábbi\\nbekapcsológombot, és válassza a Wi-Fi lehetőséget."
+						"Text": "A hálózat kiválasztásához nyomja meg\\na bekapcsoló gombot, és válassza a Wi-Fi-t."
 					}
 				},
 				{
@@ -348,7 +444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP1_Main_Text",
-						"Text": "Ellenőrizze, hogy készüléke és ez a képernyő\\nugyanazon a hálózaton található-e a streameléshez."
+						"Text": "Médiafájlok lejátszásához a készüléknek és a\\nképerny.nek ugyanazon a hálóz.on kell lenni."
 					}
 				},
 				{
@@ -364,7 +460,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Connection_Assistant_QR_Code_2_SOP2_Main_Text",
-						"Text": "Olvassa be az alkalmazás vagy\\naz alternatív csatlakozási\\nlehetőségek QR-kódját."
+						"Text": "Az alkalmazáshoz vagy más\\nlehetőséghez való kapcs.hoz\\nolvassa be a QR-kódot."
 					}
 				},
 				{
@@ -476,7 +572,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Delete_Device_Main_Text",
-						"Text": "Biztosan törölni akarja ezeket a fájlokat?"
+						"Text": "Biztosan törölni akarja ezt a\\nBluetooth®-eszközt?"
 					}
 				},
 				{
@@ -548,7 +644,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Active_Status",
-						"Text": "Hangkimenet az autóhoz"
+						"Text": "Hangkimenet autóhoz"
 					}
 				},
 				{
@@ -556,7 +652,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Delete_Confirm",
-						"Text": "Biztosan törli a következőt:\\n{0}?\\nMegjegyzés: a jármű hangkimenetének hangszórói\\na továbbiakban nem lesznek elérhetők."
+						"Text": "Biztosan törli a következőt:\\n{0}?\\nMegjegyzés: a jármű\\nhangkimenetének hangszórói\\na továbbiakban nem lesznek elérhetők."
 					}
 				},
 				{
@@ -572,7 +668,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Main_Text",
-						"Text": "Kérjük válassza ki a Bluetooth rendszer\\nhangforrásaként használni kívánt képernyőt az\\ninfotainmenet rendszeren. A max. hangerőt az\\ninfotainment hangereje határozza meg."
+						"Text": "Kérjük, válassza ki a képernyőt Bluetooth®-\\nhangforrásként az infotainment rendszeren.\\nA maximális hangerőt az infotainment\\nrendszer határozza meg."
 					}
 				},
 				{
@@ -612,7 +708,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Complete",
-						"Text": "Hangfájlok szinkronizálása\\nkész."
+						"Text": "Hangfájlok\\nszinkronizálása\\nkész."
 					}
 				},
 				{
@@ -636,7 +732,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "IVI_Sync_Main_Text",
-						"Text": "Adja meg a Bluetooth\\nhangforrás nevét az\\ninfotainment rendszeren.\\nEllenőrizze a hangerőt és\\ncsökkentse a háttérzajt.\\nNyomja meg a INDÍTÁS\\ngombot ha a rendszer kész."
+						"Text": "Válassza ki a képernyőt\\nBluetooth®-\\nhangforrásként az\\ninfotainment rendsz.en.\\nCsökkentse a háttérzajt.\\nNyomja meg a START\\ngombot, ha a rsz. kész."
 					}
 				},
 				{
@@ -716,7 +812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Install_Successful_Main_Text",
-						"Text": "A telepítés sikeres. A szoftver frissítve.\\n\\nMi új\\n- Általános hibajavítások és szöveges frissítések\\n- A {0} funkció teljesítményének fokozása\\n- Új funkció: {1}"
+						"Text": "A telepítés sikeres. A szoftver frissítve.\\n\\nMi új\\n- Új és/vagy továbbfejlesztett funkciók\\n- Általános hibajavítások\\n- A stabilitás és a biztonság javítása"
 					}
 				},
 				{
@@ -725,6 +821,14 @@
 					"attributes": {
 						"ID": "Language_Arabic",
 						"Text": "العربية"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Bosnian",
+						"Text": "Bosanski"
 					}
 				},
 				{
@@ -741,6 +845,14 @@
 					"attributes": {
 						"ID": "Language_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -781,6 +893,14 @@
 					"attributes": {
 						"ID": "Language_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -859,6 +979,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Norwegian",
 						"Text": "Norsk"
 					}
@@ -899,6 +1027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Bosnian",
+						"Text": "Bosanski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Cantonese",
 						"Text": "繁體中文"
 					}
@@ -909,6 +1045,14 @@
 					"attributes": {
 						"ID": "Language_Preview_Chinese",
 						"Text": "简体中文"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Croatian",
+						"Text": "Hrvatski"
 					}
 				},
 				{
@@ -949,6 +1093,14 @@
 					"attributes": {
 						"ID": "Language_Preview_English_US",
 						"Text": "English (US)"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Finnish",
+						"Text": "Suomi"
 					}
 				},
 				{
@@ -1019,6 +1171,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Malasian",
+						"Text": "Bahasa Melayu"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Norwegian",
 						"Text": "Norsk"
 					}
@@ -1067,6 +1227,30 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Preview_Slovenian",
+						"Text": "Slovenščina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Preview_Spanish",
 						"Text": "Español"
 					}
@@ -1107,6 +1291,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Language_Preview_Ukrainian",
+						"Text": "Українська"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Language_Romanian",
 						"Text": "Română"
 					}
@@ -1117,6 +1309,30 @@
 					"attributes": {
 						"ID": "Language_Russian",
 						"Text": "Русский"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Serbian",
+						"Text": "Srpski"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovakian",
+						"Text": "Slovenčina"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Slovenian",
+						"Text": "Slovenščina"
 					}
 				},
 				{
@@ -1157,6 +1373,14 @@
 					"attributes": {
 						"ID": "Language_Turkish",
 						"Text": "Türkçe"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Language_Ukrainian",
+						"Text": "Українська"
 					}
 				},
 				{
@@ -1220,7 +1444,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_HDMI",
-						"Text": "A tartalom akkor játszható le HDMI-forrásból,\\nha kompatibilis eszköz van csatlakoztatva.\\njátszik le tartalmat, a képernyő üres lesz."
+						"Text": "Akkor játszható le tartalom HDMI-forrásból,\\nha kompatibilis eszköz van csatlakoztatva. Ha\\na kiválasztás után semmilyen tartalom\\nlejátszása nem történik meg a HDMI-\\neszközön, akkor üres képernyő látható."
 					}
 				},
 				{
@@ -1235,8 +1459,16 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Menu_Help_Intro",
-						"Text": "A Bentley Entertainment System lehetővé teszi\\nWi-Fi-n keresztül csatlakoztatott mobil eszközön vagy\\nHDMI-n vagy USB-n keresztül csatlakoztatott komp.\\neszközök tartalmainak megtekintését és hallgatását."
+						"ID": "Menu_Help_Intro_SOP1",
+						"Text": "Az Audi Entertainment System lehetővé teszi\\nWi-Fi-n keresztül csatlakoztatott mobil\\neszköz vagy HDMI-n, ill. USB-n\\nkeresztül csatlakoztatott kompatibilis\\neszköz tartalmainak megtekintését."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Help_Intro_SOP2",
+						"Text": "A Audi Entertainment System lehetővé teszi\\nWi-Fi-n keresztül csatlakoztatott mobil eszközön vagy\\nHDMI-n vagy USB-n keresztül csatlakoztatott komp.\\neszközök tartalmainak megtekintését és hallgatását."
 					}
 				},
 				{
@@ -1244,7 +1476,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_OTA",
-						"Text": "Új funkciók és hibajavítások felfedezéséhez töltse\\nle a legújabb szoftvert a beállítások menüből."
+						"Text": "A legújabb funkciók és hibajavítások\\nmegismeréséhez töltse le a legújabb\\nszoftvert a Beállítások menüből."
 					}
 				},
 				{
@@ -1267,6 +1499,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Removal",
+						"Text": "To remove the screen from the seat,\\npull the collar on the mounting arm towards\\nthe rear of the vehicle then pull the screen\\nuntil it is clear of the seat."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Válassza a &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt; gombot a kívánt tartalomhoz.\\nKülsős szolgáltatók tartalmainak megtekintéséhez.\\nválassza ki a szolgáltatást a megjelenő listából.\\nA böngésző is ebben a menüben állítható vissza."
 					}
@@ -1276,7 +1516,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Menu_Help_USB",
-						"Text": "Médiafájlok akkor játszhatók le USB-n\\nkeresztül csatlakoztatott eszközről, ha a\\nBentley Entertainment Control alkalmazást használja."
+						"Text": "Médiafájlok a Fond Media Control App\\nsegítségével egy kompatibilis, USB-n\\nkeresztül csatlakoztatott eszközről\\njátszhatók le."
 					}
 				},
 				{
@@ -1491,38 +1731,6 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Bluetooth_Unavailable",
-						"Text": "A Bluetooth jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Brightness_Unavailable",
-						"Text": "A fényerőszabályzók jelenleg nem érhetők el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Child_Lock_Unavailable",
-						"Text": "A gyermekzár jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Connecting",
-						"Text": "Kapcsolódás..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Crosslink_Unavailable",
 						"Text": "A Crosslink jelenleg nem érhető el"
 					}
@@ -1531,32 +1739,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Error_Reconnect",
-						"Text": "Kapcsolat megszakadt. Újrakapcsolódás..."
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Full_Screen_Unavailable",
-						"Text": "A teljes képernyős mód jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_HDMI_Unavailable",
 						"Text": "A HDMI jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_Help_Unavailable",
-						"Text": "A felhasználói útmutató jelenleg nem érhető el"
 					}
 				},
 				{
@@ -1595,15 +1779,7 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Quick_Menu_Unavailable",
-						"Text": "A gyorsmenü jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_SOP1_Funcion_Unavailable",
+						"ID": "Notification_SOP1_Function_Unavailable",
 						"Text": "A funkció jelenleg nem érhető el"
 					}
 				},
@@ -1611,16 +1787,8 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
-						"ID": "Notification_Screen_Unavailable",
-						"Text": "A képernyő jelenleg nem érhető el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
 						"ID": "Notification_Temperature",
-						"Text": "A képernyő hőmérséklete túl magas. A rendszer\\na károsodás megelőzése érdekében hamarosan kikapcsol."
+						"Text": "A képernyő hőmérséklete túl magas. A rendszer\\na károsodás megelőzése érd.ben hamarosan kikapcsol."
 					}
 				},
 				{
@@ -1629,14 +1797,6 @@
 					"attributes": {
 						"ID": "Notification_Volume_Unavailable",
 						"Text": "A hangerőszabályzók jelenleg nem érhetők el"
-					}
-				},
-				{
-					"type": "element",
-					"name": "LangID",
-					"attributes": {
-						"ID": "Notification_WiFi_Unavailable",
-						"Text": "A Wi-Fi jelenleg nem érhető el"
 					}
 				},
 				{
@@ -1652,7 +1812,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "PIN_Entry_Main_Text",
-						"Text": "Adja meg a\\nPIN-kódot a\\nBluetooth-eszköz."
+						"Text": "Adja meg Bluetooth®-\\neszköze PIN-kódját."
 					}
 				},
 				{
@@ -1660,7 +1820,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1676,7 +1836,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Pairing_Failed_Wrong_PIN_Headline",
-						"Text": "Bluetooth"
+						"Text": "Bluetooth®"
 					}
 				},
 				{
@@ -1699,6 +1859,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Menu_Audio_Sync_Reset",
+						"Text": "Visszaállítás"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Quick_Menu_Full_Screen",
 						"Text": "Teljes képernyő"
 					}
@@ -1708,7 +1876,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Quick_Menu_Help",
-						"Text": "Felhaszn. útmutató"
+						"Text": "Felhaszn. útmut."
 					}
 				},
 				{
@@ -1788,7 +1956,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Run_Time_Main_Text",
-						"Text": "Érvényességének időtartama:"
+						"Text": "Érvényesség időtartama:"
 					}
 				},
 				{
@@ -1836,7 +2004,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Software_Reset_Main_Text",
-						"Text": "Ha folytatja, a rendszer visszaáll a gyári beállításokra.\\nAz összes egyedi beállítás -beleértve a mentett\\nhálózatokat, a Bluetooth-eszközöket és a jelszavakat-\\ntörlődik. Ezt a folyamatot nem lehet visszavonni.\\n\\nBiztos elvégzi a visszaállítást?"
+						"Text": "Ha folytatja, a rendszer visszaáll a gyári\\nbeállításokra. Az összes egyedi beállítás,\\npl. mentett hálózatok és a jelszavak,\\ntörlődik. A folyamatot nem lehet visszavonni.\\nBiztosan elvégzi a visszaállítást?"
 					}
 				},
 				{
@@ -2028,7 +2196,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Update_Available_Main_Text",
-						"Text": "A következő változásokkal elérhető szoftverfrissítés:\\n\\n- Új és / vagy továbbfejlesztett szolgáltatások\\n- Általános hibajavítások\\n- A használhatóság, a stabilitás és a biztonság javítása\\n\\nVerzió: {0} Méret: {1} MB\\n\\nA letöltés a kapcsolat sebességétől függően néhány\\npercet vehet igénybe. Szeretné most letölteni?"
+						"Text": "Szoftverfrissítés elérhető:\\n- Új és/vagy továbbfejlesztett funkciók\\n- Általános hibajavítások\\n- A stabilitás és a biztonság javítása\\nVerzió: {0} Méret: {1} MB\\nLe szeretné most tölteni?"
 					}
 				},
 				{
@@ -2060,7 +2228,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_PL",
-						"Text": "A Bentley Entertainment System\\n{0} másodperc múlva kikapcsol.\\nA további használathoz nyomja\\nmeg az Rendben gombot."
+						"Text": "Az Audi Entertainment System\\n{0} másodperc múlva kikapcsol.\\nA további használathoz nyomja\\nmeg az OK gombot."
 					}
 				},
 				{
@@ -2068,7 +2236,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Use_Extension_Main_Text_SG",
-						"Text": "A Bentley Entertainment System\\n{0} másodperc múlva kikapcsol.\\nA további használathoz nyomja\\nmeg az Rendben gombot."
+						"Text": "Az Audi Entertainment System\\n{0} másodperc múlva kikapcsol.\\nA további használathoz nyomja\\nmeg az OK gombot."
 					}
 				},
 				{

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LangDef langCode="0422" xsi:noNamespaceSchemaLocation="HMILinguist_Texts.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <LangID ID="Assigned_Location_Left" Text="Зліва"/>
+    <LangID ID="Assigned_Location_Main_Text" Text="Призначене місце:"/>
+    <LangID ID="Assigned_Location_None" Text="Немає"/>
+    <LangID ID="Assigned_Location_Right" Text="Справа"/>
+    <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
+    <LangID ID="Audi_Brightnsss" Text="Яскравість"/>
+    <LangID ID="Audi_Connection" Text="З’єднання"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="З’єднання WLAN"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Вступ"/>
+    <LangID ID="Audi_Menu_Help_Headline_Output" Text="Відтворення аудіо"/>
+    <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Оновлення"/>
+    <LangID ID="Audi_Volume" Text="Гучність"/>
+    <LangID ID="Audi_WiFi" Text="WLAN"/>
+    <LangID ID="Audio_Sync_Headline" Text="Синхронізація аудіо"/>
+    <LangID ID="Audio_Sync_Main_Text" Text="Ручне настроювання"/>
+    <LangID ID="BTN_Cancel" Text="Скасувати"/>
+    <LangID ID="BTN_DELETE" Text="Видалити"/>
+    <LangID ID="BTN_INSTALL" Text="Інстал."/>
+    <LangID ID="BTN_LATER" Text="Пізніше"/>
+    <LangID ID="BTN_Left" Text="Зліва"/>
+    <LangID ID="BTN_NO" Text="Ні"/>
+    <LangID ID="BTN_OK" Text="OK"/>
+    <LangID ID="BTN_RETRY" Text="Повтор."/>
+    <LangID ID="BTN_Right" Text="Справа"/>
+    <LangID ID="BTN_SAVE" Text="Зберегти"/>
+    <LangID ID="BTN_START" Text="ПОЧАТИ"/>
+    <LangID ID="BTN_YES" Text="Так"/>
+    <LangID ID="BT_Name_Main_Text" Text="Ім’я Bluetooth®:"/>
+    <LangID ID="Blocked_Browser_Headline" Text="Віддалене підключення"/>
+    <LangID ID="Blocked_Browser_Main_Text" Text="Зіскануйте QR-код, щоб побачити на своєму пристрої такий вміст:"/>
+    <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Синхронізацію аудіо\nзавершено."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Помилка синхронізації\nаудіо. Повторіть спробу\nпізніше."/>
+    <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Синхронізація Audio"/>
+    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Синхронізація…\n{0}%"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Утримуйте навушники\nбіля мікрофона на\nекрані й натисніть\n&quot;Почати&quot;. Під час\nсинхронізації аудіо\nне відтворюється."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth®"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH®"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Підключити нові навушники?\nНавушники мають бути в режимі\nз’єднання."/>
+    <LangID ID="Cancel_Download_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Cancel_Download_Main_Text" Text="Справді скасувати завантаження?"/>
+    <LangID ID="Checkbox_Text" Text="Більше не показувати"/>
+    <LangID ID="Child_Lock_Activated_Notification" Text="Блокування від дітей увімкнено"/>
+    <LangID ID="Child_Lock_Active_Notification" Text="Блокування від дітей активне"/>
+    <LangID ID="Child_Lock_Deactivated_Notification" Text="Блокування від дітей вимкнено"/>
+    <LangID ID="Connection_Assistant_1_Headline" Text="Асистент підключення 1 з 2"/>
+    <LangID ID="Connection_Assistant_2_Headline" Text="Асистент підключення 2 з 2"/>
+    <LangID ID="Connection_Assistant_Headline" Text="Асистент підключення"/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="Або натисніть кнопку ввімкнення внизу,\nщоб відкрити меню швидкого доступу."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Зіскануйте QR-код, щоб\nпідключитися до екрана\nчерез WLAN:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Щоб вибрати мережу, натисніть кнопку\nввімкнення й виберіть WLAN."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Для відтворення мультимедійного вмісту\nпристрій і екран мають бути в одній мережі."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Щоб установити з’єднання,\nзіскануйте QR_код:\n{0}"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Зіскануйте QR-код, щоб \nпідключитися до програми\nчи інших можливостей."/>
+    <LangID ID="Connection_Failed_Headline" Text="WLAN"/>
+    <LangID ID="Connection_Failed_Main_Text" Text="Не вдалося встановити з’єднання\nз мережею."/>
+    <LangID ID="Connection_Failed_Password_Headline" Text="WLAN"/>
+    <LangID ID="Connection_Failed_Password_Main_Text" Text="Помилка з’єднання.\nПеревірте пароль."/>
+    <LangID ID="Crosslink_Headline" Text="Налаштування Crosslink"/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="З’єднання Crosslink розпочато."/>
+    <LangID ID="Crosslink_Host_SSID_Text" Text="SSID: {0}"/>
+    <LangID ID="Crosslink_Host_Waiting_Text" Text="Зачекайте..."/>
+    <LangID ID="Crosslink_Pairing_Name_Text" Text="Ім’я екрана: {0}"/>
+    <LangID ID="Crosslink_Pairing_Successful_Text" Text="Crosslink успішно налаштовано."/>
+    <LangID ID="Crosslink_Pairing_Text" Text="З’єднання..."/>
+    <LangID ID="Crosslink_Screen_Main_Text" Text="Виберіть сторону автомобіля, яку \nхочете призначити цьому екрану."/>
+    <LangID ID="Crosslink_Searching_Text" Text="Пошук..."/>
+    <LangID ID="Delete_Device_Main_Text" Text="Справді видалити цей пристрій\nBluetooth®?"/>
+    <LangID ID="Delete_Install_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Delete_Install_Main_Text" Text="Справді видалити оновлення програмного\nзабезпечення?"/>
+    <LangID ID="Delete_Network_Main_Text" Text="Справді видалити мережу?"/>
+    <LangID ID="Device_Search_Menu_Text" Text="Пошук..."/>
+    <LangID ID="Download_Failed_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Download_Failed_Main_Text" Text="Помилка завантаження ПЗ.\nПовторити спробу?"/>
+    <LangID ID="Help_Headline" Text="Посібник користувача"/>
+    <LangID ID="IP_Address_Main_Text" Text="IP-адреса:"/>
+    <LangID ID="IVI_Active_Status" Text="Аудіо в автомобілі"/>
+    <LangID ID="IVI_Delete_Confirm" Text="Справді видалити {0}?\nВказівка: після цього відтворення\nаудіо в автомобілі через динаміки\nстане неможливим."/>
+    <LangID ID="IVI_Headline" Text="Відтворення аудіо в автомобілі"/>
+    <LangID ID="IVI_Main_Text" Text="У системі Infotainment виберіть екран\nяк аудіоджерело Bluetooth®. \nМаксимальна гучність визначатиметься\nвідповідно до системи Infotainment."/>
+    <LangID ID="IVI_Pairing_Failed" Text="Помилка з’єднання.\nПовторіть спробу пізніше."/>
+    <LangID ID="IVI_Pairing_Headline" Text="Відтворення аудіо в автомобілі"/>
+    <LangID ID="IVI_Pairing_In_Progress" Text="З’єднання..."/>
+    <LangID ID="IVI_Pairing_Search" Text="Пошук..."/>
+    <LangID ID="IVI_Sync_Complete" Text="Синхронізацію аудіо\nзавершено."/>
+    <LangID ID="IVI_Sync_Error" Text="Сталася помилка.\nСинхронізувати аудіо не вдалося.\nПовторіть спробу пізніше."/>
+    <LangID ID="IVI_Sync_In_Progress" Text="Синхронізація…\n{0}%"/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Виберіть екран як\nаудіоджерело Blue-\ntooth® у системі \nInfotainment. Зменште\nшуми. Натисніть \nПОЧАТИ, коли \nсистема буде готова."/>
+    <LangID ID="Install_Active_Headline" Text="Вказівка"/>
+    <LangID ID="Install_Active_Main_Text" Text="Інсталяція оновлення\n{0}% завершено.\n\nНе вимикайте запалювання, доки\nтриватиме процес оновлення.\nКоли інсталяція завершиться,\nсистема перезапуститься."/>
+    <LangID ID="Install_Available_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Install_Available_Main_Text" Text="Можна інсталювати програмне\nзабезпечення. Інсталювати зараз?\n\nПід час оновлення система не\nпрацюватиме."/>
+    <LangID ID="Install_Delete_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Install_Delete_Main_Text" Text="Інсталювати чи видалити оновлення?\n\nПід час оновлення система не\nпрацюватиме."/>
+    <LangID ID="Install_Failed_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Install_Failed_Main_Text" Text="Помилка інсталяції програмного \nзабезпечення. Повторити спробу?"/>
+    <LangID ID="Install_Successful_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Install_Successful_Main_Text" Text="Install successful. Software updated."/>
+    <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Bosnian" Text="Bosanski"/>
+    <LangID ID="Language_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Croatian" Text="Hrvatski"/>
+    <LangID ID="Language_Czech" Text="Čeština"/>
+    <LangID ID="Language_Danish" Text="Dansk"/>
+    <LangID ID="Language_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_Finnish" Text="Suomi"/>
+    <LangID ID="Language_French" Text="Français"/>
+    <LangID ID="Language_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_German" Text="Deutsch"/>
+    <LangID ID="Language_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Headline" Text="Мова (Language)"/>
+    <LangID ID="Language_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Italian" Text="Italiano"/>
+    <LangID ID="Language_Japanese" Text="日本語"/>
+    <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Malasian" Text="Bahasa Melayu"/>
+    <LangID ID="Language_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Polish" Text="Polski"/>
+    <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Bosnian" Text="Bosanski"/>
+    <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
+    <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Croatian" Text="Hrvatski"/>
+    <LangID ID="Language_Preview_Czech" Text="Čeština"/>
+    <LangID ID="Language_Preview_Danish" Text="Dansk"/>
+    <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
+    <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
+    <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_Finnish" Text="Suomi"/>
+    <LangID ID="Language_Preview_French" Text="Français"/>
+    <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
+    <LangID ID="Language_Preview_German" Text="Deutsch"/>
+    <LangID ID="Language_Preview_Greek" Text="Ελληνικά"/>
+    <LangID ID="Language_Preview_Hungarian" Text="Magyar"/>
+    <LangID ID="Language_Preview_Italian" Text="Italiano"/>
+    <LangID ID="Language_Preview_Japanese" Text="日本語"/>
+    <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Malasian" Text="Bahasa Melayu"/>
+    <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
+    <LangID ID="Language_Preview_Polish" Text="Polski"/>
+    <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
+    <LangID ID="Language_Preview_Portuguese" Text="Português"/>
+    <LangID ID="Language_Preview_Romanian" Text="Română"/>
+    <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Preview_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Preview_Slovenian" Text="Slovenščina"/>
+    <LangID ID="Language_Preview_Spanish" Text="Español"/>
+    <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Preview_Ukrainian" Text="Українська"/>
+    <LangID ID="Language_Romanian" Text="Română"/>
+    <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Slovenian" Text="Slovenščina"/>
+    <LangID ID="Language_Spanish" Text="Español"/>
+    <LangID ID="Language_Spanish_US" Text="Español (México)"/>
+    <LangID ID="Language_Swedish" Text="Svenska"/>
+    <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
+    <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Ukrainian" Text="Українська"/>
+    <LangID ID="Legal_Info_Headline" Text="Юридична інформація"/>
+    <LangID ID="MCU_Version_Main_Text" Text="Версія MCU:"/>
+    <LangID ID="Max_Volume_Notification" Text="Екран настроєно на максимальну гучність.\nПідвищте гучність у системі Infotainment."/>
+    <LangID ID="Memory_Usage_Main_Text" Text="Використання пам’яті:"/>
+    <LangID ID="Menu_Download_Active" Text="Скасувати завантаження"/>
+    <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
+    <LangID ID="Menu_Help_Crosslink" Text="Select CROSSLINK to view content currently shown on the companion screen. Note: if selecting crosslink when audio sharing is active, audio and volume controls are unavailable."/>
+    <LangID ID="Menu_Help_HDMI" Text="Content can be played from a HDMI source when a compatible device is connected. Note: if no content is playing on the HDMI device when selected, the screen will appear blank."/>
+    <LangID ID="Menu_Help_Input" Text="Select INPUT to connect to a Wi-Fi network. This enables you to stream content through external providers or to establish a connection with your device to share content."/>
+    <LangID ID="Menu_Help_Intro_SOP1" Text="Система Audi Entertainment System\nдає можливість переглядати вміст\nіз мобільного пристрою, підключеного \nчерез WLAN, або сумісного пристрою, \nпідключеного через HDMI чи USB."/>
+    <LangID ID="Menu_Help_Intro_SOP2" Text="Система Audi Entertainment System дає\nможливість переглядати та слухати вміст\nіз мобільного пристрою, підключеного \nчерез WLAN, або сумісного пристрою, \nпідключеного через HDMI чи USB."/>
+    <LangID ID="Menu_Help_OTA" Text="Щоб користуватися новими функціями\nта виправленнями помилок, завантажте\nнайновіше програмне забезпечення в\nменю настройок."/>
+    <LangID ID="Menu_Help_Output_SOP1" Text="Select OUTPUT to connect Bluetooth headphones or press the audio sharing button to send audio output to the car speakers. Audio is also available through wired headphones."/>
+    <LangID ID="Menu_Help_Output_SOP2" Text="Select OUTPUT to connect Bluetooth headphones. Audio is also available through wired headphones."/>
+    <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat, pull the collar on the mounting arm towards the rear of the vehicle then pull the screen until it is clear of the seat.."/>
+    <LangID ID="Menu_Help_Source" Text="Select SOURCE to choose your desired content. You can view content from external providers by selecting the service from the list shown. The browser can also be reset in this menu."/>
+    <LangID ID="Menu_Help_USB" Text="Мультимедійний вміст можна відтворювати\nза допомогою програми Fond Media Control\nчерез сумісний пристрій, підключений\nчерез USB."/>
+    <LangID ID="Menu_Install_Update" Text="Інсталювати оновлення"/>
+    <LangID ID="Menu_Legal_About_Us" Text="Вихідні дані"/>
+    <LangID ID="Menu_Legal_Open_Source" Text="Ліцензія з відкритим кодом"/>
+    <LangID ID="Menu_Legal_Privacy_Policy" Text="Політика конфіденційності"/>
+    <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Акустичний відгук"/>
+    <LangID ID="Menu_Settings_Audio_Sync" Text="Синхронізація аудіо"/>
+    <LangID ID="Menu_Settings_Brightness_Persistence" Text="Зберегти настройки яскравості"/>
+    <LangID ID="Menu_Settings_Connection_Assistant" Text="Асистент підключення"/>
+    <LangID ID="Menu_Settings_IVI_Pairing" Text="Відтворення аудіо в автомобілі"/>
+    <LangID ID="Menu_Settings_Language" Text="Мова (Language)"/>
+    <LangID ID="Menu_Settings_Legal_Info" Text="Юридична інформація"/>
+    <LangID ID="Menu_Settings_Screen_Off" Text="Вимкнути екран"/>
+    <LangID ID="Menu_Settings_Screen_Timeout" Text="Таймаут екрана"/>
+    <LangID ID="Menu_Settings_Software" Text="Програмне забезпечення"/>
+    <LangID ID="Menu_Settings_Volume_Persistence" Text="Зберегти настройки гучності"/>
+    <LangID ID="Menu_Software_Analytics" Text="Аналітичний відгук"/>
+    <LangID ID="Menu_Software_Reset" Text="Відновити заводські настройки"/>
+    <LangID ID="Menu_Software_Update" Text="Пошук оновлень"/>
+    <LangID ID="Menu_Software_Update_Check" Text="Пошук оновлень..."/>
+    <LangID ID="Menu_Software_Version" Text="Інформація про ПЗ"/>
+    <LangID ID="Network_Search_Main_Text" Text="Пошук..."/>
+    <LangID ID="No_Connection_Status" Text="Не з’єднано"/>
+    <LangID ID="No_Device_Status" Text="Не з’єднано"/>
+    <LangID ID="No_Devices_Main_Text" Text="Пристроїв не знайдено"/>
+    <LangID ID="No_Updates_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="No_Updates_Main_Text" Text="Оновлень немає."/>
+    <LangID ID="Notification_Crosslink_Unavailable" Text="Crosslink наразі недоступний"/>
+    <LangID ID="Notification_HDMI_Unavailable" Text="HDMI наразі недоступний"/>
+    <LangID ID="Notification_IVI_Unavailable" Text="Передавання аудіо наразі недоступне"/>
+    <LangID ID="Notification_Initialising" Text="Триває запуск..."/>
+    <LangID ID="Notification_Mute_Unavailable" Text="Вимкнути звук наразі неможливо"/>
+    <LangID ID="Notification_OTT_Unavailable" Text="Зовнішній постачальник вмісту недоступн."/>
+    <LangID ID="Notification_SOP1_Function_Unavailable" Text="Функція наразі недоступна"/>
+    <LangID ID="Notification_Temperature" Text="Зависока температура екрана. Система невдовзі \nвимкнеться, щоб запобігти пошкодженням."/>
+    <LangID ID="Notification_Volume_Unavailable" Text="Регулювання гучності наразі недоступне"/>
+    <LangID ID="PIN_Entry_Help_Text" Text="Ввести PIN-код"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Введіть PIN-код свого\nпристрою Bluetooth®."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth®"/>
+    <LangID ID="Pairing_Failed_Main_Text" Text="Помилка з’єднання.\nПовторіть спробу пізніше."/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Помилка з’єднання.\nПеревірте свій PIN-код."/>
+    <LangID ID="Password_Speller_Help_Text" Text="Ввести пароль"/>
+    <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Скинути"/>
+    <LangID ID="Quick_Menu_Full_Screen" Text="На весь екран"/>
+    <LangID ID="Quick_Menu_Help" Text="Посібник"/>
+    <LangID ID="Quick_Menu_Screen_Off" Text="Вимкнути екран"/>
+    <LangID ID="Quick_Menu_Settings" Text="Настройки"/>
+    <LangID ID="Quick_Menu_Source" Text="Джерело"/>
+    <LangID ID="RSE_Version_Main_Text" Text="Версія RSE:"/>
+    <LangID ID="Remote_Crosslink_Notification" Text="Джерело змінено – увімкнено Crosslink"/>
+    <LangID ID="Remote_HDMI_Notification" Text="Джерело змінено – увімкнено HDMI"/>
+    <LangID ID="Rename_Device_Headline" Text="Перейменування пристрою"/>
+    <LangID ID="Reset_Browser_Headline" Text="Скинути браузер"/>
+    <LangID ID="Reset_Browser_Main_Text" Text="Справді скинути браузер? Усі дані\nкористувача буде втрачено, і вам\nпотрібно буде повторно\nвиконувати вхід."/>
+    <LangID ID="Run_Time_Main_Text" Text="Час роботи:"/>
+    <LangID ID="Screen_Off_Notification" Text="Щоб увімкнути, торкніться екрана"/>
+    <LangID ID="Screen_Timeout_Headline" Text="Таймаут екрана"/>
+    <LangID ID="Settings_Headline" Text="Настройки"/>
+    <LangID ID="Shutting_Down_Notification" Text="Завершення роботи системи..."/>
+    <LangID ID="Software_Reset_Headline" Text="Відновлення завод. настройок"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Якщо ви продовжите, буде відновлено\nзаводські настройки системи. Усі\nперсональні настройки, як-от збережені\nмережі чи паролі, буде видалено.\nЦей процес не можна скасувати. Справді\nвідновити настройки?"/>
+    <LangID ID="Software_Reset_Successful_Headline" Text="Відновлення завод. настройок"/>
+    <LangID ID="Software_Reset_Successful_Main_Text" Text="Заводські настройки відновлено.\nНевдовзі систему буде\nперезапущено."/>
+    <LangID ID="Software_Update_Headline" Text="Програмне забезпечення"/>
+    <LangID ID="Software_Version_Headline" Text="Інформація про ПЗ"/>
+    <LangID ID="Software_Version_Main_Text" Text="Версія ПЗ"/>
+    <LangID ID="Source_Device_Menu_Text" Text="Вміст вашого пристрою"/>
+    <LangID ID="Source_HDMI_Menu_Text" Text="HDMI"/>
+    <LangID ID="Source_Headline" Text="Джерело"/>
+    <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
+    <LangID ID="Source_Screensaver_Menu_Text" Text="Екранна заставка"/>
+    <LangID ID="Timeout_Option_1" Text="Ніколи"/>
+    <LangID ID="Timeout_Option_2" Text="30 секунд"/>
+    <LangID ID="Timeout_Option_3" Text="1 хвилина"/>
+    <LangID ID="Timeout_Option_4" Text="5 хвилин"/>
+    <LangID ID="Timeout_Option_5" Text="10 хвилин"/>
+    <LangID ID="Timeout_Option_6" Text="30 хвилин"/>
+    <LangID ID="Timeout_Preview_Option_1" Text="Ніколи"/>
+    <LangID ID="Timeout_Preview_Option_2" Text="30 секунд"/>
+    <LangID ID="Timeout_Preview_Option_3" Text="1 хвилина"/>
+    <LangID ID="Timeout_Preview_Option_4" Text="5 хвилин"/>
+    <LangID ID="Timeout_Preview_Option_5" Text="10 хвилин"/>
+    <LangID ID="Timeout_Preview_Option_6" Text="30 хвилин"/>
+    <LangID ID="Update_Available_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Update_Available_Main_Text" Text="Доступне оновлення ПЗ:\n- нові й/або розширені функції;\n- загальні виправлення помилок;\n- покращення стабільності й надійності.\nВерсія: {0} Розмір: {1} МБ\nЗавантажити зараз?"/>
+    <LangID ID="Update_Unavailable_Headline" Text="Оновлення ПЗ"/>
+    <LangID ID="Update_Unavailable_Main_Text" Text="Пошук оновлень неможливий.\nПовторіть спробу пізніше."/>
+    <LangID ID="Use_Extension_Headline" Text="Вказівка"/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Система Audi Entertainment System\nвимкнеться через {0} с.\nЩоб продовжити користуватися нею,\nнатисніть кнопку &quot;OK&quot;."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Система Audi Entertainment System\nвимкнеться через {0} с.\nЩоб продовжити користуватися нею,\nнатисніть кнопку &quot;OK&quot;."/>
+    <LangID ID="Wi-Fi_Status" Text="WLAN"/>
+    <LangID ID="WiFi_Headline" Text="WLAN"/>
+</LangDef>

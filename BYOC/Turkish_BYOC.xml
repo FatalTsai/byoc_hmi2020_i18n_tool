@@ -4,30 +4,42 @@
     <LangID ID="Assigned_Location_Main_Text" Text="Atanan konum:"/>
     <LangID ID="Assigned_Location_None" Text="Yok"/>
     <LangID ID="Assigned_Location_Right" Text="Sağ"/>
+    <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
+    <LangID ID="Audi_Brightnsss" Text="Parlaklık"/>
+    <LangID ID="Audi_Connection" Text="Bağlantı"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wi-Fi bağlantısı"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Output" Text="Ses çıkışı"/>
+    <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Volume" Text="Ses seviyesi"/>
+    <LangID ID="Audi_WiFi" Text="Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="Ses senkron"/>
     <LangID ID="Audio_Sync_Main_Text" Text="Manüel ayar"/>
     <LangID ID="BTN_Cancel" Text="İptal"/>
     <LangID ID="BTN_DELETE" Text="Sil"/>
     <LangID ID="BTN_INSTALL" Text="Yükle"/>
-    <LangID ID="BTN_LATER" Text="Daha sonra"/>
+    <LangID ID="BTN_LATER" Text="Sonra"/>
     <LangID ID="BTN_Left" Text="Sol"/>
     <LangID ID="BTN_NO" Text="Hayır"/>
     <LangID ID="BTN_OK" Text="Tamam"/>
-    <LangID ID="BTN_RETRY" Text="Tekrar dene"/>
+    <LangID ID="BTN_RETRY" Text="Tekrar."/>
     <LangID ID="BTN_Right" Text="Sağ"/>
     <LangID ID="BTN_SAVE" Text="Kaydet"/>
     <LangID ID="BTN_START" Text="BAŞLAT"/>
     <LangID ID="BTN_YES" Text="Evet"/>
-    <LangID ID="BT_Name_Main_Text" Text="Bluetooth adı:"/>
+    <LangID ID="BT_Name_Main_Text" Text="Bluetooth® adı:"/>
     <LangID ID="Blocked_Browser_Headline" Text="Uzak bağlantı"/>
     <LangID ID="Blocked_Browser_Main_Text" Text="Cihazınızda görüntülemek için kare kodu taratın:"/>
     <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Ses senkronizasyonu\ntamamlandı."/>
-    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Ses senkron başarısız.\nDaha sonra tekrar deneyin."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Ses senkronizasyonu\nbaşarısız. Lütfen daha\nsonra tekrar deneyin."/>
     <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Ses senkron"/>
     <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Senkron...\n{0}%"/>
-    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Kulaklığı ekrandaki\nmikrofonun yanında tutun\nve başlata basın.\nSenkron işlemi sırasında\nses kapalı olacaktır."/>
-    <LangID ID="Bluetooth_Headline" Text="Bluetooth"/>
-    <LangID ID="Bluetooth_Status" Text="BLUETOOTH"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Kulaklığı ekrandaki\nmikrofonun yanında\ntutun ve başlata basın.\nSenkronizasyon\nsırasında ses çıkışı\nsessizdir."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth®"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH®"/>
     <LangID ID="Bluetooth_Visibility_Main_Text" Text="Yeni kulaklık mı eşleştirmek istiyorsunuz?\nKulaklık eşleştirme modunda olmalıdır."/>
     <LangID ID="Cancel_Download_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="Cancel_Download_Main_Text" Text="İndirme işlemini iptal etmek\nistediğinizden emin misiniz?"/>
@@ -39,17 +51,17 @@
     <LangID ID="Connection_Assistant_2_Headline" Text="Bağlantı yardımcısı 2/2"/>
     <LangID ID="Connection_Assistant_Headline" Text="Bağlantı yardımcısı"/>
     <LangID ID="Connection_Assistant_Help_Text" Text="Veya hızlı menüyü açmak için\naşağıdaki güç düğmesine basın."/>
-    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Ekrana Wi-Fi ile bağlanmak için\nkare kodu taratın:"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Aşağıdaki güç düğmesine basın ve kullanılabilir\nbir ağ seçmek için Wi-Fi'yi seçin."/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Medya dosyalarınızı oynatmak için cihazınızın ve\nbu ekranın aynı ağda olduğundan emin olun."/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Bağlanmak için QR kodunu tarayın:\n{0}"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Uygulama veya alternatif bağlantı\nseçenekleri için QR kodunu tarayın."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Ekrana Wi-Fi ile bağlanmak\niçin, QR kodunu tarayın:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Güç düğmesine basın ve\nbir ağ seçmek için Wi-Fi'yi seçin."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Medya dosyalarını oynatmak için,\ncihaz ve ekran aynı ağda olmalıdır."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Bir bağlantı kurmak için,\nQR kodunu tarayın:\n{0}"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Uygulamaya veya diğer\nseçeneklere bağlanmak\niçin, QR kodunu tarayın."/>
     <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Main_Text" Text="Ağ bağlantısı kurulamadı."/>
     <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Password_Main_Text" Text="Bağlantı başarısız.\nLütfen parolanızı kontrol edin."/>
     <LangID ID="Crosslink_Headline" Text="Çapraz bağlantı kurulumu"/>
-    <LangID ID="Crosslink_Host_Main_Text" Text="Bir çapraz bağlantı eşleştirme işlemi başlatıldı."/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="Bir çapraz bağlantı eşleştirme başlatıldı."/>
     <LangID ID="Crosslink_Host_SSID_Text" Text="SSID: {0}"/>
     <LangID ID="Crosslink_Host_Waiting_Text" Text="Lütfen bekleyin..."/>
     <LangID ID="Crosslink_Pairing_Name_Text" Text="Ekran adı: {0}"/>
@@ -57,7 +69,7 @@
     <LangID ID="Crosslink_Pairing_Text" Text="Eşleştiriliyor..."/>
     <LangID ID="Crosslink_Screen_Main_Text" Text="Lütfen aracın hangi tarafını bu ekrana\natamak istediğinizi seçin."/>
     <LangID ID="Crosslink_Searching_Text" Text="Arıyor…"/>
-    <LangID ID="Delete_Device_Main_Text" Text="Bu dosyaları silmek istediğinizden emin misiniz?"/>
+    <LangID ID="Delete_Device_Main_Text" Text="Bu Bluetooth® cihazı\ngerçekten silinsin mi?"/>
     <LangID ID="Delete_Install_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="Delete_Install_Main_Text" Text="Yazılım güncellemesini silmek\nistediğinizden emin misiniz?"/>
     <LangID ID="Delete_Network_Main_Text" Text="Bu ağı silmek istediğinizden emin misiniz?"/>
@@ -69,7 +81,7 @@
     <LangID ID="IVI_Active_Status" Text="Araca ses çıkışı"/>
     <LangID ID="IVI_Delete_Confirm" Text="{0} öğesini silmek\nistediğinizden emin misiniz?\nNot: Araç hoparlörlerine ses çıkışı\nartık kullanılamayacaktır."/>
     <LangID ID="IVI_Headline" Text="Araca ses çıkışı"/>
-    <LangID ID="IVI_Main_Text" Text="Lütfen bilgi-eğlence sisteminde ekran\nadını Bluetooth ses kaynağı olarak seçin.\nMaksimum ses seviyesi bilgi-eğlence\nsistemi ses seviyesi tarafından belirlenir."/>
+    <LangID ID="IVI_Main_Text" Text="Lütfen bilgi-eğlence sisteminde ekranı\nBluetooth® ses kaynağı olarak seçin.\nMaksimum ses seviyesi bilgi-eğlence\nsistemi ses seviyesi tarafından belirlenir."/>
     <LangID ID="IVI_Pairing_Failed" Text="Eşleştirme başarısız.\nLütfen daha sonra tekrar deneyin."/>
     <LangID ID="IVI_Pairing_Headline" Text="Araç içi ses sistemine bağlantı"/>
     <LangID ID="IVI_Pairing_In_Progress" Text="Eşleştiriliyor..."/>
@@ -77,25 +89,28 @@
     <LangID ID="IVI_Sync_Complete" Text="Ses senkronizasyonu\ntamamlandı."/>
     <LangID ID="IVI_Sync_Error" Text="Bir hata oluştu.\nSes senkronize edilemiyor.\nLütfen daha sonra tekrar deneyin."/>
     <LangID ID="IVI_Sync_In_Progress" Text="Senkron...\n{0}%"/>
-    <LangID ID="IVI_Sync_Main_Text" Text="Bilgi-eğlence sisteminde\nekran adını Bluetooth\nolarak seçin.\nSesi kontrol edin ve\narka plan gürültüsünü azaltın.\nSistem hazır olduğunda\nBAŞLAT'a basın."/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Bilgi-eğlence sisteminde\nekran adını Bluetooth®\nses kaynağı olarak seçin.\nGürültüyü azaltın.Sistem\nhazır olduğunda\nBAŞLAT'a basın."/>
     <LangID ID="Install_Active_Headline" Text="Not"/>
     <LangID ID="Install_Active_Main_Text" Text="Güncelleme yüklemesi\n%{0} tamamlandı.\n\nLütfen güncelleme tamamlanıncaya\nkadar aracın açık olduğundan emin olun.\n\nYükleme tamamlandığında\nsistem yeniden başlatılacaktır."/>
     <LangID ID="Install_Available_Headline" Text="Yazılım güncellemesi"/>
-    <LangID ID="Install_Available_Main_Text" Text="Yazılım yükleme hazır.\nŞimdi yüklemek ister misiniz?\n\nYazılım güncelleme işlemi sırasında sistem kullanılamaz."/>
+    <LangID ID="Install_Available_Main_Text" Text="Yazılım yükleme hazır.\nŞimdi yüklemek ister misiniz?\n\nGüncelleme işlemi sırasında\nsistem kullanılamaz."/>
     <LangID ID="Install_Delete_Headline" Text="Yazılım güncellemesi"/>
-    <LangID ID="Install_Delete_Main_Text" Text="Güncellemeyi yüklemek veya silmek\nistiyor musunuz?\n\nYazılım güncelleme işlemi sırasında sistem kullanılamaz."/>
+    <LangID ID="Install_Delete_Main_Text" Text="Güncellemeyi yüklemek veya silmek\nistiyor musunuz?\n\nGüncelleme işlemi sırasında sistem\nkullanılamaz."/>
     <LangID ID="Install_Failed_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="Install_Failed_Main_Text" Text="Yazılım yüklenemedi.\nTekrar denemek ister misiniz?"/>
     <LangID ID="Install_Successful_Headline" Text="Yazılım güncellemesi"/>
-    <LangID ID="Install_Successful_Main_Text" Text="Yükleme başarılı. Yazılım güncellendi.\n\nYenilikler\n- Genel hata düzeltmeleri ve metin güncellemeleri\n- {0} işlevinin performans iyileştirmesi\n- Yeni işlev {1}"/>
+    <LangID ID="Install_Successful_Main_Text" Text="Yükleme başarılı. Yazılım güncellendi.\n\nYenilikler\n- Yeni ve/veya gelişmiş özellikler\n- Genel hata düzeltmeleri\n- Kararlılık ve güvenlikte iyileştirmeler"/>
     <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Czech" Text="Čeština"/>
     <LangID ID="Language_Danish" Text="Dansk"/>
     <LangID ID="Language_Dutch" Text="Nederlands"/>
     <LangID ID="Language_English_UK" Text="English (UK)"/>
     <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_Finnish" Text="Suomi"/>
     <LangID ID="Language_French" Text="Français"/>
     <LangID ID="Language_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_German" Text="Deutsch"/>
@@ -105,18 +120,22 @@
     <LangID ID="Language_Italian" Text="Italiano"/>
     <LangID ID="Language_Japanese" Text="日本語"/>
     <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Polish" Text="Polski"/>
     <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Preview_Czech" Text="Čeština"/>
     <LangID ID="Language_Preview_Danish" Text="Dansk"/>
     <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
     <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
     <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_Finnish" Text="Suomi"/>
     <LangID ID="Language_Preview_French" Text="Français"/>
     <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_Preview_German" Text="Deutsch"/>
@@ -125,24 +144,33 @@
     <LangID ID="Language_Preview_Italian" Text="Italiano"/>
     <LangID ID="Language_Preview_Japanese" Text="日本語"/>
     <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Preview_Polish" Text="Polski"/>
     <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Preview_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Romanian" Text="Română"/>
     <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Preview_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Preview_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Preview_Spanish" Text="Español"/>
     <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
     <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Preview_Ukrainian" Text="Українська"/>
     <LangID ID="Language_Romanian" Text="Română"/>
     <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Spanish" Text="Español"/>
     <LangID ID="Language_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Swedish" Text="Svenska"/>
     <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Ukrainian" Text="Українська"/>
     <LangID ID="Legal_Info_Headline" Text="Yasal bilgiler ve gizlilik politikası"/>
     <LangID ID="MCU_Version_Main_Text" Text="MCU Sürüm:"/>
     <LangID ID="Max_Volume_Notification" Text="Ekran ses seviyesi maksimum olarak ayarlandı.\nBilgi-eğlence sistemi ses seviyenizi artırın."/>
@@ -150,14 +178,16 @@
     <LangID ID="Menu_Download_Active" Text="İndirmeyi iptal et"/>
     <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
     <LangID ID="Menu_Help_Crosslink" Text="Şu anda eş ekranda gösterilen içeriği görüntülemek için\n&lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt;'i seçin. Not: ses paylaşımı etkin\ndurumdayken çapraz bağlantı seçilirse, ses ve\nses kontrolleri kullanılamaz."/>
-    <LangID ID="Menu_Help_HDMI" Text="Uyumlu bir cihaz bağlandığında\nbir HDMI kaynağındaki içerik de oynatılabilir.\nNot: seçildiği halde HDMI cihazında herhangi\nbir içerik oynatılmıyorsa, ekran boş görünecektir."/>
+    <LangID ID="Menu_Help_HDMI" Text="Uyumlu bir cihaz bağlandığında bir\nHDMI kaynağındaki içerikler oynatılabilir.\nSeçimden sonra HDMI cihazında hiçbir\niçerik oynatılmazsa, boş bir ekran gösterilir."/>
     <LangID ID="Menu_Help_Input" Text="Bir Wi-Fi ağına bağlanmak için &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-Fi&lt;/span&gt; 'u seçin.\nBu sayede, harici sağlayıcılar üzerindeki\niçeriği oynatabilir veya içerik paylaşmak için\ncihazınızla bağlantı kurabilirsiniz."/>
-    <LangID ID="Menu_Help_Intro" Text="Bentley Eğlence Sistemi, Wi-Fi ile bağlı mobil\ncihazınızdan ya da HDMI veya USB üzerinden\nbağlı uyumlu bir cihazdan içerik görüntülemenizi\nve dinlemenizi sağlar."/>
-    <LangID ID="Menu_Help_OTA" Text="Yeni özellikleri ve hata düzeltmelerini keşfetmek için,\nayarlar menüsünden en son yazılımı indirin."/>
+    <LangID ID="Menu_Help_Intro_SOP1" Text="Audi Eğlence Sistemi, Wi-Fi üzerinden\nbağlı mobil cihazdan ya da HDMI veya\nUSB üzerinden bağlı uyumlu bir cihazdan\niçerik görüntülemenizi sağlar."/>
+    <LangID ID="Menu_Help_Intro_SOP2" Text="Audi Eğlence Sistemi, Wi-Fi ile bağlı mobil\ncihazınızdan ya da HDMI veya USB üzerinden\nbağlı uyumlu bir cihazdan içerik görüntülemenizi\nve dinlemenizi sağlar."/>
+    <LangID ID="Menu_Help_OTA" Text="En yeni özellikleri ve hata düzeltmelerini\nkeşfetmek için, ayarlar menüsünden\nen son yazılımı indirin."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Bluetooth kulaklıkları bağlamak için &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;'u\nseçin. Ses, kablolu kulaklıklarla da dinlenebilir."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Bluetooth kulaklıkları bağlamak için &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;'u\nseçin veya araç hoparlörlerinden ses çıkışı için\nses paylaşımı düğmesine basın.\nSes, kablolu kulaklıklarla da dinlenebilir."/>
+    <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
     <LangID ID="Menu_Help_Source" Text="İstediğiniz içeriği seçmek için &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt;'u seçin.\nAçılan listeden servisi seçerek harici\nsağlayıcılar üzerindeki içeriği görüntüleyebilirsiniz.\nAyrıca bu menüden tarayıcı sıfırlanabilir."/>
-    <LangID ID="Menu_Help_USB" Text="Bentley Eğlence Kontrolü uygulaması\nkullanılırken USB üzerinden bağlanan\nuyumlu bir cihaz üzerindeki medya oynatılabilir."/>
+    <LangID ID="Menu_Help_USB" Text="Medya dosyaları, Fond Media\nControl Uygulaması yardımıyla\nUSB üzerinden bağlanan uyumlu\nbir cihaz üzerinden oynatılabilir."/>
     <LangID ID="Menu_Install_Update" Text="Güncellemeyi yükle"/>
     <LangID ID="Menu_Legal_About_Us" Text="Hakkımızda"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Açık Kaynak Bildirimi Ayrıntıları"/>
@@ -184,32 +214,23 @@
     <LangID ID="No_Devices_Main_Text" Text="Cihaz bulunamadı"/>
     <LangID ID="No_Updates_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="No_Updates_Main_Text" Text="Mevcut güncelleme yok."/>
-    <LangID ID="Notification_Bluetooth_Unavailable" Text="Bluetooth şu anda kullanılamıyor"/>
-    <LangID ID="Notification_Brightness_Unavailable" Text="Parlaklık kontrolleri şu anda kullanılamıyor"/>
-    <LangID ID="Notification_Child_Lock_Unavailable" Text="Çocuk kilidi şu anda kullanılamıyor"/>
-    <LangID ID="Notification_Connecting" Text="Bağlanıyor..."/>
     <LangID ID="Notification_Crosslink_Unavailable" Text="Çapraz bağlantı şu anda kullanılamıyor"/>
-    <LangID ID="Notification_Error_Reconnect" Text="Bağlantı koptu. Yeniden bağlanmaya çalışıyor..."/>
-    <LangID ID="Notification_Full_Screen_Unavailable" Text="Tam ekran modu şu anda kullanılamıyor"/>
     <LangID ID="Notification_HDMI_Unavailable" Text="HDMI şu anda kullanılamıyor"/>
-    <LangID ID="Notification_Help_Unavailable" Text="Kullanım kılavuzu şu anda kullanılamıyor"/>
     <LangID ID="Notification_IVI_Unavailable" Text="Ses paylaşımı şu anda kullanılamıyor"/>
     <LangID ID="Notification_Initialising" Text="Başlatılıyor..."/>
     <LangID ID="Notification_Mute_Unavailable" Text="Sessize alma şu anda kullanılamıyor"/>
     <LangID ID="Notification_OTT_Unavailable" Text="Harici içerik sağlayıcısı kullanılamıyor"/>
-    <LangID ID="Notification_Quick_Menu_Unavailable" Text="Hızlı menü şu anda kullanılamıyor"/>
-    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="Fonksiyon şu anda mevcut değildir"/>
-    <LangID ID="Notification_Screen_Unavailable" Text="Ekran şu anda kullanılamıyor"/>
+    <LangID ID="Notification_SOP1_Function_Unavailable" Text="Fonksiyon şu anda mevcut değildir"/>
     <LangID ID="Notification_Temperature" Text="Ekran sıcaklığı çok yüksek. Sistem hasar\noluşmasını önlemek için yakın zamanda kapanacak."/>
     <LangID ID="Notification_Volume_Unavailable" Text="Ses kontrolleri şu anda kullanılamıyor"/>
-    <LangID ID="Notification_WiFi_Unavailable" Text="Wi-Fi şu anda kullanılamıyor"/>
     <LangID ID="PIN_Entry_Help_Text" Text="PIN gir"/>
-    <LangID ID="PIN_Entry_Main_Text" Text="Lütfen\nBluetooth cihazınızın\nPIN kodunu girin."/>
-    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Lütfen\nBluetooth® cihazınızın\nPIN kodunu girin."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Main_Text" Text="Bağlantı başarısız.\nLütfen daha sonra tekrar deneyin."/>
-    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Bağlantı başarısız.\nLütfen PIN kodunuzu kontrol edin."/>
     <LangID ID="Password_Speller_Help_Text" Text="Parolayı girin"/>
+    <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Sıfırla"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Tam ekran"/>
     <LangID ID="Quick_Menu_Help" Text="Kullanıcı kılavuzu"/>
     <LangID ID="Quick_Menu_Screen_Off" Text="Ekr kapalı"/>
@@ -220,14 +241,14 @@
     <LangID ID="Remote_HDMI_Notification" Text="Kaynak değişti - HDMI etkin"/>
     <LangID ID="Rename_Device_Headline" Text="Cihazı yeniden adlandır"/>
     <LangID ID="Reset_Browser_Headline" Text="Tarayıcıyı sıfırla"/>
-    <LangID ID="Reset_Browser_Main_Text" Text="Tarayıcıyı sıfırlamak istediğinizden emin misiniz?\nTüm hesap bilgileri kaybolacak\nve yeniden giriş yapmanız gerekecek."/>
+    <LangID ID="Reset_Browser_Main_Text" Text="Tarayıcıyı sıfırlamak istediğinizden\nemin misiniz? Tüm kullanıcı bilgileri\nkaybolur ve yeniden giriş yapmanız\ngerekir."/>
     <LangID ID="Run_Time_Main_Text" Text="Yazılım süresi:"/>
     <LangID ID="Screen_Off_Notification" Text="Açmak için lütfen ekrana dokunun"/>
     <LangID ID="Screen_Timeout_Headline" Text="Ekran Zaman Aşımı"/>
     <LangID ID="Settings_Headline" Text="Ayarlar"/>
     <LangID ID="Shutting_Down_Notification" Text="Sistem kapatılıyor..."/>
     <LangID ID="Software_Reset_Headline" Text="Fabrika ayarlarını yeniden oluştur"/>
-    <LangID ID="Software_Reset_Main_Text" Text="Devam ederseniz, sistem fabrika ayarlarına\nsıfırlanacak. Kaydedilmiş ağlar, Bluetooth\ncihazları ve parolalar dahil tüm bireysel ayarlar\nsilinecektir. Bu işlemi geri almanız mümkün değildir.\n\nSıfırlamak istediğinizden emin misiniz?"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Devam ederseniz, sistem fabrika\nayarlarına sıfırlanır. Kaydedilmiş\nağlar veya şifreler gibi tüm bireysel\nayarlar silinir. İşlem geri alınamaz.\nGerçekten sıfırlansın mı?"/>
     <LangID ID="Software_Reset_Successful_Headline" Text="Fabrika ayarlarını yeniden oluştur"/>
     <LangID ID="Software_Reset_Successful_Main_Text" Text="Fabrika ayarları geri yüklendi.\nSistem kısa süre içinde yeniden başlatılacak."/>
     <LangID ID="Software_Update_Headline" Text="Yazılım"/>
@@ -251,12 +272,12 @@
     <LangID ID="Timeout_Preview_Option_5" Text="10 dakika"/>
     <LangID ID="Timeout_Preview_Option_6" Text="30 dakika"/>
     <LangID ID="Update_Available_Headline" Text="Yazılım güncellemesi"/>
-    <LangID ID="Update_Available_Main_Text" Text="Yazılım güncellemesi mevcut:\n\n- Yeni ve/veya gelişmiş özellikler\n- Genel hata düzeltmeleri\n- Kullanılabilirlik, kararlılık ve güvenlikte iyileştirmeler\n\nSürüm: {0} Boyut: {1} MB\n\nİndirme bağlantı hızınıza bağlı olarak birkaç dakika\nsürebilir. Şimdi indirmek ister misiniz?"/>
+    <LangID ID="Update_Available_Main_Text" Text="Yazılım güncellemesi mevcut:\n- Yeni ve/veya gelişmiş özellikler\n- Genel hata düzeltmeleri\n- Kararlılık ve güvenlikte iyileştirmeler\nSürüm: {0} Boyut: {1} MB\nŞimdi indirmek ister misiniz?"/>
     <LangID ID="Update_Unavailable_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="Update_Unavailable_Main_Text" Text="Güncellemeler kontrol edilemiyor.\nLütfen daha sonra tekrar deneyin."/>
     <LangID ID="Use_Extension_Headline" Text="Not"/>
-    <LangID ID="Use_Extension_Main_Text_PL" Text="Bentley Eğlence Sistemi\n{0} saniye içinde kapanacak.\nKullanım süresini uzatmak için Tamam'a basın."/>
-    <LangID ID="Use_Extension_Main_Text_SG" Text="Bentley Eğlence Sistemi\n{0} saniye içinde kapanacak.\nKullanım süresini uzatmak için Tamam'a basın."/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="Audi Eğlence Sistemi 0 saniye\niçinde kapanacak. Kullanmaya\ndevam etmek için Tamam'a basın."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="Audi Eğlence Sistemi 0 saniye\niçinde kapanacak. Kullanmaya\ndevam etmek için Tamam'a basın."/>
     <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
     <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
 </LangDef>

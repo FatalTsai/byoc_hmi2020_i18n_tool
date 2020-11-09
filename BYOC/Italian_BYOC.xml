@@ -4,6 +4,18 @@
     <LangID ID="Assigned_Location_Main_Text" Text="Posizione assegnata:"/>
     <LangID ID="Assigned_Location_None" Text="Nessuno"/>
     <LangID ID="Assigned_Location_Right" Text="Destra"/>
+    <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
+    <LangID ID="Audi_Brightnsss" Text="Luminosità"/>
+    <LangID ID="Audi_Connection" Text="Collegamento"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Collegamento wireless"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Output" Text="Emissione audio"/>
+    <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Volume" Text="Volume"/>
+    <LangID ID="Audi_WiFi" Text="Wireless"/>
     <LangID ID="Audio_Sync_Headline" Text="Sincronizzazione audio"/>
     <LangID ID="Audio_Sync_Main_Text" Text="Regolazione manuale"/>
     <LangID ID="BTN_Cancel" Text="Annulla"/>
@@ -18,17 +30,17 @@
     <LangID ID="BTN_SAVE" Text="Salva"/>
     <LangID ID="BTN_START" Text="START"/>
     <LangID ID="BTN_YES" Text="Sì"/>
-    <LangID ID="BT_Name_Main_Text" Text="Nome Bluetooth:"/>
+    <LangID ID="BT_Name_Main_Text" Text="Nome Bluetooth®:"/>
     <LangID ID="Blocked_Browser_Headline" Text="Collegamento remoto"/>
     <LangID ID="Blocked_Browser_Main_Text" Text="Scansionare il codice QR per visualizzare sul proprio dispositivo:"/>
     <LangID ID="Bluetooth_Audio_Sync_Complete" Text="Sincronizzazione audio\ncompletata."/>
-    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Sincronizzazione audio non\nriuscita. Riprovare più tardi."/>
+    <LangID ID="Bluetooth_Audio_Sync_Error" Text="Sincronizzazione audio\nnon riuscita.\nRiprovare più tardi."/>
     <LangID ID="Bluetooth_Audio_Sync_Headline" Text="Sincronizzazione audio"/>
-    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Sincronizzazione in corso...\n{0}%"/>
-    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Tenere le cuffie vicino\nal microfono sullo schermo\ne premere avvio.\nL'audio verrà silenziato\ndurante il processo di\nsincronizzazione."/>
-    <LangID ID="Bluetooth_Headline" Text="Bluetooth"/>
-    <LangID ID="Bluetooth_Status" Text="BLUETOOTH"/>
-    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Associare nuove cuffie?\nLe cuffie devono essere in modalità accoppiamento."/>
+    <LangID ID="Bluetooth_Audio_Sync_In_Progress" Text="Sincronizzazione\nin corso...\n{0}%"/>
+    <LangID ID="Bluetooth_Audio_Sync_Main_Text" Text="Tenere le cuffie vicino\nal microfono sullo \nschermo e premere\nAvvio. L'audio verrà\nsilenziato durante la\nsincronizzazione."/>
+    <LangID ID="Bluetooth_Headline" Text="Bluetooth®"/>
+    <LangID ID="Bluetooth_Status" Text="BLUETOOTH®"/>
+    <LangID ID="Bluetooth_Visibility_Main_Text" Text="Collegare nuove cuffie?\nLe cuffie devono essere in\nmodalità abbinamento."/>
     <LangID ID="Cancel_Download_Headline" Text="Update software"/>
     <LangID ID="Cancel_Download_Main_Text" Text="Sicuri di voler\ninterrompere il download?"/>
     <LangID ID="Checkbox_Text" Text="Non mostrare più"/>
@@ -38,18 +50,18 @@
     <LangID ID="Connection_Assistant_1_Headline" Text="Connessione guidata 1 di 2"/>
     <LangID ID="Connection_Assistant_2_Headline" Text="Connessione guidata 2 di 2"/>
     <LangID ID="Connection_Assistant_Headline" Text="Connessione guidata"/>
-    <LangID ID="Connection_Assistant_Help_Text" Text="O premere il tasto di alimentazione in basso\nper aprire il menù rapido."/>
-    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Scansionare il codice QR per\ncollegare allo schermo via Wi-Fi:"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Premere il pulsante di alimentazione sottostante e\nselezionare Wi-Fi per scegliere una rete disponibile."/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Assicurarsi che il proprio dispositivo e il presente\nschermo siano sulla stessa rete per trasferire i media."/>
+    <LangID ID="Connection_Assistant_Help_Text" Text="O premere il tasto di accensione in basso\nper aprire il menù rapido."/>
+    <LangID ID="Connection_Assistant_QR_Code_1_Main_Text" Text="Scansionare il codice QR per\ncollegarsi allo schermo\ntramite Wi-Fi:"/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Help_Text" Text="Premere il tasto di accensione e selezionare\nWi-Fi per scegliere una rete."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Main_Text" Text="Per riprodurre i media, il dispositivo e lo\nschermo devono essere sulla stessa rete."/>
     <LangID ID="Connection_Assistant_QR_Code_2_SOP1_Scan_Text" Text="Scanzionare il codice QR\nper collegare:\n{0}"/>
-    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Scansionare il codice QR per l'app\no per le opzioni di connessione \nalternative."/>
+    <LangID ID="Connection_Assistant_QR_Code_2_SOP2_Main_Text" Text="Scansionare il codice QR per \ncollegarsi con l'app o altre\nopzioni."/>
     <LangID ID="Connection_Failed_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Main_Text" Text="Non è stato possibile stabilire\nuna connessione di rete."/>
     <LangID ID="Connection_Failed_Password_Headline" Text="Wi-Fi"/>
     <LangID ID="Connection_Failed_Password_Main_Text" Text="Connessione non riuscita.\nVerificare la password."/>
     <LangID ID="Crosslink_Headline" Text="Configurazione Crosslink"/>
-    <LangID ID="Crosslink_Host_Main_Text" Text="Un processo di associazione Crosslink è stato avviato."/>
+    <LangID ID="Crosslink_Host_Main_Text" Text="È stato avviato un abbinamento Crosslink."/>
     <LangID ID="Crosslink_Host_SSID_Text" Text="SSID: {0}"/>
     <LangID ID="Crosslink_Host_Waiting_Text" Text="Attendere prego..."/>
     <LangID ID="Crosslink_Pairing_Name_Text" Text="Nome schermo: {0}"/>
@@ -57,7 +69,7 @@
     <LangID ID="Crosslink_Pairing_Text" Text="Accoppiamento..."/>
     <LangID ID="Crosslink_Screen_Main_Text" Text="Selezionare il lato della vettura che si\ndesidera assegnare al presente schermo."/>
     <LangID ID="Crosslink_Searching_Text" Text="Ricerca..."/>
-    <LangID ID="Delete_Device_Main_Text" Text="Cancellare questo dispositivo Bluetooth?"/>
+    <LangID ID="Delete_Device_Main_Text" Text="Cancellare questo dispositivo Bluetooth®?"/>
     <LangID ID="Delete_Install_Headline" Text="Update software"/>
     <LangID ID="Delete_Install_Main_Text" Text="Sicuri di voler cancellare\nl'aggiornamento software?"/>
     <LangID ID="Delete_Network_Main_Text" Text="Sicuri di voler cancellare la presente rete?"/>
@@ -66,36 +78,39 @@
     <LangID ID="Download_Failed_Main_Text" Text="Download software non riuscito.\nSi desidera riprovare?"/>
     <LangID ID="Help_Headline" Text="Guida utente"/>
     <LangID ID="IP_Address_Main_Text" Text="Indirizzo IP:"/>
-    <LangID ID="IVI_Active_Status" Text="Emissione audio vettura"/>
+    <LangID ID="IVI_Active_Status" Text="Audio nella vettura"/>
     <LangID ID="IVI_Delete_Confirm" Text="Sicuri di voler cancellare\n{0}?\nNota: output audio per altoparlanti\nvettura non saranno più disponibili."/>
     <LangID ID="IVI_Headline" Text="Emissione audio nella vettura"/>
-    <LangID ID="IVI_Main_Text" Text="Selezionare il nome schermo quale sorgente\naudio Bluetooth su sistema Infotainment.\nVolume massimo determinato da\nvolume principale Infotainment."/>
+    <LangID ID="IVI_Main_Text" Text="Selezionare lo schermo come sorgente\naudio Bluetooth® nel sistema infotainment.\nIl volume massimo è determinato in base\nal sistema infotainment."/>
     <LangID ID="IVI_Pairing_Failed" Text="Associazione fallita.\nSi prega di riprovare più tardi."/>
     <LangID ID="IVI_Pairing_Headline" Text="Connessione audio nella vettura"/>
     <LangID ID="IVI_Pairing_In_Progress" Text="Accoppiamento..."/>
     <LangID ID="IVI_Pairing_Search" Text="Ricerca..."/>
     <LangID ID="IVI_Sync_Complete" Text="Sincronizzazione audio\ncompletata."/>
     <LangID ID="IVI_Sync_Error" Text="Si è verificato un errore.\nSincronizzazione audio non eseguibile.\nSi prega di riprovare più tardi."/>
-    <LangID ID="IVI_Sync_In_Progress" Text="Sincronizzazione in corso...\n{0}%"/>
-    <LangID ID="IVI_Sync_Main_Text" Text="Selezionare il nome schermo\ncome audio Bluetooth\nsu sistema Infotainment.\nVerificare il volume e\nridurre rumori di sottofondo.\nPremere START quando il\nsistema è pronto."/>
+    <LangID ID="IVI_Sync_In_Progress" Text="Sincronizzazione\nin corso...\n{0}%"/>
+    <LangID ID="IVI_Sync_Main_Text" Text="Selezionare lo schermo\ncome sorgente audio\nBluetooth® nel sistema\ninfotainment. Ridurre\ni rumori. Premere \nSTART quando il\nsistema è pronto."/>
     <LangID ID="Install_Active_Headline" Text="Nota"/>
-    <LangID ID="Install_Active_Main_Text" Text="Completamento installazione\naggiornamento {0}%.\n\nAssicurarsi che la vettura resti accesa\nfino al completamento dell'aggiornamento.\n\nIl sistema verrà riavviato ad installazione completata."/>
+    <LangID ID="Install_Active_Main_Text" Text="Installazione update\ncompletata al {0}%.\n\nAssicurarsi che il quadro resti acceso\nfino al completamento dell'update.\nUna volta completata l'installazione,\nil sistema verrà riavviato."/>
     <LangID ID="Install_Available_Headline" Text="Update software"/>
-    <LangID ID="Install_Available_Main_Text" Text="Installazione software disponibile.\nSi desidera installare adesso?\n\nDurante l'aggiornamento il sistema sarà inutilizzabile."/>
+    <LangID ID="Install_Available_Main_Text" Text="Installazione software disponibile.\nInstallarla adesso?\n\nDurante l'aggiornamento il sistema\nnon sarà utilizzabile."/>
     <LangID ID="Install_Delete_Headline" Text="Update software"/>
-    <LangID ID="Install_Delete_Main_Text" Text="Si desidera installare o cancellare l'aggiornamento?\n\nDurante l'aggiornamento il sistema sarà inutilizzabile."/>
+    <LangID ID="Install_Delete_Main_Text" Text="Si desidera installare o cancellare\nl'update?\n\nDurante l'aggiornamento il sistema\nnon sarà utilizzabile."/>
     <LangID ID="Install_Failed_Headline" Text="Update software"/>
     <LangID ID="Install_Failed_Main_Text" Text="Installazione software non riuscita.\nSi desidera riprovare?"/>
     <LangID ID="Install_Successful_Headline" Text="Update software"/>
-    <LangID ID="Install_Successful_Main_Text" Text="Installazione riuscita. Software aggiornato.\n\nNovità\n- Riparazioni bug generiche e aggiornamenti testo\n- Miglioramento prestazioni di funzione {0}\n- Nuova funzione {1}"/>
+    <LangID ID="Install_Successful_Main_Text" Text="Installazione riuscita. Software aggiornato.\n\nNovità\n- Funzioni nuove e/o ampliate\n- Correzioni di bug generali\n- Miglioramenti di stabilità e sicurezza"/>
     <LangID ID="Language_Arabic" Text="العربية"/>
+    <LangID ID="Language_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Czech" Text="Čeština"/>
     <LangID ID="Language_Danish" Text="Dansk"/>
     <LangID ID="Language_Dutch" Text="Nederlands"/>
     <LangID ID="Language_English_UK" Text="English (UK)"/>
     <LangID ID="Language_English_US" Text="English (US)"/>
+    <LangID ID="Language_Finnish" Text="Suomi"/>
     <LangID ID="Language_French" Text="Français"/>
     <LangID ID="Language_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_German" Text="Deutsch"/>
@@ -105,18 +120,22 @@
     <LangID ID="Language_Italian" Text="Italiano"/>
     <LangID ID="Language_Japanese" Text="日本語"/>
     <LangID ID="Language_Korean" Text="한국어"/>
+    <LangID ID="Language_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Polish" Text="Polski"/>
     <LangID ID="Language_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Arabic" Text="العربية"/>
+    <LangID ID="Language_Preview_Bosnian" Text="Bosanski"/>
     <LangID ID="Language_Preview_Cantonese" Text="繁體中文"/>
     <LangID ID="Language_Preview_Chinese" Text="简体中文"/>
+    <LangID ID="Language_Preview_Croatian" Text="Hrvatski"/>
     <LangID ID="Language_Preview_Czech" Text="Čeština"/>
     <LangID ID="Language_Preview_Danish" Text="Dansk"/>
     <LangID ID="Language_Preview_Dutch" Text="Nederlands"/>
     <LangID ID="Language_Preview_English_UK" Text="English (UK)"/>
     <LangID ID="Language_Preview_English_US" Text="English (US)"/>
+    <LangID ID="Language_Preview_Finnish" Text="Suomi"/>
     <LangID ID="Language_Preview_French" Text="Français"/>
     <LangID ID="Language_Preview_French_Can" Text="Français (Canada)"/>
     <LangID ID="Language_Preview_German" Text="Deutsch"/>
@@ -125,39 +144,50 @@
     <LangID ID="Language_Preview_Italian" Text="Italiano"/>
     <LangID ID="Language_Preview_Japanese" Text="日本語"/>
     <LangID ID="Language_Preview_Korean" Text="한국어"/>
+    <LangID ID="Language_Preview_Malasian" Text="Bahasa Melayu"/>
     <LangID ID="Language_Preview_Norwegian" Text="Norsk"/>
     <LangID ID="Language_Preview_Polish" Text="Polski"/>
     <LangID ID="Language_Preview_Port_Br" Text="Português (Brasil)"/>
     <LangID ID="Language_Preview_Portuguese" Text="Português"/>
     <LangID ID="Language_Preview_Romanian" Text="Română"/>
     <LangID ID="Language_Preview_Russian" Text="Русский"/>
+    <LangID ID="Language_Preview_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Preview_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Preview_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Preview_Spanish" Text="Español"/>
     <LangID ID="Language_Preview_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Preview_Swedish" Text="Svenska"/>
     <LangID ID="Language_Preview_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Preview_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Preview_Ukrainian" Text="Українська"/>
     <LangID ID="Language_Romanian" Text="Română"/>
     <LangID ID="Language_Russian" Text="Русский"/>
+    <LangID ID="Language_Serbian" Text="Srpski"/>
+    <LangID ID="Language_Slovakian" Text="Slovenčina"/>
+    <LangID ID="Language_Slovenian" Text="Slovenščina"/>
     <LangID ID="Language_Spanish" Text="Español"/>
     <LangID ID="Language_Spanish_US" Text="Español (México)"/>
     <LangID ID="Language_Swedish" Text="Svenska"/>
     <LangID ID="Language_Taiwanese" Text="繁體中文 (台灣)"/>
     <LangID ID="Language_Turkish" Text="Türkçe"/>
+    <LangID ID="Language_Ukrainian" Text="Українська"/>
     <LangID ID="Legal_Info_Headline" Text="Avvertenze legali"/>
     <LangID ID="MCU_Version_Main_Text" Text="MCU Versione:"/>
     <LangID ID="Max_Volume_Notification" Text="Volume schermo impostato al massimo.\nAlzare il volume del proprio sistema Infotainment."/>
     <LangID ID="Memory_Usage_Main_Text" Text="Utilizzo memoria:"/>
-    <LangID ID="Menu_Download_Active" Text="Interrompere il download"/>
+    <LangID ID="Menu_Download_Active" Text="Interrompi download"/>
     <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
     <LangID ID="Menu_Help_Crosslink" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; per visualizzare il contenuto\nmostrato sullo schermo di accompagnamento. Nota: se\nsi seleziona il Crosslink con condivisione audio attiva, i\ncomandi audio e volume non sono disponibili."/>
-    <LangID ID="Menu_Help_HDMI" Text="Il contenuto può essere riprodotto da sorgente HDMI\nquando è connesso un dispositivo compatibile.\nNota: se non si riproducono contenuti su dispositivo\nHDMI, ove selezionati, lo schermo apparirà nero."/>
+    <LangID ID="Menu_Help_HDMI" Text="I contenuti possono essere riprodotti da una\nsorgente HDMI quando è connesso un\ndispositivo compatibile. Se dopo la selezione\nnon vengono riprodotti contenuti del\ndispositivo HDMI, lo schermo apparirà nero."/>
     <LangID ID="Menu_Help_Input" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; per collegare a rete Wi-Fi.\nCiò consente di trasferire il contenuto attraverso\nfornitori esterni o stabilire una connessione\ncon il dispositivo per condividere il contenuto."/>
-    <LangID ID="Menu_Help_Intro" Text="Il Sistema di intrattenimento Bentley consente di\nvedere e ascoltare contenuti dal dispositivo mobile\nconnesso via Wi-Fi o un dispositivo compatibile\nconnesso attraverso HDMI o USB."/>
+    <LangID ID="Menu_Help_Intro_SOP1" Text="L'Audi Entertainment System consente di\nvisualizzare contenuti da un dispositivo\nmobile connesso via Wi-Fi o da un dispositivo\ncompatibile connesso attraverso HDMI\no USB."/>
+    <LangID ID="Menu_Help_Intro_SOP2" Text="Il Sistema di intrattenimento Audi consente\ndi vedere e ascoltare contenuti dal\ndispositivo mobile connesso via Wi-Fi o un\ndispositivo compatibile connesso attraverso\nHDMI o USB."/>
     <LangID ID="Menu_Help_OTA" Text="Per scoprire le nuove funzioni e riparazioni\ndi bug, scaricare il software più recente\ndal menù impostazioni."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; per collegare le cuffie\nBluetooth.\n\nL'audio è anche disponibile mediante cuffie cablate."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; per collegare le cuffie\nBluetooth o premere il pulsante di condivisione\naudio per inviare output audio agli altoparlanti.\nL'audio è anche disponibile mediante cuffie cablate."/>
+    <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
     <LangID ID="Menu_Help_Source" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt; per il contenuto desiderato.\nPer visualizzare il contenuto mediante fornitori esterni\nselezionare il servizio dalla lista indicata.\nIl browser può essere ripristinato nel presente menù."/>
-    <LangID ID="Menu_Help_USB" Text="I media possono essere riprodotti mediante dispositivo\ncompatibile collegato via USB durante l'uso dell'app\ndi Controllo intrattenimento Bentley."/>
+    <LangID ID="Menu_Help_USB" Text="I media possono essere riprodotti mediante\napp Fond Media Control tramite un\ndispositivo compatibile collegato via USB."/>
     <LangID ID="Menu_Install_Update" Text="Installare l'aggiornamento"/>
     <LangID ID="Menu_Legal_About_Us" Text="Riguardo a noi"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Dettagli liberatoria Open Source"/>
@@ -184,32 +214,23 @@
     <LangID ID="No_Devices_Main_Text" Text="Nessun dispositivo trovato"/>
     <LangID ID="No_Updates_Headline" Text="Update software"/>
     <LangID ID="No_Updates_Main_Text" Text="Nessun aggiornamento disponibile."/>
-    <LangID ID="Notification_Bluetooth_Unavailable" Text="Bluetooth attualmente non disponibile"/>
-    <LangID ID="Notification_Brightness_Unavailable" Text="Comandi luminosità attualmente non disponibili"/>
-    <LangID ID="Notification_Child_Lock_Unavailable" Text="La chiusura per bambini attualmente non disponibile"/>
-    <LangID ID="Notification_Connecting" Text="Connessione in corso..."/>
     <LangID ID="Notification_Crosslink_Unavailable" Text="Crosslink attualmente non disponibile"/>
-    <LangID ID="Notification_Error_Reconnect" Text="Collegamento perso. Riconnessione in corso..."/>
-    <LangID ID="Notification_Full_Screen_Unavailable" Text="Modalità schermo intero attualmente non disponibile"/>
     <LangID ID="Notification_HDMI_Unavailable" Text="HDMI attualmente non disponibile"/>
-    <LangID ID="Notification_Help_Unavailable" Text="Guida utente attualmente non disponibile"/>
-    <LangID ID="Notification_IVI_Unavailable" Text="Condivisione audio attualmente non disponibile"/>
+    <LangID ID="Notification_IVI_Unavailable" Text="Trasmissione audio attualm. non disponibile"/>
     <LangID ID="Notification_Initialising" Text="Inizializzazione in corso..."/>
     <LangID ID="Notification_Mute_Unavailable" Text="Silenzioso attualmente non disponibile"/>
     <LangID ID="Notification_OTT_Unavailable" Text="Fornitore contenuto esterno non disponibile"/>
-    <LangID ID="Notification_Quick_Menu_Unavailable" Text="Menù rapido attualmente non disponibile"/>
-    <LangID ID="Notification_SOP1_Funcion_Unavailable" Text="La funzione non è disponibile al momento"/>
-    <LangID ID="Notification_Screen_Unavailable" Text="Schermo attualmente non disponibile"/>
+    <LangID ID="Notification_SOP1_Function_Unavailable" Text="La funzione non è disponibile al momento"/>
     <LangID ID="Notification_Temperature" Text="Temperatura schermo troppo elevata. Il sistema\nsi spegnerà presto per evitare danneggiamenti."/>
     <LangID ID="Notification_Volume_Unavailable" Text="Comandi volume attualmente non disponibili"/>
-    <LangID ID="Notification_WiFi_Unavailable" Text="Wi-Fi attualmente non disponibile"/>
     <LangID ID="PIN_Entry_Help_Text" Text="Immetti PIN"/>
-    <LangID ID="PIN_Entry_Main_Text" Text="Inserire il\nPIN per il proprio\ndispositivo Bluetooth."/>
-    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth"/>
+    <LangID ID="PIN_Entry_Main_Text" Text="Immettere il\nPIN per il proprio\ndispositivo Bluetooth®."/>
+    <LangID ID="Pairing_Failed_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Main_Text" Text="Connessione non riuscita.\nRiprovare più tardi."/>
-    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth"/>
+    <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Connessione non riuscita.\nVerificare il proprio PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="Immetti una password"/>
+    <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Ripristino"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Pieno schermo"/>
     <LangID ID="Quick_Menu_Help" Text="Guida utente"/>
     <LangID ID="Quick_Menu_Screen_Off" Text="Schermo off"/>
@@ -227,9 +248,9 @@
     <LangID ID="Settings_Headline" Text="Impostazioni"/>
     <LangID ID="Shutting_Down_Notification" Text="Spegnimento sistema in corso..."/>
     <LangID ID="Software_Reset_Headline" Text="Ripristina configurazione iniziale"/>
-    <LangID ID="Software_Reset_Main_Text" Text="Se si continua, il sistema verrà ripristinato alle\nimpostazioni di fabbrica. Tutte le impostazioni\nindividuali,comprese reti, dispositivi Bluetooth e\npassword salvati verranno cancellate. Non è\npossibile annullare questo processo. \nSicuri di voler effettuare il ripristino?"/>
+    <LangID ID="Software_Reset_Main_Text" Text="Se si continua, il sistema verrà ripristinato\nalle impostazioni di fabbrica. Tutte le\nimpostazioni individuali, come reti o\npassword memorizzate, verranno\ncancellate. Non è possibile annullare\nquesto processo. Effettuare il ripristino?"/>
     <LangID ID="Software_Reset_Successful_Headline" Text="Ripristina configurazione iniziale"/>
-    <LangID ID="Software_Reset_Successful_Main_Text" Text="Le impostazioni di fabbrica sono state reimpostate.\nIl sistema si avvierà a breve."/>
+    <LangID ID="Software_Reset_Successful_Main_Text" Text="Sono state ripristinate le impostazioni\ndi fabbrica. Il sistema si riavvierà a breve."/>
     <LangID ID="Software_Update_Headline" Text="Software"/>
     <LangID ID="Software_Version_Headline" Text="Informazioni software"/>
     <LangID ID="Software_Version_Main_Text" Text="Versione software"/>
@@ -251,12 +272,12 @@
     <LangID ID="Timeout_Preview_Option_5" Text="10 minuti"/>
     <LangID ID="Timeout_Preview_Option_6" Text="30 minuti"/>
     <LangID ID="Update_Available_Headline" Text="Update software"/>
-    <LangID ID="Update_Available_Main_Text" Text="Aggiornamento software disponibile:\n\n- Funzioni nuove e/o potenziate\n- Riparazioni bug generiche\n- Miglioramenti nella fruibilità, stabilità e sicurezza\n\nVersione: {0} Dimensione: {1} MB\n\nIl download potrebbe richiedere diversi minuti\na seconda della velocità di connessione.\nSi desidera scaricare ora?"/>
+    <LangID ID="Update_Available_Main_Text" Text="Aggiornamento software disponibile:\n- Funzioni nuove e/o ampliate\n- Correzioni di bug generali\n- Miglioramenti di stabilità e sicurezza\nVersione: {0} Dimensione: {1} MB\nScaricarlo ora?"/>
     <LangID ID="Update_Unavailable_Headline" Text="Update software"/>
     <LangID ID="Update_Unavailable_Main_Text" Text="Impossibilità di controllo aggiornamenti.\nSi prega di riprovare più tardi."/>
     <LangID ID="Use_Extension_Headline" Text="Nota"/>
-    <LangID ID="Use_Extension_Main_Text_PL" Text="Il Sistema di intrattenimento Bentley\nsi spegnerà tra {0} secondi.\nPremere OK per prolungarne l'utilizzo."/>
-    <LangID ID="Use_Extension_Main_Text_SG" Text="Il Sistema di intrattenimento Bentley\nsi spegnerà tra {0} secondi.\nPremere OK per prolungarne l'utilizzo."/>
+    <LangID ID="Use_Extension_Main_Text_PL" Text="L'Audi Entertainment System\nsi spegnerà tra {0} secondi.\nPremere OK per prolungarne l'utilizzo."/>
+    <LangID ID="Use_Extension_Main_Text_SG" Text="L'Audi Entertainment System\nsi spegnerà tra {0} secondi.\nPremere OK per prolungarne l'utilizzo."/>
     <LangID ID="Wi-Fi_Status" Text="WI-FI"/>
     <LangID ID="WiFi_Headline" Text="Wi-Fi"/>
 </LangDef>
