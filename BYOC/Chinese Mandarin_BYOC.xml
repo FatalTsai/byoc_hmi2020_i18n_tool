@@ -9,11 +9,11 @@
     <LangID ID="Audi_Connection" Text="连接"/>
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
-    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wireless connection"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="WLAN 连接"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="入门指南"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="音频输出"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="更新"/>
     <LangID ID="Audi_Volume" Text="音量"/>
     <LangID ID="Audi_WiFi" Text="WLAN"/>
     <LangID ID="Audio_Sync_Headline" Text="音频同步"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="软件更新"/>
     <LangID ID="Download_Failed_Main_Text" Text="软件下载失败. \n要重试吗?"/>
     <LangID ID="Help_Headline" Text="用户指南"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP 地址:"/>
     <LangID ID="IVI_Active_Status" Text="音频输出至车辆"/>
     <LangID ID="IVI_Delete_Confirm" Text="确认删除 {0}?\n注意: 将无法再向车辆扬声器\n输出音频."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="选择 &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; 以查看配套屏幕上\n当前显示的内容。注意：如果在进行音频\n共享时选择 Crosslink，音频和音量\n控件不可用。"/>
     <LangID ID="Menu_Help_HDMI" Text="如果连接了一个兼容设备, 则可以\n播放来自 HDMI 媒体源的内容.\n如果未播放 HDMI 设备上的内容,\n屏幕将显示空白."/>
     <LangID ID="Menu_Help_Input" Text="选择&lt;span id=\&quot;text_Highlight\&quot;&gt;“WI-FI”&lt;/span&gt;以连接到 Wi-Fi 网络。\n这样，您可以通过外部\n提供商传输内容或与设备\n建立连接以共享内容。"/>
+    <LangID ID="Menu_Help_Install" Text="要安装屏幕，请拉动安装臂上的卡圈，\n然后将屏幕推入座椅，直至座椅支架卡入到位。"/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Audi 娱乐系统可用于查看通过 WLAN 连接\n的移动设备中的内容或通过 HDMI 或 USB\n连接的兼容设备中的内容."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Audi 娱乐系统可用于查看和播放\n通过 Wi-Fi 连接的移动设备中\n的内容或通过 HDMI 或 USB\n连接的兼容设备中的内容。"/>
     <LangID ID="Menu_Help_OTA" Text="要探索最新功能和缺陷修复,\n请从设置菜单下载最新软件."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="选择&lt;span id=\&quot;text_Highlight\&quot;&gt;“蓝牙”&lt;/span&gt;连接蓝牙耳机。\n\n也可通过有线耳机收听音频。"/>
     <LangID ID="Menu_Help_Output_SOP2" Text="选择&lt;span id=\&quot;text_Highlight\&quot;&gt;“蓝牙”&lt;/span&gt;连接蓝牙耳机\n或按音频共享按钮，\n将音频输出发送到汽车扬声器。\n也可通过有线耳机收听音频。"/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="为确保屏幕的正确放置，\n请轻轻拉动以检查屏幕支架是否牢固。"/>
     <LangID ID="Menu_Help_Source" Text="选择&lt;span id=\&quot;text_Highlight\&quot;&gt;“来源”&lt;/span&gt;以选择所需的内容。\n您可以从显示的列表中选择服务，\n查看来自外部提供商的内容。\n浏览器也可以在此菜单中重置。"/>
     <LangID ID="Menu_Help_USB" Text="使用 &quot;Fond Media Control&quot; 应用程\n序时, 可以播放通过 USB 连接的兼\n容设备上的媒体."/>
     <LangID ID="Menu_Install_Update" Text="安装更新"/>
     <LangID ID="Menu_Legal_About_Us" Text="关于我们"/>
     <LangID ID="Menu_Legal_Open_Source" Text="开源声明"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="隐私政策"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="声音反馈"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="音频同步"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="保存亮度设置"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="蓝牙"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="连接失败.\n请检查您的 PIN 码."/>
     <LangID ID="Password_Speller_Help_Text" Text="输入密码"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="空格"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="重置"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="全屏"/>
     <LangID ID="Quick_Menu_Help" Text="用户指南"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="运行时间:"/>
     <LangID ID="Screen_Off_Notification" Text="请轻触屏幕开启"/>
     <LangID ID="Screen_Timeout_Headline" Text="屏幕超时"/>
+    <LangID ID="Serial_Number_Main_Text" Text="序列号:"/>
     <LangID ID="Settings_Headline" Text="设置"/>
     <LangID ID="Shutting_Down_Notification" Text="系统正在关闭..."/>
     <LangID ID="Software_Reset_Headline" Text="恢复出厂设置"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="媒体源"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="屏幕保护"/>
+    <LangID ID="System_Initialising_Text" Text="正在初始化，请稍候..."/>
     <LangID ID="Timeout_Option_1" Text="从不"/>
     <LangID ID="Timeout_Option_2" Text="30 秒"/>
     <LangID ID="Timeout_Option_3" Text="1 分钟"/>

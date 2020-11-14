@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "Eerste keer"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Gebruikershandleiding"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "Trek de kraag op de bevestigingsarm en duw\\nhet scherm in de stoel totdat de houder op\\nzijn plaats klikt om het scherm te bevestigen."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Met het Audi Entertainment-systeem kunt u\\ninhoud zien en horen van uw via wifi\\nverbonden mobiele apparaat of van een\\ncompatibel apparaat dat is verbonden via\\nHDMI of USB."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "Trek voorzichtig om te controleren of het scherm\\ngoed is geplaatst en de houder degelijk is bevestigd."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Kies &lt;span id=\\&quot;text_Highlight\\&quot;&gt;BRON&lt;/span&gt; om uw gewenste inhoud te kiezen.\\nU kunt inhoud van externe providers bekijken door\\nhet kiezen van de service in de getoonde lijst.\\nDe browser kan in dit menu ook worden gereset."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Privacyverklaring"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Spatie"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Resetten"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Serienummer:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Instellingen"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Screensaver"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Initialiseren, even geduld a.u.b..."
 					}
 				},
 				{

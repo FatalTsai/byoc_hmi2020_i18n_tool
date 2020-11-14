@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "Első belépés"
 					}
 				},
 				{
@@ -124,7 +124,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_headline_OTA",
-						"Text": "Update"
+						"Text": "Frissítés"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Felhasználói útmutató"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "A képernyő felszereléséhez húzza meg a rögzítőkar\\nperemét, és tolja be a képernyőt az ülésbe, \\namíg az üléstartó a helyére nem kattan."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Az Audi Entertainment System lehetővé teszi\\nWi-Fi-n keresztül csatlakoztatott mobil\\neszköz vagy HDMI-n, ill. USB-n\\nkeresztül csatlakoztatott kompatibilis\\neszköz tartalmainak megtekintését."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "A képernyő megfelelő elhelyezésének biztosításához\\nóvatosan húzza meg, hogy ellenőrizze a képernyőtartót."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Válassza a &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt; gombot a kívánt tartalomhoz.\\nKülsős szolgáltatók tartalmainak megtekintéséhez.\\nválassza ki a szolgáltatást a megjelenő listából.\\nA böngésző is ebben a menüben állítható vissza."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Adatvédelmi irányelvek"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Szóköz"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Visszaállítás"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Sorozatszám:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Beállítások"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Képernyőkímélő"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Indítás, kérjük várjon..."
 					}
 				},
 				{

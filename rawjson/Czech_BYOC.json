@@ -76,7 +76,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Crosslink",
-						"Text": "Crosslink"
+						"Text": "Křížové spojení"
 					}
 				},
 				{
@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "První kroky"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Uživatelská příručka"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "Chcete-li nainstalovat obrazovku, zatáhněte za\\nobjímku na upevňovacím rameni a zatlačte obrazovku\\ndo sedadla, dokud držák sedadla nezapadne na místo."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Systém Audi Entertainment Vám umožňuje\\nprohlížet obsahy z mobilního zařízení\\npřipojeného prostřednictvím WLAN\\nnebo nebo kompatibilního zařízení\\nspojeného přes HDMI nebo USB."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "Chcete-li zajistit správné umístění obrazovky, \\nopatrným zatažením zkontrolujte, zda je držák\\nobrazovky zajištěný."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Vyberte &lt;span id=\\&quot;text_Highlight\\&quot;&gt;ZDROJ&lt;/span&gt; a požadovaný obsah.\\nvýběrem služby ze zobrazeného seznamu\\nmůžete zobrazit obsah od externích poskytovatelů.\\nV této nabídce lze také resetovat prohlížeč."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Zásady ochrany osobních údajů"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Mezera"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Obnovit"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Sériové číslo:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Nastavení"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Šetřič obrazovky"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Probíhá spouštění, čekejte prosím..."
 					}
 				},
 				{

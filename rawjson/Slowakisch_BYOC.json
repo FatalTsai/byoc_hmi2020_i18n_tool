@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "Prvý vstup"
 					}
 				},
 				{
@@ -124,7 +124,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_headline_OTA",
-						"Text": "Update"
+						"Text": "Aktualizácia"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "User guide"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "To install the screen, pull the collar on the mounting arm and push the screen into the seat until the seat holder clicks in place."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "The Bentley Entertainment System allows you to view and hear content from your mobile device connected via Wi-Fi or from a compatible device connected through HDMI or USB."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "To ensure the screen has located correctly, pull gently to check that the screen holder is secure."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Select SOURCE to choose your desired content. You can view content from external providers by selecting the service from the list shown. The browser can also be reset in this menu."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Privacy policy"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Prázdny znak"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Nastaviť na 0"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Serial number:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Settings"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Screensaver"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "System initialising, please wait..."
 					}
 				},
 				{

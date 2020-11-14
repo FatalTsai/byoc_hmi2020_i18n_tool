@@ -76,7 +76,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Crosslink",
-						"Text": "Crosslink"
+						"Text": "Διασύνδεσης"
 					}
 				},
 				{
@@ -92,7 +92,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Input",
-						"Text": "Wireless connection"
+						"Text": "σύνδεση WLAN"
 					}
 				},
 				{
@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "Αρχική εισαγωγή"
 					}
 				},
 				{
@@ -108,7 +108,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Output",
-						"Text": "Audio output"
+						"Text": "Αναπαραγωγή ήχου"
 					}
 				},
 				{
@@ -124,7 +124,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_headline_OTA",
-						"Text": "Update"
+						"Text": "Αναβάθμιση"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Οδηγός χρήσης"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "Για να εγκαταστήσετε την οθόνη, τραβήξτε τον δακτύλιο \\nστον βραχίονα τοποθέτησης και σπρώξτε την οθόνη \\nστο κάθισμα μέχρι να κουμπώσει στη θέση της η βάση\\nτης οθόνης."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Το σύστημα Audi Entertainment σας επιτρέ-\\nπει να βλέπετε περιεχόμενο από μια συνδε-\\nδεμένη μέσω WLAN φορητή συσκευή ή από\\nμια συμβατή συσκευή συνδεδεμένη μέσω\\nHDMI ή USB."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "Για να βεβαιωθείτε ότι η οθόνη έχει τοποθετηθεί \\nσωστά, τραβήξτε απαλά για να επιβεβαιώσετε ότι\\nη βάση της οθόνης είναι σταθερή."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Επιλέξτε &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt; για να επιλέξετε περιεχόμενο.\\nΠροβάλετε περιεχόμενο από εξωτερικούς παρόχους\\nεπιλέγοντας την υπηρεσία από την εμφανιζόμενη λίστα.\\nΔυνατότητα επαναφοράς προγράμματος περιήγησης."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Πολιτική προσωπικών δεδομένων"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Κενό διάστημα"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Επαναφορά"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Σειριακός αριθμός:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Ρυθμίσεις"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Προφύλαξη οθόνης"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Γίνεται προετοιμασία, περιμένετε…"
 					}
 				},
 				{

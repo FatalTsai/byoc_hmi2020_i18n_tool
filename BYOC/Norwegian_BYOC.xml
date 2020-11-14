@@ -10,10 +10,10 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="WLAN-forbindelse"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Første trinn"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Lydavspilling"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Oppdatering"/>
     <LangID ID="Audi_Volume" Text="Volum"/>
     <LangID ID="Audi_WiFi" Text="WLAN"/>
     <LangID ID="Audio_Sync_Headline" Text="Lydsynkronisering"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Programvareoppdatering"/>
     <LangID ID="Download_Failed_Main_Text" Text="Programvarenedlastingen var mislykket.\nVil du prøve på nytt?"/>
     <LangID ID="Help_Headline" Text="Brukerhåndbok"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-adresse:"/>
     <LangID ID="IVI_Active_Status" Text="Lydutmating til bil"/>
     <LangID ID="IVI_Delete_Confirm" Text="Er du sikker på at du vil slette\n{0}?\nMerk: Du kan da ikke lenger spille av\nlyden via bilens høyttalere."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Velg &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; for å vise innhold aktuelt vist\npå følgesskjermen. Informasjon: Ved valg av\nCrosslink når lyddeling er aktiv, er lyd- og volum-\nkontroller utilgjengelig."/>
     <LangID ID="Menu_Help_HDMI" Text="Innhold kan avspilles fra en HDMI-kilde\nnår en kompatibel enhet er tilkoblet.\nInformasjon: Hvis ikke noe innhold avspilles å\nHDMI-enheten når den er valgt,\nvil skjermen vises blank."/>
     <LangID ID="Menu_Help_Input" Text="Velg &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; for å koble til et Wi-Fi-nettverk.\nDette gjør at du kan streame innhold gjennom\neksterne leverandører eller opprette en tilkobling\nmed enheten for å dele innhold."/>
+    <LangID ID="Menu_Help_Install" Text="For å montere skjermen, trekk i kragen på\nmonteringsarmen og skyv skjermen mot\nsetet til seteholderen klikker på plass."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Med Audi Entertainment System kan du\nvise innhold fra en mobil enhet med\nforbindelse via Wi-Fi eller en kompatibel\nenhet med forbindelse via HDMI eller USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Audi Entertainment System gjør at du kan vise\nog høre innhold fra mobilenheten din som er tilkoblet\nvia Wi-Fi eller fra en kompatibel enhet som er tilkoblet\ngjennom HDMI eller USB."/>
     <LangID ID="Menu_Help_OTA" Text="Last ned den nyeste programvaren fra\ninnstillingsmenyen for å få de nyeste\nfunksjonene og feilrettingene."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Velg &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; for å koble til\nBluetooth-hodetelefoner.\n\nLyd er også tilgjengelig\ngjennom kablede hodetelefoner."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Velg &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; for å koble til\nBluetooth-hodetelefoner eller trykk på\nlyddelingsknappen for å sende lydutgang\ntil bilens høyttalere. Lyd er også tilgjengelig\ngjennom kablede hodetelefoner."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Trekk forsiktig i skjermen for å sikre at den er riktig\nplassert og for å kontrollere at skjermholderen\nsitter godt."/>
     <LangID ID="Menu_Help_Source" Text="Velg &lt;span id=\&quot;text_Highlight\&quot;&gt;KILDE&lt;/span&gt; for å velge ønsket innhold.\nDu kan vise innhold fra eksterne leverandører\nved å velge tjenesten fra listen som vises.\nNettleseren kan også tilbakestilles i denne menyen."/>
     <LangID ID="Menu_Help_USB" Text="Med appen Fond Media Control kan du\nspille medier på en kompatibel enhet\nsom har forbindelse via USB."/>
     <LangID ID="Menu_Install_Update" Text="Installer oppdatering"/>
     <LangID ID="Menu_Legal_About_Us" Text="Om oss"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Lisens for åpen kildekode"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Retningslinjer for personvern"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Berøringslyd"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Lydsynkronisering"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Lagre lysstyrkeinnstillinger"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Tilkobling mislykket.\nKontroller din PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="Angi passord"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Mellomrom"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Tilbakestill"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Full skjerm"/>
     <LangID ID="Quick_Menu_Help" Text="Brukerhåndbok"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Driftstid:"/>
     <LangID ID="Screen_Off_Notification" Text="Trykk på skjermen for å slå på"/>
     <LangID ID="Screen_Timeout_Headline" Text="Skjermsparing"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Serienummer:"/>
     <LangID ID="Settings_Headline" Text="Innstillinger"/>
     <LangID ID="Shutting_Down_Notification" Text="Systemet slås av …"/>
     <LangID ID="Software_Reset_Headline" Text="Gjenopprett fabrikkinnstillinger"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Kilde"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Skjermsparer"/>
+    <LangID ID="System_Initialising_Text" Text="Initialiserer, vennligst vent …"/>
     <LangID ID="Timeout_Option_1" Text="Aldri"/>
     <LangID ID="Timeout_Option_2" Text="30 sekunder"/>
     <LangID ID="Timeout_Option_3" Text="1 minutt"/>

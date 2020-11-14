@@ -76,7 +76,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Crosslink",
-						"Text": "Crosslink"
+						"Text": "Кросс-канала"
 					}
 				},
 				{
@@ -92,7 +92,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Input",
-						"Text": "Соединение Wi-Fi"
+						"Text": "Wi-Fi-соединение"
 					}
 				},
 				{
@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Quick introduction"
+						"Text": "Первые шаги"
 					}
 				},
 				{
@@ -124,7 +124,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_headline_OTA",
-						"Text": "Update"
+						"Text": "Обновление"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Руководство пользователя"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "Чтобы установить экран, потяните кольцо на\\nкронштейне и задвиньте экран в сиденье до\\nщелчка фиксатора."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Развлекательная система Audi позволяет\\nпросматривать контент подключенного\\nчерез Wi-Fi мобильного устройства или\\nсовместимого устройства, подключенного\\nчерез HDMI или USB."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "Слегка потяните за экран, чтобы убедиться в\\nнадежности его фиксации в правильном положении."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Выберите &lt;span id=\\&quot;text_Highlight\\&quot;&gt;SOURCE&lt;/span&gt;, чтобы выбрать контент.\\nМожно просматривать контент от внешние\\nпоставщиков с помощью сервиса из отображ. списка.\\nВ этом меню также доступен сброс браузера."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Политика конфиденциальности"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Символ пробела"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Сбросить"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Серийный номер:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Настройки"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Экранная заставка"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Инициализация, подождите..."
 					}
 				},
 				{

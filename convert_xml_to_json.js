@@ -580,7 +580,7 @@ fs.readdir(BYOC, (err, files) => {
 
 
 
-
+      // console.log(file)
       //console.log(tmp)
       //console.log( JSON.stringify( JSON.parse( convert.xml2json(tmp)),null,'\t') )
       //console.log( JSON.stringify( JSON.parse( convert.xml2json(tmp)),null,'\t') )

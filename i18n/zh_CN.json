@@ -364,11 +364,11 @@
   "Audi_Connection": "连接",
   "Audi_Menu_Help_Headline_Crosslink": "Crosslink",
   "Audi_Menu_Help_Headline_HDMI": "HDMI",
-  "Audi_Menu_Help_Headline_Input": "Wireless connection",
-  "Audi_Menu_Help_Headline_Intro": "Quick introduction",
+  "Audi_Menu_Help_Headline_Input": "WLAN 连接",
+  "Audi_Menu_Help_Headline_Intro": "入门指南",
   "Audi_Menu_Help_Headline_Output": "音频输出",
   "Audi_Menu_Help_Headline_USB": "USB",
-  "Audi_Menu_Help_headline_OTA": "Update",
+  "Audi_Menu_Help_headline_OTA": "更新",
   "Audi_Volume": "音量",
   "Audi_WiFi": "WLAN",
   "Menu_Help_Intro_SOP1": "Audi 娱乐系统可用于查看通过 WLAN 连接\n的移动设备中的内容或通过 HDMI 或 USB\n连接的兼容设备中的内容.",
@@ -390,5 +390,12 @@
   "Language_Slovakian": "Slovenčina",
   "Language_Slovenian": "Slovenščina",
   "Language_Ukrainian": "Українська",
-  "Porsche_Menu_Audio_Sync_Reset": "重置"
+  "Porsche_Menu_Audio_Sync_Reset": "重置",
+  "Help_Install": "Installation and removal",
+  "Help_Quick_Start": "Quick start",
+  "Menu_Help_Install": "要安装屏幕，请拉动安装臂上的卡圈，\n然后将屏幕推入座椅，直至座椅支架卡入到位。",
+  "Menu_Help_Secure": "为确保屏幕的正确放置，\n请轻轻拉动以检查屏幕支架是否牢固。",
+  "Menu_Legal_Type_Approvals": "Type approval logos",
+  "Porsche_Keyboard_Space": "空格",
+  "System_Initialising_Text": "正在初始化，请稍候..."
 }

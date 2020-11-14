@@ -10,7 +10,7 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wireless connection"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Prvi pristup"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Audio output"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
     <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Software update"/>
     <LangID ID="Download_Failed_Main_Text" Text="Software download failed. Would you like to retry?"/>
     <LangID ID="Help_Headline" Text="User guide"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP address:"/>
     <LangID ID="IVI_Active_Status" Text="Audio output to car"/>
     <LangID ID="IVI_Delete_Confirm" Text="Are you sure you want to delete %1? Note: audio output to car speakers will no longer be available."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Select CROSSLINK to view content currently shown on the companion screen. Note: if selecting crosslink when audio sharing is active, audio and volume controls are unavailable."/>
     <LangID ID="Menu_Help_HDMI" Text="Content can be played from a HDMI source when a compatible device is connected. Note: if no content is playing on the HDMI device when selected, the screen will appear blank."/>
     <LangID ID="Menu_Help_Input" Text="Select INPUT to connect to a Wi-Fi network. This enables you to stream content through external providers or to establish a connection with your device to share content."/>
+    <LangID ID="Menu_Help_Install" Text="To install the screen, pull the collar on the mounting arm and push the screen into the seat until the seat holder clicks in place."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="The Bentley Entertainment System allows you to view and hear content from your mobile device connected via Wi-Fi or from a compatible device connected through HDMI or USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="The Bentley Entertainment System allows you to view and hear content from your mobile device connected via Wi-Fi or from a compatible device connected through HDMI."/>
     <LangID ID="Menu_Help_OTA" Text="To discover new features and bug fixes, download the latest software from the settings menu."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Select OUTPUT to connect Bluetooth headphones or press the audio sharing button to send audio output to the car speakers. Audio is also available through wired headphones."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Select OUTPUT to connect Bluetooth headphones. Audio is also available through wired headphones."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat, pull the collar on the mounting arm towards the rear of the vehicle then pull the screen until it is clear of the seat.."/>
+    <LangID ID="Menu_Help_Secure" Text="To ensure the screen has located correctly, pull gently to check that the screen holder is secure."/>
     <LangID ID="Menu_Help_Source" Text="Select SOURCE to choose your desired content. You can view content from external providers by selecting the service from the list shown. The browser can also be reset in this menu."/>
     <LangID ID="Menu_Help_USB" Text="Media can be played through a compatible device connected via USB when using the Bentley Entertainment Control app."/>
     <LangID ID="Menu_Install_Update" Text="Install update"/>
     <LangID ID="Menu_Legal_About_Us" Text="About us"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Open Source"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Privacy policy"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Acoustic feedback"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Audio sync"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Brightness persistence"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth audio output"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Connection failed. Please check your PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="Enter password"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Razmak"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Poništiti"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Full screen"/>
     <LangID ID="Quick_Menu_Help" Text="User guide"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Running time:"/>
     <LangID ID="Screen_Off_Notification" Text="Please tap the screen to switch on"/>
     <LangID ID="Screen_Timeout_Headline" Text="Screen timeout"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Serial number:"/>
     <LangID ID="Settings_Headline" Text="Settings"/>
     <LangID ID="Shutting_Down_Notification" Text="The Bentley Entertainment System is shutting down..."/>
     <LangID ID="Software_Reset_Headline" Text="Restore factory settings"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Source"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Screensaver"/>
+    <LangID ID="System_Initialising_Text" Text="System initialising, please wait..."/>
     <LangID ID="Timeout_Option_1" Text="Never"/>
     <LangID ID="Timeout_Option_2" Text="30 seconds"/>
     <LangID ID="Timeout_Option_3" Text="1 minute"/>

@@ -10,10 +10,10 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="WLAN-összeköttetés"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Első belépés"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Audiolejátszás"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Frissítés"/>
     <LangID ID="Audi_Volume" Text="Hangerősség"/>
     <LangID ID="Audi_WiFi" Text="WLAN"/>
     <LangID ID="Audio_Sync_Headline" Text="Hangfájlok szinkronizálása"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Szoftverfrissítés"/>
     <LangID ID="Download_Failed_Main_Text" Text="A szoftver letöltése sikertelen.\nKíván újra próbálkozni?"/>
     <LangID ID="Help_Headline" Text="Felhasználói útmutató"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-cím:"/>
     <LangID ID="IVI_Active_Status" Text="Hangkimenet autóhoz"/>
     <LangID ID="IVI_Delete_Confirm" Text="Biztosan törli a következőt:\n{0}?\nMegjegyzés: a jármű\nhangkimenetének hangszórói\na továbbiakban nem lesznek elérhetők."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Válassza a &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; lehetőséget a jelenlegi tartalin\nkís.képernyőn történő megjel. Megjegyzés: ha a\ncrosslink hangmegosztáskor van kivál., az audio- és\nhangerőszabályzók nem érhetők el."/>
     <LangID ID="Menu_Help_HDMI" Text="Akkor játszható le tartalom HDMI-forrásból,\nha kompatibilis eszköz van csatlakoztatva. Ha\na kiválasztás után semmilyen tartalom\nlejátszása nem történik meg a HDMI-\neszközön, akkor üres képernyő látható."/>
     <LangID ID="Menu_Help_Input" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; lehetőséget a\nWi-Fi-kapcsolathoz. Ez lehetővé teszi a külsős\nszolgáltatói tartalmak streamelését vagy kapcsolatot\nlétrehozását az eszközzel tartalommegosztás céljából."/>
+    <LangID ID="Menu_Help_Install" Text="A képernyő felszereléséhez húzza meg a rögzítőkar\nperemét, és tolja be a képernyőt az ülésbe, \namíg az üléstartó a helyére nem kattan."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Az Audi Entertainment System lehetővé teszi\nWi-Fi-n keresztül csatlakoztatott mobil\neszköz vagy HDMI-n, ill. USB-n\nkeresztül csatlakoztatott kompatibilis\neszköz tartalmainak megtekintését."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="A Audi Entertainment System lehetővé teszi\nWi-Fi-n keresztül csatlakoztatott mobil eszközön vagy\nHDMI-n vagy USB-n keresztül csatlakoztatott komp.\neszközök tartalmainak megtekintését és hallgatását."/>
     <LangID ID="Menu_Help_OTA" Text="A legújabb funkciók és hibajavítások\nmegismeréséhez töltse le a legújabb\nszoftvert a Beállítások menüből."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; lehetőséget Bluetooth\n-fejhallg. csatlakoztatásához. A hang vezetékes\nfejhallgatón keresztül is hallgatható."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Válassza az &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; lehetőséget Bluetooth\n-fejhallg. csatlakoztatásához vagy nyomja meg a\nhangmegosztás gombot a hang hangszóróra történő\nküldéséhez. A hang vezetékes fejhallgatón keresztül\nis hallgatható."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="A képernyő megfelelő elhelyezésének biztosításához\nóvatosan húzza meg, hogy ellenőrizze a képernyőtartót."/>
     <LangID ID="Menu_Help_Source" Text="Válassza a &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt; gombot a kívánt tartalomhoz.\nKülsős szolgáltatók tartalmainak megtekintéséhez.\nválassza ki a szolgáltatást a megjelenő listából.\nA böngésző is ebben a menüben állítható vissza."/>
     <LangID ID="Menu_Help_USB" Text="Médiafájlok a Fond Media Control App\nsegítségével egy kompatibilis, USB-n\nkeresztül csatlakoztatott eszközről\njátszhatók le."/>
     <LangID ID="Menu_Install_Update" Text="Frissítés telepítése"/>
     <LangID ID="Menu_Legal_About_Us" Text="Rólunk"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Nyílt forráskódú licenc"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Adatvédelmi irányelvek"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Akusztikus jelzés"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Hangfájlok szinkronizálása"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Fényerő-beállítások mentése"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Kapcsolat sikertelen.\nEllenőrizze a PIN-kódot."/>
     <LangID ID="Password_Speller_Help_Text" Text="Jelszó beírása"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Szóköz"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Visszaállítás"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Teljes képernyő"/>
     <LangID ID="Quick_Menu_Help" Text="Felhaszn. útmut."/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Érvényesség időtartama:"/>
     <LangID ID="Screen_Off_Notification" Text="A bekapcsoláshoz koppintson a képernyőre"/>
     <LangID ID="Screen_Timeout_Headline" Text="Kijelző kikapcsolása"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Sorozatszám:"/>
     <LangID ID="Settings_Headline" Text="Beállítások"/>
     <LangID ID="Shutting_Down_Notification" Text="A rendszer leáll..."/>
     <LangID ID="Software_Reset_Headline" Text="Gyári beállítások visszaállítása"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Forrás"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Képernyőkímélő"/>
+    <LangID ID="System_Initialising_Text" Text="Indítás, kérjük várjon..."/>
     <LangID ID="Timeout_Option_1" Text="Soha"/>
     <LangID ID="Timeout_Option_2" Text="30 másodperc"/>
     <LangID ID="Timeout_Option_3" Text="1 perc"/>

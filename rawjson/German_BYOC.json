@@ -100,7 +100,7 @@
 					"name": "LangID",
 					"attributes": {
 						"ID": "Audi_Menu_Help_Headline_Intro",
-						"Text": "Einführung"
+						"Text": "Erste Schritte"
 					}
 				},
 				{
@@ -629,6 +629,22 @@
 					"attributes": {
 						"ID": "Help_Headline",
 						"Text": "Benutzerhandbuch"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Install",
+						"Text": "Installation and removal"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Help_Quick_Start",
+						"Text": "Quick start"
 					}
 				},
 				{
@@ -1459,6 +1475,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Install",
+						"Text": "Zur Installation des Bildschirms ziehen Sie\\nan der Manschette am Befestigungsarm\\nund schieben Sie den Bildschirm in den Sitz,\\nbis die Sitzhalterung einrastet."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Intro_SOP1",
 						"Text": "Das Audi Entertainment System gestattet\\nIhnen, Inhalte von einem über WLAN\\nverbundenen Mobilgerät oder einem\\nkompatiblen Gerät anzusehen, das über\\nHDMI oder USB verbunden ist."
 					}
@@ -1507,6 +1531,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Menu_Help_Secure",
+						"Text": "Um sicherzustellen, dass der Bildschirm richtig\\npositioniert ist, ziehen Sie vorsichtig daran, \\num zu überprüfen, ob die Bildschirmhalterung\\nfest sitzt."
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Menu_Help_Source",
 						"Text": "Wählen Sie &lt;span id=\\&quot;text_Highlight\\&quot;&gt;QUELLE&lt;/span&gt; aus, um den gewünschten Inhalt\\nauszuwählen. Sie können Inhalte von externen\\nAnbietern ansehen, indem Sie den Dienst in der\\nangezeigten Liste auswählen. Der Browser kann in\\ndiesem Menü ebenfalls zurückgesetzt werden."
 					}
@@ -1549,6 +1581,14 @@
 					"attributes": {
 						"ID": "Menu_Legal_Privacy_Policy",
 						"Text": "Datenschutzrichtlinie"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "Menu_Legal_Type_Approvals",
+						"Text": "Type approval logos"
 					}
 				},
 				{
@@ -1859,6 +1899,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Porsche_Keyboard_Space",
+						"Text": "Leerzeichen"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Porsche_Menu_Audio_Sync_Reset",
 						"Text": "Zurücksetzen"
 					}
@@ -1979,6 +2027,14 @@
 					"type": "element",
 					"name": "LangID",
 					"attributes": {
+						"ID": "Serial_Number_Main_Text",
+						"Text": "Seriennummer:"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
 						"ID": "Settings_Headline",
 						"Text": "Einstellungen"
 					}
@@ -2085,6 +2141,14 @@
 					"attributes": {
 						"ID": "Source_Screensaver_Menu_Text",
 						"Text": "Bildschirmschoner"
+					}
+				},
+				{
+					"type": "element",
+					"name": "LangID",
+					"attributes": {
+						"ID": "System_Initialising_Text",
+						"Text": "Wird initialisiert, bitte warten..."
 					}
 				},
 				{

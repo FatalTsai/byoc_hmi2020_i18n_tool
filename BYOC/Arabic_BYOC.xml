@@ -9,11 +9,11 @@
     <LangID ID="Audi_Connection" Text="الاتصال"/>
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
-    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wireless connection"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="اتصال Wi-Fi"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="الخطوة الأولى"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="بث الصوت"/>
-    <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_Headline_USB" Text="جهاز USB"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="تحديث"/>
     <LangID ID="Audi_Volume" Text="شدة الصوت"/>
     <LangID ID="Audi_WiFi" Text="شبكة Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="مزامنة الصوت"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="تحديث البرنامج"/>
     <LangID ID="Download_Failed_Main_Text" Text="فشل تنزيل البرنامج.\nهل تريد إعادة المحاولة؟"/>
     <LangID ID="Help_Headline" Text="دليل المستخدِم"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="عنوان IP:"/>
     <LangID ID="IVI_Active_Status" Text="إحالة الصوت إلى السيارة"/>
     <LangID ID="IVI_Delete_Confirm" Text="هل أنت متأكد من أنك ترغب في حذف\n{0}؟\nملاحظة: خرج الصوت إلى سماعات السيارة\nلن يتوفر بعد الآن."/>
@@ -89,7 +91,7 @@
     <LangID ID="IVI_Sync_Complete" Text="اكتملت مزامنة الصوت."/>
     <LangID ID="IVI_Sync_Error" Text="حدث خطأ.\nتعذرت مزامنة الصوت.\nيرجى إعادة المحاولة لاحقًا."/>
     <LangID ID="IVI_Sync_In_Progress" Text="جاري المزامنة...\n{0}%"/>
-    <LangID ID="IVI_Sync_Main_Text" Text="اختر شاشة كمصدر\nصوت Bluetooth®‎ بنظام\nالمعلومات والترفيه.\nقلل من الضوضاء.\nاضغط &quot;بدء&quot; إذا\nكان النظام جاهزا."/>
+    <LangID ID="IVI_Sync_Main_Text" Text="اختر شاشة كمصدر\nصوت Bluetooth®‎ بنظام\nالمعلومات والترفيه.\nقلل من الضوضاء.\nاضغط "بدء" إذا\nكان النظام جاهزا."/>
     <LangID ID="Install_Active_Headline" Text="ملاحظة"/>
     <LangID ID="Install_Active_Main_Text" Text="جار تثبيت التحديث\nاكتمل {0}%\n\nيرجى التأكد من تشغيل المركبة\nلحين اكتمال التحديث.\n\nستتم إعادة تشغيل النظام\nبمجرد اكتمال التثبيت."/>
     <LangID ID="Install_Available_Headline" Text="تحديث البرنامج"/>
@@ -177,21 +179,24 @@
     <LangID ID="Memory_Usage_Main_Text" Text="استخدام الذاكرة:"/>
     <LangID ID="Menu_Download_Active" Text="إلغاء التنزيل"/>
     <LangID ID="Menu_Download_Active_Preview" Text="{0}%"/>
-    <LangID ID="Menu_Help_Crosslink" Text="حدد &lt;/span&gt;CROSSLINK&lt;span id=\&quot;text_Highlight\&quot;&gt; لمشاهدة محتوى معروض حاليًا\nعلى شاشة مصاحبة. ملاحظة: عند تحديد Crosslink\nبينما تكون مشاركة الصوت مفعلة، تكون أدوات التحكم\nفي الصوت غير متوفرة."/>
+    <LangID ID="Menu_Help_Crosslink" Text="حدد </span>CROSSLINK<span id=\"text_Highlight\"> لمشاهدة محتوى معروض حاليًا\nعلى شاشة مصاحبة. ملاحظة: عند تحديد Crosslink\nبينما تكون مشاركة الصوت مفعلة، تكون أدوات التحكم\nفي الصوت غير متوفرة."/>
     <LangID ID="Menu_Help_HDMI" Text="يمكن تشغيل محتوى من مصدر HDMI\nعند توصيل جهاز متوافق.\nإذا لم يتم تشغيل أي محتوى على جهاز HDMI\nعند تحديده، ستظهر الشاشة فارغة."/>
-    <LangID ID="Menu_Help_Input" Text="حدد &gt;&quot;WI-FI&quot;&lt;span id=\&quot;text_Highlight&quot; &lt;/span&gt;للتوصيل بشبكة Wi-Fi.\nيتيح ذلك لك بث محتوى عبر\nالموفرين الخارجيين أو لإنشاء اتصال\nبجهازك لمشاركة المحتوى."/>
+    <LangID ID="Menu_Help_Input" Text="حدد >"WI-FI"<span id=\"text_Highlight" </span>للتوصيل بشبكة Wi-Fi.\nيتيح ذلك لك بث محتوى عبر\nالموفرين الخارجيين أو لإنشاء اتصال\nبجهازك لمشاركة المحتوى."/>
+    <LangID ID="Menu_Help_Install" Text="لتركيب الشاشة، اسحب طوق ذراع التثبيت وأدخل\n الشاشة في المقعد حتى يستقر حامل المقعد\n في مكانه ويُصدر صوت نقرة."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="يتيح لك نظام ترفيه Audi عرض\nالمحتوى من جهاز جوال متصل عبر\nشبكة Wi-Fi أو من جهاز متوافق متصل\nعبر HDMI أو USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="يسمح نظام ترفيه Audi بعرض المحتوى\nوالاستماع إليه من جهازك المحمول المتصل عبر\nWi-Fi أو من جهاز متوافق متصل\nعبر HDMI أو USB."/>
     <LangID ID="Menu_Help_OTA" Text="لاكتشاف ميزات جديدة وإصلاحات الأخطاء،\nقم بتنزيل أحدث برنامج من قائمة الإعدادات."/>
-    <LangID ID="Menu_Help_Output_SOP1" Text="حدد &quot;BLUETOOTH&quot;&lt;/span&gt;&lt;span id=\&quot;text_Highlight\&quot;&gt; لتوصيل سماعة رأس Bluetooth.\n\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
-    <LangID ID="Menu_Help_Output_SOP2" Text="حدد &lt;span id=\&quot;text_Highlight\&quot;&gt;&lt;/span&gt;&quot;BLUETOOTH&quot; لتوصيل سماعة رأس Bluetooth\nأو اضغط على زر مشاركة الصوت\nلإرسال الصوت إلى سماعات السيارة.\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
+    <LangID ID="Menu_Help_Output_SOP1" Text="حدد "BLUETOOTH"</span><span id=\"text_Highlight\"> لتوصيل سماعة رأس Bluetooth.\n\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
+    <LangID ID="Menu_Help_Output_SOP2" Text="حدد <span id=\"text_Highlight\"></span>"BLUETOOTH" لتوصيل سماعة رأس Bluetooth\nأو اضغط على زر مشاركة الصوت\nلإرسال الصوت إلى سماعات السيارة.\nالصوت متوفر أيضًا عبر سماعة الرأس السلكية."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
-    <LangID ID="Menu_Help_Source" Text="حدد &lt;span id=\&quot;text_Highlight\&quot;&gt;&quot;مصدر&quot;&lt;/span&gt; لاختيار المحتوى المطلوب.\nيمكنك عرض المحتوى من الموفرين الخارجيين\nبتحديد الخدمة من القائمة المعروضة.\nيمكن إعادة تعيين المتصفح أيضًا في هذه القائمة."/>
+    <LangID ID="Menu_Help_Secure" Text="للتأكد من وضع الشاشة بشكل صحيح، اسحب\nبرفق للتحقق من أن حامل الشاشة مؤمن."/>
+    <LangID ID="Menu_Help_Source" Text="حدد <span id=\"text_Highlight\">"مصدر"</span> لاختيار المحتوى المطلوب.\nيمكنك عرض المحتوى من الموفرين الخارجيين\nبتحديد الخدمة من القائمة المعروضة.\nيمكن إعادة تعيين المتصفح أيضًا في هذه القائمة."/>
     <LangID ID="Menu_Help_USB" Text="يمكن تشغيل الوسائط عبر جهاز متوافق\nمتصل عبر USB باستخدام\nتطبيق Fond Media Control."/>
     <LangID ID="Menu_Install_Update" Text="تثبيت التحديث"/>
     <LangID ID="Menu_Legal_About_Us" Text="نبذة عنا"/>
     <LangID ID="Menu_Legal_Open_Source" Text="رخصة المصادر المفتوحة"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="سياسة الخصوصية"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="مردود صوتي"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="مزامنة الصوت"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="حفظ إعدادات السطوع"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="فشل الاتصال.\nيرجى التحقق من PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="أدخل كلمة  المرور"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="مسافة"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="إعادة الضبط"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="الصورة الكاملة"/>
     <LangID ID="Quick_Menu_Help" Text="دليل المستخدِم"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="زمن تشغيل البرنامج:"/>
     <LangID ID="Screen_Off_Notification" Text="يرجى النقر على الشاشة لتشغيلها"/>
     <LangID ID="Screen_Timeout_Headline" Text="إطفاء أوتوماتيكي للشاشة"/>
+    <LangID ID="Serial_Number_Main_Text" Text="الرقم التسلسلي:"/>
     <LangID ID="Settings_Headline" Text="الإعدادات"/>
     <LangID ID="Shutting_Down_Notification" Text="يتم إغلاق النظام..."/>
     <LangID ID="Software_Reset_Headline" Text="استعادة إعدادات المصنع"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="المصدر"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="شاشة التوقف"/>
+    <LangID ID="System_Initialising_Text" Text="جارٍ التهيئة، الرجاء الانتظار..."/>
     <LangID ID="Timeout_Option_1" Text="مطلقاً"/>
     <LangID ID="Timeout_Option_2" Text="30 ثانية"/>
     <LangID ID="Timeout_Option_3" Text="1 دقيقة"/>

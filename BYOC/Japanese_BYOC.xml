@@ -9,11 +9,11 @@
     <LangID ID="Audi_Connection" Text="接続"/>
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
-    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wireless connection"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wi-Fi接続"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="はじめましょう"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="音声出力"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="更新"/>
     <LangID ID="Audi_Volume" Text="音量"/>
     <LangID ID="Audi_WiFi" Text="Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="オーディオ同期"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="ソフトウェアの更新"/>
     <LangID ID="Download_Failed_Main_Text" Text="ソフトウェアダウンロード失敗。\n再度ダウンロードしますか?"/>
     <LangID ID="Help_Headline" Text="利用者ガイド"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP アドレス:"/>
     <LangID ID="IVI_Active_Status" Text="車でオーディオ出力"/>
     <LangID ID="IVI_Delete_Confirm" Text="{0}を本当に削除してよいですか?\n注: 車のスピーカーへオーディオ出力\nできなくなります。"/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="ｺﾝﾊﾟﾆｵﾝ画面に出ているコンテンツを見るには\n&lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt;を選んでください。注: \nオーディオ共有中にCrosslinkを選択すると\nオーディオとボリューム\nコントロールを利用できません。"/>
     <LangID ID="Menu_Help_HDMI" Text="互換デバイスを接続するとコンテンツは\nHDMIから再生可能になります。\n選択時にHDMIデバイスに\n何も再生されない場合、\n画面は空白のままです。"/>
     <LangID ID="Menu_Help_Input" Text="Wi-Fiネットワークに接続するには&lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; を選択\nしてください。外部プロバイ ダー\nのコンテンツをストリームしたり、\n自分のデバイス\nと接続してコンテンツを共有できます。"/>
+    <LangID ID="Menu_Help_Install" Text="画面を取り付けるには、\n取付けアームのカラーを引き、\nシートホルダーがカチッと所定位置\nにはまるまで画面を台座に押し込みます。"/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Audi エンターテイメントでは、\nWi-Fi で接続されたモバイルデバイス、\nまたは、HDMI かUSBで接続された互換デバイス\nからコンテンツを視聴できます。"/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Audi Entertainment Systemでは、\nWi-Fiで接続されたモバイルデバイス、\nまたは、HDMIかUSBで接続された互換デバイス\nからコンテンツを視聴できます。"/>
     <LangID ID="Menu_Help_OTA" Text="新機能を見つけたりバグ修正を得るには、\n設定メニューから最新ソフトウェアを\nダウンロードしてください。"/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Bluetoothヘッドフォンを接続するには、\n&lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;を選択し。\n\nオーディオは有線ヘッドフォンでも聞けます。"/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Bluetoothヘッドフォンと接続&lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;\nを選択するまたは車のスピーカーにオーディオを\n出力するにはオーディオ共有ボタンを押します。\nオーディオは有線ヘッドフォンでも聞けます。"/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="画面が正しい位置に来るようにするため、\n少し引いてみて画面ホルダーがしっかり\n動かないことを確認してください。"/>
     <LangID ID="Menu_Help_Source" Text="希望のコンテンツを選ぶには&lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt;を選択\nしてください。リストからサービスを選択する\nと外部プロバイダーのコンテンツを見れます。\nこのメニューでは、\nブラウザーのﾘｾｯﾄも可能です。"/>
-    <LangID ID="Menu_Help_USB" Text="Fond Media Control Appを使う時、\nUSBで接続されている互換デバイスから\nメディア¶を再生できます。"/>
+    <LangID ID="Menu_Help_USB" Text="Fond Media Control Appを使う時、\nUSBで接続されている互換デバイスから\nメディア を再生できます。"/>
     <LangID ID="Menu_Install_Update" Text="アップデートをインストール"/>
     <LangID ID="Menu_Legal_About_Us" Text="弊社について"/>
     <LangID ID="Menu_Legal_Open_Source" Text="オープンソースライセンス"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="個人情報保護方針"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="タッチ操作音"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="オーディオ同期"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="明るさ設定の保存"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="接続に失敗しました。\nPINを確認してください。"/>
     <LangID ID="Password_Speller_Help_Text" Text="パスワードを入力"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="空白"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="リセット"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="全画面表示"/>
     <LangID ID="Quick_Menu_Help" Text="利用者ガイド"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="ランニング タイム:"/>
     <LangID ID="Screen_Off_Notification" Text="画面をタップいてオンにしてください。"/>
     <LangID ID="Screen_Timeout_Headline" Text="画面の自動消灯"/>
+    <LangID ID="Serial_Number_Main_Text" Text="製造番号:"/>
     <LangID ID="Settings_Headline" Text="設定"/>
     <LangID ID="Shutting_Down_Notification" Text="シャットダウンしています..."/>
     <LangID ID="Software_Reset_Headline" Text="工場出荷時設定へのリセット"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="ソース"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="スクリーンセーバー"/>
+    <LangID ID="System_Initialising_Text" Text="初期化中のためお待ちください..."/>
     <LangID ID="Timeout_Option_1" Text="しない"/>
     <LangID ID="Timeout_Option_2" Text="30秒"/>
     <LangID ID="Timeout_Option_3" Text="1分"/>

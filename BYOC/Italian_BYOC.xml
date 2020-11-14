@@ -10,7 +10,7 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="Collegamento wireless"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Primi passi"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Emissione audio"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
     <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Update software"/>
     <LangID ID="Download_Failed_Main_Text" Text="Download software non riuscito.\nSi desidera riprovare?"/>
     <LangID ID="Help_Headline" Text="Guida utente"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="Indirizzo IP:"/>
     <LangID ID="IVI_Active_Status" Text="Audio nella vettura"/>
     <LangID ID="IVI_Delete_Confirm" Text="Sicuri di voler cancellare\n{0}?\nNota: output audio per altoparlanti\nvettura non saranno più disponibili."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; per visualizzare il contenuto\nmostrato sullo schermo di accompagnamento. Nota: se\nsi seleziona il Crosslink con condivisione audio attiva, i\ncomandi audio e volume non sono disponibili."/>
     <LangID ID="Menu_Help_HDMI" Text="I contenuti possono essere riprodotti da una\nsorgente HDMI quando è connesso un\ndispositivo compatibile. Se dopo la selezione\nnon vengono riprodotti contenuti del\ndispositivo HDMI, lo schermo apparirà nero."/>
     <LangID ID="Menu_Help_Input" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; per collegare a rete Wi-Fi.\nCiò consente di trasferire il contenuto attraverso\nfornitori esterni o stabilire una connessione\ncon il dispositivo per condividere il contenuto."/>
+    <LangID ID="Menu_Help_Install" Text="Per montare lo schermo, tirare il collarino del\nbraccetto di montaggio e spingere lo schermo\nnel sedile fino a quando si inserisce nel supporto\ncon un clic."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="L'Audi Entertainment System consente di\nvisualizzare contenuti da un dispositivo\nmobile connesso via Wi-Fi o da un dispositivo\ncompatibile connesso attraverso HDMI\no USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Il Sistema di intrattenimento Audi consente\ndi vedere e ascoltare contenuti dal\ndispositivo mobile connesso via Wi-Fi o un\ndispositivo compatibile connesso attraverso\nHDMI o USB."/>
     <LangID ID="Menu_Help_OTA" Text="Per scoprire le nuove funzioni e riparazioni\ndi bug, scaricare il software più recente\ndal menù impostazioni."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; per collegare le cuffie\nBluetooth.\n\nL'audio è anche disponibile mediante cuffie cablate."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; per collegare le cuffie\nBluetooth o premere il pulsante di condivisione\naudio per inviare output audio agli altoparlanti.\nL'audio è anche disponibile mediante cuffie cablate."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Per assicurarsi che lo schermo sia correttamente\nposizionato, tirarlo delicatamente per controllare\nche il supporto sia saldo."/>
     <LangID ID="Menu_Help_Source" Text="Selezionare &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt; per il contenuto desiderato.\nPer visualizzare il contenuto mediante fornitori esterni\nselezionare il servizio dalla lista indicata.\nIl browser può essere ripristinato nel presente menù."/>
     <LangID ID="Menu_Help_USB" Text="I media possono essere riprodotti mediante\napp Fond Media Control tramite un\ndispositivo compatibile collegato via USB."/>
     <LangID ID="Menu_Install_Update" Text="Installare l'aggiornamento"/>
     <LangID ID="Menu_Legal_About_Us" Text="Riguardo a noi"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Dettagli liberatoria Open Source"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Informativa sulla privacy"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Feedback acustico"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Sincronizzazione audio"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Salvare le impostazioni di luminosità"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Connessione non riuscita.\nVerificare il proprio PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="Immetti una password"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Spazio"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Ripristino"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Pieno schermo"/>
     <LangID ID="Quick_Menu_Help" Text="Guida utente"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Durata di attivazione:"/>
     <LangID ID="Screen_Off_Notification" Text="Toccare lo schermo per accendere"/>
     <LangID ID="Screen_Timeout_Headline" Text="Time-out schermo"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Numero di serie:"/>
     <LangID ID="Settings_Headline" Text="Impostazioni"/>
     <LangID ID="Shutting_Down_Notification" Text="Spegnimento sistema in corso..."/>
     <LangID ID="Software_Reset_Headline" Text="Ripristina configurazione iniziale"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Fonte"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Salvaschermo"/>
+    <LangID ID="System_Initialising_Text" Text="Inizializzazione in corso, attendere..."/>
     <LangID ID="Timeout_Option_1" Text="Mai"/>
     <LangID ID="Timeout_Option_2" Text="30 secondi"/>
     <LangID ID="Timeout_Option_3" Text="1 minuto"/>

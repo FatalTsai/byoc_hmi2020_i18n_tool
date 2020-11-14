@@ -9,11 +9,11 @@
     <LangID ID="Audi_Connection" Text="연결"/>
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
-    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wireless connection"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wi-Fi 연결"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="시작하기"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="오디오 출력"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="업데이트"/>
     <LangID ID="Audi_Volume" Text="볼륨"/>
     <LangID ID="Audi_WiFi" Text="Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="오디오 동기화"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="소프트웨어 업데이트"/>
     <LangID ID="Download_Failed_Main_Text" Text="소프트웨어 다운로드에 실패했습니다.\n다시 시도하시겠습니까?"/>
     <LangID ID="Help_Headline" Text="사용 설명서"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP 주소:"/>
     <LangID ID="IVI_Active_Status" Text="차량으로 오디오 출력"/>
     <LangID ID="IVI_Delete_Confirm" Text="{0}을(를) 삭제하시겠습니까?\n참고: 더 이상 차량 스피커로 오디오를\n출력할 수 없습니다."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="동반 화면에서 현재 표시되는 콘텐츠를 보려면\n&lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt;를 선택하십시오. 참고: 오디오 공유가\n활성화되어 있을 때 Crosslink를 선택하면 오디오 및\n볼륨 컨트롤을 사용할 수 없습니다."/>
     <LangID ID="Menu_Help_HDMI" Text="호환되는 장치가 연결되어 있으면 HDMI\n소스의 콘텐츠를 재생할 수 있습니다.\nHDMI 장치를 선택한 후 장치에서 재생되는\n콘텐츠가 없을 경우 화면이 공백으로 표시됩니다."/>
     <LangID ID="Menu_Help_Input" Text="Wi-Fi 네트워크에 연결하려면 &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; 선택하십시오.\n이렇게 하면 외부 제공자를 통해 콘텐츠를\n스트리밍하거나 장치와 연결을 구축하여\n콘텐츠를 공유할 수 있습니다."/>
+    <LangID ID="Menu_Help_Install" Text="스크린을 설치하려면 마운팅 암의 칼라를 당기고 시트 \n홀더가 제자리에 딸깍하고 고정될 때까지 스크린을 \n시트에 밀어 넣으십시오."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Audi 엔터테인먼트 시스템을 사용하면\nWi-Fi를 통해 연결된 모바일 장치나\nHDMI 또는 USB를 통해 연결된 호환 장치의\n콘텐츠를 보고 들을 수 있습니다."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Audi 엔터테인먼트 시스템을 사용하면\nWi-Fi를 통해 연결된 모바일 장치나\nHDMI 또는 USB를 통해 연결된 호환 장치의\n콘텐츠를 보고 들을 수 있습니다."/>
     <LangID ID="Menu_Help_OTA" Text="최신 기능과 버그 수정을 확인하려면 설정 메뉴에서\n최신 소프트웨어를 다운로드하십시오."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="블루투스 헤드폰을 연결하려면 &lt;span id=\&quot;text_Highlight\&quot;&gt;블루투스&lt;/span&gt; 선택하십시오.\n\n유선 헤드폰을 통해서도 오디오를 사용할 수 있습니다."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="블루투스 헤드폰을 연결하려면 &lt;span id=\&quot;text_Highlight\&quot;&gt;블루투스&lt;/span&gt; 선택하십시오.\n오디오 출력을 차량 스피커로 보내려면\n오디오 공유 버튼을 누르십시오.\n유선 헤드폰을 통해서도 오디오를 사용할 수 있습니다."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="스크린이 올바르게 설치되었는지 확인하려면 \n가볍게 당겨서 스크린 홀더가 단단히 \n고정되었는지 확인하십시오."/>
     <LangID ID="Menu_Help_Source" Text="원하는 콘텐츠를 고르려면 &lt;span id=\&quot;text_Highlight\&quot;&gt;소스&lt;/span&gt;를 선택하십시오.\n표시되는 목록에서 서비스를 선택하여\n외부 제공자의 콘텐츠를 볼 수 있습니다.\n이 메뉴에서 브라우저를 재설정할 수도 있습니다."/>
     <LangID ID="Menu_Help_USB" Text="Fond Media Control 앱을 사용하면\nUSB를 통해 연결된 호환 장치를 통해\n미디어를 재생할 수 있습니다."/>
     <LangID ID="Menu_Install_Update" Text="업데이트 설치"/>
     <LangID ID="Menu_Legal_About_Us" Text="회사 소개"/>
     <LangID ID="Menu_Legal_Open_Source" Text="오픈 소스 선언"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="개인정보 취급방침"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="음향 피드백"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="오디오 동기화"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="밝기 설정 저장"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="블루투스"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="연결에 실패했습니다.\nPIN을 확인하십시오."/>
     <LangID ID="Password_Speller_Help_Text" Text="비밀번호 입력"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="공백"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="재설정"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="전체 화면"/>
     <LangID ID="Quick_Menu_Help" Text="사용 설명서"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="실행 시간:"/>
     <LangID ID="Screen_Off_Notification" Text="켜려면 화면을 누르십시오."/>
     <LangID ID="Screen_Timeout_Headline" Text="화면 시간 제한"/>
+    <LangID ID="Serial_Number_Main_Text" Text="일련번호:"/>
     <LangID ID="Settings_Headline" Text="설정"/>
     <LangID ID="Shutting_Down_Notification" Text="시스템 종료 중..."/>
     <LangID ID="Software_Reset_Headline" Text="기본 설정 복원"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="소스"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="화면 보호기"/>
+    <LangID ID="System_Initialising_Text" Text="초기화 중입니다, 기다려 주세요..."/>
     <LangID ID="Timeout_Option_1" Text="사용 안 함"/>
     <LangID ID="Timeout_Option_2" Text="30초"/>
     <LangID ID="Timeout_Option_3" Text="1분"/>

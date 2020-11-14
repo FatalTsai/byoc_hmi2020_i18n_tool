@@ -7,13 +7,13 @@
     <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
     <LangID ID="Audi_Brightnsss" Text="Яркость"/>
     <LangID ID="Audi_Connection" Text="Соединение"/>
-    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Кросс-канала"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
-    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Соединение Wi-Fi"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wi-Fi-соединение"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Первые шаги"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Аудиовыход"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Обновление"/>
     <LangID ID="Audi_Volume" Text="Громкость"/>
     <LangID ID="Audi_WiFi" Text="Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="Синхронизация аудио"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Обновление софта"/>
     <LangID ID="Download_Failed_Main_Text" Text="Не удалось загрузить программу.\nПовторить попытку?"/>
     <LangID ID="Help_Headline" Text="Руководство пользователя"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-адрес:"/>
     <LangID ID="IVI_Active_Status" Text="Вывод аудио на авто"/>
     <LangID ID="IVI_Delete_Confirm" Text="Действительно удалить\n{0}?\nПримечание: вывод аудио на динамики\nавто больше не будет доступен."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Выберите &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; для просмотра контента\nна вспом. экране. Примечание: При выборе\nкросс-канала во время совместного доступа к\nаудио управление аудио и громкостью недоступно."/>
     <LangID ID="Menu_Help_HDMI" Text="Можно воспроизводить контент источника\nHDMI, если подключено совместимое\nустройство. Если после этого на устройстве\nHDMI контент не воспроизводится,\nотображается пустой экран."/>
     <LangID ID="Menu_Help_Input" Text="Выберите &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt;, чтобы подключения к сети Wi-Fi.\nВы сможете включить потоковый контент через\nвнешних поставщиков либо установить подключ.\nс вашим устройством для совм. доступа к контенту."/>
+    <LangID ID="Menu_Help_Install" Text="Чтобы установить экран, потяните кольцо на\nкронштейне и задвиньте экран в сиденье до\nщелчка фиксатора."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Развлекательная система Audi позволяет\nпросматривать контент подключенного\nчерез Wi-Fi мобильного устройства или\nсовместимого устройства, подключенного\nчерез HDMI или USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Системе Audi Entertainment позволяет\nпросматривать и прослушивать контент с моб. устр.\nчерез Wi-Fi либо с совместимого устройства\nчерез HDMI или USB."/>
     <LangID ID="Menu_Help_OTA" Text="Для доступа к самым новым функциям и\nисправлению ошибок скачайте в меню\nнастроек последнюю версию ПО."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Выберите &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;, чтобы подключить\nгарнитуру Bluetooth.\n\nАудио также доступно через проводные гарнит."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Выберите &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;, чтобы подключить\nгарнитуру Bluetooth, или нажмите кнопку совм. \nдоступа к аудио для вывода аудио на динамики авто.\nАудио также доступно через проводные гарнит."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Слегка потяните за экран, чтобы убедиться в\nнадежности его фиксации в правильном положении."/>
     <LangID ID="Menu_Help_Source" Text="Выберите &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt;, чтобы выбрать контент.\nМожно просматривать контент от внешние\nпоставщиков с помощью сервиса из отображ. списка.\nВ этом меню также доступен сброс браузера."/>
     <LangID ID="Menu_Help_USB" Text="Мультимедиа можно воспроизводить с\nпомощью приложения Fond Media\nControl на совместимом устройстве,\nподключенном через USB."/>
     <LangID ID="Menu_Install_Update" Text="Установить обновление"/>
     <LangID ID="Menu_Legal_About_Us" Text="О нас"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Лицензия Open Source"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Политика конфиденциальности"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Акустическая обратная связь"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Синхронизация аудио"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Сохранить настройки яркости"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Ошибка подключения.\nПроверьте PIN-код."/>
     <LangID ID="Password_Speller_Help_Text" Text="Введите пароль"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Символ пробела"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Сбросить"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Полноэкранный"/>
     <LangID ID="Quick_Menu_Help" Text="Рук-во пользов."/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Время прогона софта:"/>
     <LangID ID="Screen_Off_Notification" Text="Коснитесь экрана, чтобы включить"/>
     <LangID ID="Screen_Timeout_Headline" Text="Таймаут экрана"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Серийный номер:"/>
     <LangID ID="Settings_Headline" Text="Настройки"/>
     <LangID ID="Shutting_Down_Notification" Text="Система выключается..."/>
     <LangID ID="Software_Reset_Headline" Text="Установить заводские настройки"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Источник"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Экранная заставка"/>
+    <LangID ID="System_Initialising_Text" Text="Инициализация, подождите..."/>
     <LangID ID="Timeout_Option_1" Text="Никогда"/>
     <LangID ID="Timeout_Option_2" Text="30 секунд"/>
     <LangID ID="Timeout_Option_3" Text="1 минута"/>

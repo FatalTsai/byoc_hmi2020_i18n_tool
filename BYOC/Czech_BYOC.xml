@@ -7,10 +7,10 @@
     <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
     <LangID ID="Audi_Brightnsss" Text="Jas"/>
     <LangID ID="Audi_Connection" Text="Spojení"/>
-    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Křížové spojení"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="Spojení WLAN"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="První kroky"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Zvukový výstup"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
     <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Update softwaru"/>
     <LangID ID="Download_Failed_Main_Text" Text="Stažení softwaru se nezdařilo.\nChcete to zkusit znovu?"/>
     <LangID ID="Help_Headline" Text="Uživatelská příručka"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP adresa:"/>
     <LangID ID="IVI_Active_Status" Text="Výstup zvuku do vozu"/>
     <LangID ID="IVI_Delete_Confirm" Text="Opravdu chcete odstranit\n{0}?\nPoznámka: zvukový výstup do\nreproduktorů vozu\njiž nebude k dispozici."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Výběrem &lt;span id=\&quot;text_Highlight\&quot;&gt;KŘÍŽOVÉ SPOJENÍ&lt;/span&gt; zobrazíte aktuálně\nzobrazený obsah na doprovodné obrazovce.\nPoznámka: pokud vyberete křížové spojení\na je aktivní sdílení zvuku, nejsou ovládací\nprvky zvuku a hlasitosti k dispozici."/>
     <LangID ID="Menu_Help_HDMI" Text="Obsah lze přehrávat ze zdroje HDMI,\nje-li připojeno kompatibilní zařízení.\nPoznámka: Pokud na zařízení HDMI\nnení přehráván žádný obsah,\npo výběru bude obrazovka prázdná."/>
     <LangID ID="Menu_Help_Input" Text="Vyberte &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-FI&lt;/span&gt; pro připojení k síti Wi-Fi.\nTo vám umožní streamovat obsah\nprostřednictvím externích poskytovatelů\nnebo navázat spojení se zařízením\na sdílet obsah."/>
+    <LangID ID="Menu_Help_Install" Text="Chcete-li nainstalovat obrazovku, zatáhněte za\nobjímku na upevňovacím rameni a zatlačte obrazovku\ndo sedadla, dokud držák sedadla nezapadne na místo."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Systém Audi Entertainment Vám umožňuje\nprohlížet obsahy z mobilního zařízení\npřipojeného prostřednictvím WLAN\nnebo nebo kompatibilního zařízení\nspojeného přes HDMI nebo USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Systém Audi Entertainment umožňuje prohlížení\na poslech obsahu z připojeného mobilního zařízení\nprostřednictvím sítě Wi-Fi nebo\nz připojeného kompatibilního zařízení\nprostřednictvím rozhraní HDMI nebo USB."/>
     <LangID ID="Menu_Help_OTA" Text="Chcete-li objevovat nejnovější funkce\na opravy chyb, stáhněte si nejnovější\nsoftware z nabídky nastavení."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Vyberte &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; pro připojení sluchátek\nBluetooth. \n\nZvuk je k dispozici také prostřednictvím\nkabelových sluchátek."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Vyberte &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; pro připojení sluchátek\nBluetooth nebo stiskněte tlačítko sdílení\nzvuku a odešlete zvukový výstup\ndo reproduktorů vozu. Zvuk je\nk dispozici také prostřednictvím kabelových sluchátek."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Chcete-li zajistit správné umístění obrazovky, \nopatrným zatažením zkontrolujte, zda je držák\nobrazovky zajištěný."/>
     <LangID ID="Menu_Help_Source" Text="Vyberte &lt;span id=\&quot;text_Highlight\&quot;&gt;ZDROJ&lt;/span&gt; a požadovaný obsah.\nvýběrem služby ze zobrazeného seznamu\nmůžete zobrazit obsah od externích poskytovatelů.\nV této nabídce lze také resetovat prohlížeč."/>
     <LangID ID="Menu_Help_USB" Text="Média lze přehrávat aplikací Fond Media\nControl přes kompatibilní zařízení\npřipojené přes USB."/>
     <LangID ID="Menu_Install_Update" Text="Instalovat aktualizaci"/>
     <LangID ID="Menu_Legal_About_Us" Text="O nás"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Podrobnosti zřeknutí se Open Source"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Zásady ochrany osobních údajů"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Zvuková zpětná vazba"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Synchronizace zvuku"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Uložit nastavení jasu"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Připojení se nezdařilo.\nZkontrolujte svůj kód PIN."/>
     <LangID ID="Password_Speller_Help_Text" Text="Zadat heslo"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Mezera"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Obnovit"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Plný obraz"/>
     <LangID ID="Quick_Menu_Help" Text="Příručka"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Doba běhu:"/>
     <LangID ID="Screen_Off_Notification" Text="Klepnutím na obrazovku zapněte"/>
     <LangID ID="Screen_Timeout_Headline" Text="Časový limit displeje"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Sériové číslo:"/>
     <LangID ID="Settings_Headline" Text="Nastavení"/>
     <LangID ID="Shutting_Down_Notification" Text="Systém se vypíná..."/>
     <LangID ID="Software_Reset_Headline" Text="Obnovit tovární nastavení"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Zdroj"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Šetřič obrazovky"/>
+    <LangID ID="System_Initialising_Text" Text="Probíhá spouštění, čekejte prosím..."/>
     <LangID ID="Timeout_Option_1" Text="Nikdy"/>
     <LangID ID="Timeout_Option_2" Text="30 sekund"/>
     <LangID ID="Timeout_Option_3" Text="1 minuta"/>

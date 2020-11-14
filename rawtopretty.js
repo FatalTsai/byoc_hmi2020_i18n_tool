@@ -64,8 +64,8 @@ fs.readdir(origindatapath,(err,files)=>{
         const newfilename = i18n_map[path.basename(file,'.json').replace('_BYOC','')] 
         //const newfilename = i18n_map[path.basename(file,'.json')] 
 
-        console.log(file)
-        console.log(newfilename)
+        //console.log(file)
+        //console.log(newfilename)
         let tmp =JSON.parse( fs.readFileSync(path.join(origindatapath,file),'utf-8') )
 
         //console.log(tmp.elements[0].elements)

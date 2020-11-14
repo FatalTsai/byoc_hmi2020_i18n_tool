@@ -268,7 +268,7 @@
   "Reset_Browser_Headline": "Reset browser",
   "Reset_Browser_Main_Text": "Are you sure you want to reset the browser?\nAll account information will be lost\nand you will need to log in again.",
   "Run_Time_Main_Text": "Running time:",
-  "Serial_Number_Main_Text": "Serial Number:",
+  "Serial_Number_Main_Text": "Serial number:",
   "Screen_Off_Notification": "Please tap the screen to switch on",
   "Screen_Timeout_Headline": "Screen timeout",
   "Settings_Headline": "Settings",
@@ -365,7 +365,7 @@
   "Audi_Menu_Help_Headline_Crosslink": "Crosslink",
   "Audi_Menu_Help_Headline_HDMI": "HDMI",
   "Audi_Menu_Help_Headline_Input": "Wi-Fi connection",
-  "Audi_Menu_Help_Headline_Intro": "Quick introduction",
+  "Audi_Menu_Help_Headline_Intro": "Getting started",
   "Audi_Menu_Help_Headline_Output": "Audio output",
   "Audi_Menu_Help_Headline_USB": "USB",
   "Audi_Menu_Help_headline_OTA": "Update",
@@ -390,5 +390,12 @@
   "Language_Slovakian": "Slovenčina",
   "Language_Slovenian": "Slovenščina",
   "Language_Ukrainian": "Українська",
-  "Porsche_Menu_Audio_Sync_Reset": "Reset"
+  "Porsche_Menu_Audio_Sync_Reset": "Reset",
+  "Help_Install": "Installation and removal",
+  "Help_Quick_Start": "Quick start",
+  "Menu_Help_Install": "To install the screen,\npull the collar on the mounting arm\nand push the screen into the seat\nuntil the seat holder clicks in place.",
+  "Menu_Help_Secure": "To ensure the screen has located correctly,\npull gently to check that the screen holder is secure.",
+  "Menu_Legal_Type_Approvals": "Type approval logos",
+  "Porsche_Keyboard_Space": "Space",
+  "System_Initialising_Text": "Initialising, please wait..."
 }

@@ -268,7 +268,7 @@
   "Reset_Browser_Headline": "Ripristino browser",
   "Reset_Browser_Main_Text": "Sicuri di voler ripristinare il browser?\nLe informazioni account verranno perse\ne bisognerà registrarsi nuovamente.",
   "Run_Time_Main_Text": "Durata di attivazione:",
-  "Serial_Number_Main_Text": "Serial Number:",
+  "Serial_Number_Main_Text": "Numero di serie:",
   "Screen_Off_Notification": "Toccare lo schermo per accendere",
   "Screen_Timeout_Headline": "Time-out schermo",
   "Settings_Headline": "Impostazioni",
@@ -365,7 +365,7 @@
   "Audi_Menu_Help_Headline_Crosslink": "Crosslink",
   "Audi_Menu_Help_Headline_HDMI": "HDMI",
   "Audi_Menu_Help_Headline_Input": "Collegamento wireless",
-  "Audi_Menu_Help_Headline_Intro": "Quick introduction",
+  "Audi_Menu_Help_Headline_Intro": "Primi passi",
   "Audi_Menu_Help_Headline_Output": "Emissione audio",
   "Audi_Menu_Help_Headline_USB": "USB",
   "Audi_Menu_Help_headline_OTA": "Update",
@@ -390,5 +390,12 @@
   "Language_Slovakian": "Slovenčina",
   "Language_Slovenian": "Slovenščina",
   "Language_Ukrainian": "Українська",
-  "Porsche_Menu_Audio_Sync_Reset": "Ripristino"
+  "Porsche_Menu_Audio_Sync_Reset": "Ripristino",
+  "Help_Install": "Installation and removal",
+  "Help_Quick_Start": "Quick start",
+  "Menu_Help_Install": "Per montare lo schermo, tirare il collarino del\nbraccetto di montaggio e spingere lo schermo\nnel sedile fino a quando si inserisce nel supporto\ncon un clic.",
+  "Menu_Help_Secure": "Per assicurarsi che lo schermo sia correttamente\nposizionato, tirarlo delicatamente per controllare\nche il supporto sia saldo.",
+  "Menu_Legal_Type_Approvals": "Type approval logos",
+  "Porsche_Keyboard_Space": "Spazio",
+  "System_Initialising_Text": "Inizializzazione in corso, attendere..."
 }

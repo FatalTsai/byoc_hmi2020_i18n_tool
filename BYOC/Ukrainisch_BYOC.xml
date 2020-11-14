@@ -10,7 +10,7 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="З’єднання WLAN"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Вступ"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Початок роботи"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Відтворення аудіо"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
     <LangID ID="Audi_Menu_Help_headline_OTA" Text="Оновлення"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Оновлення ПЗ"/>
     <LangID ID="Download_Failed_Main_Text" Text="Помилка завантаження ПЗ.\nПовторити спробу?"/>
     <LangID ID="Help_Headline" Text="Посібник користувача"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-адреса:"/>
     <LangID ID="IVI_Active_Status" Text="Аудіо в автомобілі"/>
     <LangID ID="IVI_Delete_Confirm" Text="Справді видалити {0}?\nВказівка: після цього відтворення\nаудіо в автомобілі через динаміки\nстане неможливим."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Select CROSSLINK to view content currently shown on the companion screen. Note: if selecting crosslink when audio sharing is active, audio and volume controls are unavailable."/>
     <LangID ID="Menu_Help_HDMI" Text="Content can be played from a HDMI source when a compatible device is connected. Note: if no content is playing on the HDMI device when selected, the screen will appear blank."/>
     <LangID ID="Menu_Help_Input" Text="Select INPUT to connect to a Wi-Fi network. This enables you to stream content through external providers or to establish a connection with your device to share content."/>
+    <LangID ID="Menu_Help_Install" Text="Щоб установити екран, потягніть кільце на\nкронштейні та вставте екран у сидіння так, \nщоб клацнув фіксатор."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Система Audi Entertainment System\nдає можливість переглядати вміст\nіз мобільного пристрою, підключеного \nчерез WLAN, або сумісного пристрою, \nпідключеного через HDMI чи USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Система Audi Entertainment System дає\nможливість переглядати та слухати вміст\nіз мобільного пристрою, підключеного \nчерез WLAN, або сумісного пристрою, \nпідключеного через HDMI чи USB."/>
     <LangID ID="Menu_Help_OTA" Text="Щоб користуватися новими функціями\nта виправленнями помилок, завантажте\nнайновіше програмне забезпечення в\nменю настройок."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Select OUTPUT to connect Bluetooth headphones or press the audio sharing button to send audio output to the car speakers. Audio is also available through wired headphones."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Select OUTPUT to connect Bluetooth headphones. Audio is also available through wired headphones."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat, pull the collar on the mounting arm towards the rear of the vehicle then pull the screen until it is clear of the seat.."/>
+    <LangID ID="Menu_Help_Secure" Text="Злегка потягніть за екран, щоб переконатися в \nнадійності його фіксації в правильному положенні."/>
     <LangID ID="Menu_Help_Source" Text="Select SOURCE to choose your desired content. You can view content from external providers by selecting the service from the list shown. The browser can also be reset in this menu."/>
     <LangID ID="Menu_Help_USB" Text="Мультимедійний вміст можна відтворювати\nза допомогою програми Fond Media Control\nчерез сумісний пристрій, підключений\nчерез USB."/>
     <LangID ID="Menu_Install_Update" Text="Інсталювати оновлення"/>
     <LangID ID="Menu_Legal_About_Us" Text="Вихідні дані"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Ліцензія з відкритим кодом"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Політика конфіденційності"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Акустичний відгук"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Синхронізація аудіо"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Зберегти настройки яскравості"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Помилка з’єднання.\nПеревірте свій PIN-код."/>
     <LangID ID="Password_Speller_Help_Text" Text="Ввести пароль"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Пробіл"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Скинути"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="На весь екран"/>
     <LangID ID="Quick_Menu_Help" Text="Посібник"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Час роботи:"/>
     <LangID ID="Screen_Off_Notification" Text="Щоб увімкнути, торкніться екрана"/>
     <LangID ID="Screen_Timeout_Headline" Text="Таймаут екрана"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Серійний номер:"/>
     <LangID ID="Settings_Headline" Text="Настройки"/>
     <LangID ID="Shutting_Down_Notification" Text="Завершення роботи системи..."/>
     <LangID ID="Software_Reset_Headline" Text="Відновлення завод. настройок"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Джерело"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Екранна заставка"/>
+    <LangID ID="System_Initialising_Text" Text="Ініціалізація. Зачекайте..."/>
     <LangID ID="Timeout_Option_1" Text="Ніколи"/>
     <LangID ID="Timeout_Option_2" Text="30 секунд"/>
     <LangID ID="Timeout_Option_3" Text="1 хвилина"/>

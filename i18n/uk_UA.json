@@ -268,7 +268,7 @@
   "Reset_Browser_Headline": "Скинути браузер",
   "Reset_Browser_Main_Text": "Справді скинути браузер? Усі дані\nкористувача буде втрачено, і вам\nпотрібно буде повторно\nвиконувати вхід.",
   "Run_Time_Main_Text": "Час роботи:",
-  "Serial_Number_Main_Text": "Serial Number:",
+  "Serial_Number_Main_Text": "Серійний номер:",
   "Screen_Off_Notification": "Щоб увімкнути, торкніться екрана",
   "Screen_Timeout_Headline": "Таймаут екрана",
   "Settings_Headline": "Настройки",
@@ -365,7 +365,7 @@
   "Audi_Menu_Help_Headline_Crosslink": "Crosslink",
   "Audi_Menu_Help_Headline_HDMI": "HDMI",
   "Audi_Menu_Help_Headline_Input": "З’єднання WLAN",
-  "Audi_Menu_Help_Headline_Intro": "Вступ",
+  "Audi_Menu_Help_Headline_Intro": "Початок роботи",
   "Audi_Menu_Help_Headline_Output": "Відтворення аудіо",
   "Audi_Menu_Help_Headline_USB": "USB",
   "Audi_Menu_Help_headline_OTA": "Оновлення",
@@ -390,5 +390,12 @@
   "Language_Slovakian": "Slovenčina",
   "Language_Slovenian": "Slovenščina",
   "Language_Ukrainian": "Українська",
-  "Porsche_Menu_Audio_Sync_Reset": "Скинути"
+  "Porsche_Menu_Audio_Sync_Reset": "Скинути",
+  "Help_Install": "Installation and removal",
+  "Help_Quick_Start": "Quick start",
+  "Menu_Help_Install": "Щоб установити екран, потягніть кільце на\nкронштейні та вставте екран у сидіння так, \nщоб клацнув фіксатор.",
+  "Menu_Help_Secure": "Злегка потягніть за екран, щоб переконатися в \nнадійності його фіксації в правильному положенні.",
+  "Menu_Legal_Type_Approvals": "Type approval logos",
+  "Porsche_Keyboard_Space": "Пробіл",
+  "System_Initialising_Text": "Ініціалізація. Зачекайте..."
 }

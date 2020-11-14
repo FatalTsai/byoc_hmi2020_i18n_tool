@@ -10,7 +10,7 @@
     <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="WLAN-verbinding"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Eerste keer"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Audiouitgave"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
     <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Software-update"/>
     <LangID ID="Download_Failed_Main_Text" Text="Downloaden software is mislukt.\nWilt u het opnieuw proberen?"/>
     <LangID ID="Help_Headline" Text="Gebruikershandleiding"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP-adres:"/>
     <LangID ID="IVI_Active_Status" Text="Audio in de wagen"/>
     <LangID ID="IVI_Delete_Confirm" Text="Weet u zeker dat u\n{0} wilt verwijderen?\nOpmerking: audio-uitvoer naar autoluid-\nsprekers is niet meer beschikbaar."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Selecteer &lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt; om de inhoud te zien die nu\nop het partnerscherm wordt getoond. Opmerking:\nals crosslink wordt geselecteerd wanneer audio delen\nactief is, zijn audio en volumeregeling niet beschikbaar."/>
     <LangID ID="Menu_Help_HDMI" Text="Inhoud kan worden afgespeeld vanaf\neen HDMI-bron wanneer een compatibel\napparaat is verbonden. Als er na selectie\ngeen inhoud wordt afgespeeld op het\nHDMI-apparaat, is het scherm leeg."/>
     <LangID ID="Menu_Help_Input" Text="Kies &lt;span id=\&quot;text_Highlight\&quot;&gt;WIFI&lt;/span&gt; om te verbinden met een wifi-netwerk.\nHiermee kunt u inhoud streamen via externe providers\nof een verbinding maken met uw apparaat om inhoud\nte delen."/>
+    <LangID ID="Menu_Help_Install" Text="Trek de kraag op de bevestigingsarm en duw\nhet scherm in de stoel totdat de houder op\nzijn plaats klikt om het scherm te bevestigen."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Met het Audi Entertainment-systeem kunt u\ninhoud zien en horen van uw via wifi\nverbonden mobiele apparaat of van een\ncompatibel apparaat dat is verbonden via\nHDMI of USB."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Met het Audi Entertainment-systeem kunt u inhoud\nzien en horen van uw mobiele apparaat verbonden\nvia wifi of van een compatibel apparaat dat is\nverbonden via HDMI of USB."/>
     <LangID ID="Menu_Help_OTA" Text="Download de nieuwste software vanuit het\ninstellingenmenu om nieuwe functies en\nbugfixes te ontdekken."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Kies &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; om een Bluetooth-hoofdtelefoon\nte verbinden.\n\nAudio is ook beschikbaar via een\nbedrade hoofdtelefoon."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Kies &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt; om een Bluetooth-hoofdtelefoon\nte verbinden of druk op de knop audio delen om audio-\nuitvoer naar de autoluidsprekers te sturen.Audio is\nook beschikbaar via een bedrade hoofdtelefoon."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Trek voorzichtig om te controleren of het scherm\ngoed is geplaatst en de houder degelijk is bevestigd."/>
     <LangID ID="Menu_Help_Source" Text="Kies &lt;span id=\&quot;text_Highlight\&quot;&gt;BRON&lt;/span&gt; om uw gewenste inhoud te kiezen.\nU kunt inhoud van externe providers bekijken door\nhet kiezen van de service in de getoonde lijst.\nDe browser kan in dit menu ook worden gereset."/>
     <LangID ID="Menu_Help_USB" Text="Media kunnen met behulp van de Fond\nMedia Control app vanaf een compatibel,\nvia USB verbonden apparaat worden\nafgespeeld."/>
     <LangID ID="Menu_Install_Update" Text="Update installeren"/>
     <LangID ID="Menu_Legal_About_Us" Text="Over ons"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Open-sourcelicentie"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Privacyverklaring"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Akoestische feedback"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Audiosynchronisatie"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Sla helderheidsinstellingen op"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Verbinding mislukt.\nControleer uw pincode."/>
     <LangID ID="Password_Speller_Help_Text" Text="Wachtwoord invoeren"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Spatie"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Resetten"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Volledig scherm"/>
     <LangID ID="Quick_Menu_Help" Text="Handboek"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Lopende tijd:"/>
     <LangID ID="Screen_Off_Notification" Text="Tik op het scherm om in te schakelen"/>
     <LangID ID="Screen_Timeout_Headline" Text="Time-out scherm"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Serienummer:"/>
     <LangID ID="Settings_Headline" Text="Instellingen"/>
     <LangID ID="Shutting_Down_Notification" Text="Het systeem wordt uitgeschakeld..."/>
     <LangID ID="Software_Reset_Headline" Text="Fabrieksinstellingen herstellen"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Bron"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Screensaver"/>
+    <LangID ID="System_Initialising_Text" Text="Initialiseren, even geduld a.u.b..."/>
     <LangID ID="Timeout_Option_1" Text="Nooit"/>
     <LangID ID="Timeout_Option_2" Text="30 seconden"/>
     <LangID ID="Timeout_Option_3" Text="1 minuut"/>

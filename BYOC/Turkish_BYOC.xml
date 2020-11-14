@@ -7,13 +7,13 @@
     <LangID ID="Audi_Bluetooth" Text="Bluetooth®"/>
     <LangID ID="Audi_Brightnsss" Text="Parlaklık"/>
     <LangID ID="Audi_Connection" Text="Bağlantı"/>
-    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Crosslink"/>
+    <LangID ID="Audi_Menu_Help_Headline_Crosslink" Text="Çapraz bağlantı"/>
     <LangID ID="Audi_Menu_Help_Headline_HDMI" Text="HDMI"/>
     <LangID ID="Audi_Menu_Help_Headline_Input" Text="Wi-Fi bağlantısı"/>
-    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Quick introduction"/>
+    <LangID ID="Audi_Menu_Help_Headline_Intro" Text="Başlarken"/>
     <LangID ID="Audi_Menu_Help_Headline_Output" Text="Ses çıkışı"/>
     <LangID ID="Audi_Menu_Help_Headline_USB" Text="USB"/>
-    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Update"/>
+    <LangID ID="Audi_Menu_Help_headline_OTA" Text="Güncelle"/>
     <LangID ID="Audi_Volume" Text="Ses seviyesi"/>
     <LangID ID="Audi_WiFi" Text="Wi-Fi"/>
     <LangID ID="Audio_Sync_Headline" Text="Ses senkron"/>
@@ -77,6 +77,8 @@
     <LangID ID="Download_Failed_Headline" Text="Yazılım güncellemesi"/>
     <LangID ID="Download_Failed_Main_Text" Text="Yazılım indirilemedi.\nTekrar denemek ister misiniz?"/>
     <LangID ID="Help_Headline" Text="Kullanıcı kılavuzu"/>
+    <LangID ID="Help_Install" Text="Installation and removal"/>
+    <LangID ID="Help_Quick_Start" Text="Quick start"/>
     <LangID ID="IP_Address_Main_Text" Text="IP adresi:"/>
     <LangID ID="IVI_Active_Status" Text="Araca ses çıkışı"/>
     <LangID ID="IVI_Delete_Confirm" Text="{0} öğesini silmek\nistediğinizden emin misiniz?\nNot: Araç hoparlörlerine ses çıkışı\nartık kullanılamayacaktır."/>
@@ -180,18 +182,21 @@
     <LangID ID="Menu_Help_Crosslink" Text="Şu anda eş ekranda gösterilen içeriği görüntülemek için\n&lt;span id=\&quot;text_Highlight\&quot;&gt;CROSSLINK&lt;/span&gt;'i seçin. Not: ses paylaşımı etkin\ndurumdayken çapraz bağlantı seçilirse, ses ve\nses kontrolleri kullanılamaz."/>
     <LangID ID="Menu_Help_HDMI" Text="Uyumlu bir cihaz bağlandığında bir\nHDMI kaynağındaki içerikler oynatılabilir.\nSeçimden sonra HDMI cihazında hiçbir\niçerik oynatılmazsa, boş bir ekran gösterilir."/>
     <LangID ID="Menu_Help_Input" Text="Bir Wi-Fi ağına bağlanmak için &lt;span id=\&quot;text_Highlight\&quot;&gt;WI-Fi&lt;/span&gt; 'u seçin.\nBu sayede, harici sağlayıcılar üzerindeki\niçeriği oynatabilir veya içerik paylaşmak için\ncihazınızla bağlantı kurabilirsiniz."/>
+    <LangID ID="Menu_Help_Install" Text="Ekranı monte etmek için, montaj kolundaki bileziği\nçekin ve koltuk tutucu yerine oturana kadar ekranı \nkoltuğa doğru itin."/>
     <LangID ID="Menu_Help_Intro_SOP1" Text="Audi Eğlence Sistemi, Wi-Fi üzerinden\nbağlı mobil cihazdan ya da HDMI veya\nUSB üzerinden bağlı uyumlu bir cihazdan\niçerik görüntülemenizi sağlar."/>
     <LangID ID="Menu_Help_Intro_SOP2" Text="Audi Eğlence Sistemi, Wi-Fi ile bağlı mobil\ncihazınızdan ya da HDMI veya USB üzerinden\nbağlı uyumlu bir cihazdan içerik görüntülemenizi\nve dinlemenizi sağlar."/>
     <LangID ID="Menu_Help_OTA" Text="En yeni özellikleri ve hata düzeltmelerini\nkeşfetmek için, ayarlar menüsünden\nen son yazılımı indirin."/>
     <LangID ID="Menu_Help_Output_SOP1" Text="Bluetooth kulaklıkları bağlamak için &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;'u\nseçin. Ses, kablolu kulaklıklarla da dinlenebilir."/>
     <LangID ID="Menu_Help_Output_SOP2" Text="Bluetooth kulaklıkları bağlamak için &lt;span id=\&quot;text_Highlight\&quot;&gt;BLUETOOTH&lt;/span&gt;'u\nseçin veya araç hoparlörlerinden ses çıkışı için\nses paylaşımı düğmesine basın.\nSes, kablolu kulaklıklarla da dinlenebilir."/>
     <LangID ID="Menu_Help_Removal" Text="To remove the screen from the seat,\npull the collar on the mounting arm towards\nthe rear of the vehicle then pull the screen\nuntil it is clear of the seat."/>
+    <LangID ID="Menu_Help_Secure" Text="Ekranın doğru yerleştirildiğinden emin olmak için,\nyavaşça çekerek ekran tutucunun sağlam olup\nolmadığını kontrol edin."/>
     <LangID ID="Menu_Help_Source" Text="İstediğiniz içeriği seçmek için &lt;span id=\&quot;text_Highlight\&quot;&gt;SOURCE&lt;/span&gt;'u seçin.\nAçılan listeden servisi seçerek harici\nsağlayıcılar üzerindeki içeriği görüntüleyebilirsiniz.\nAyrıca bu menüden tarayıcı sıfırlanabilir."/>
     <LangID ID="Menu_Help_USB" Text="Medya dosyaları, Fond Media\nControl Uygulaması yardımıyla\nUSB üzerinden bağlanan uyumlu\nbir cihaz üzerinden oynatılabilir."/>
     <LangID ID="Menu_Install_Update" Text="Güncellemeyi yükle"/>
     <LangID ID="Menu_Legal_About_Us" Text="Hakkımızda"/>
     <LangID ID="Menu_Legal_Open_Source" Text="Açık Kaynak Bildirimi Ayrıntıları"/>
     <LangID ID="Menu_Legal_Privacy_Policy" Text="Gizlilik politikası"/>
+    <LangID ID="Menu_Legal_Type_Approvals" Text="Type approval logos"/>
     <LangID ID="Menu_Settings_Acoustic_Feedback" Text="Sesli geri bildirim"/>
     <LangID ID="Menu_Settings_Audio_Sync" Text="Ses senkron"/>
     <LangID ID="Menu_Settings_Brightness_Persistence" Text="Parlaklık ayarlarını kaydet"/>
@@ -230,6 +235,7 @@
     <LangID ID="Pairing_Failed_Wrong_PIN_Headline" Text="Bluetooth®"/>
     <LangID ID="Pairing_Failed_Wrong_PIN_Main_Text" Text="Bağlantı başarısız.\nLütfen PIN kodunuzu kontrol edin."/>
     <LangID ID="Password_Speller_Help_Text" Text="Parolayı girin"/>
+    <LangID ID="Porsche_Keyboard_Space" Text="Boşluk"/>
     <LangID ID="Porsche_Menu_Audio_Sync_Reset" Text="Sıfırla"/>
     <LangID ID="Quick_Menu_Full_Screen" Text="Tam ekran"/>
     <LangID ID="Quick_Menu_Help" Text="Kullanıcı kılavuzu"/>
@@ -245,6 +251,7 @@
     <LangID ID="Run_Time_Main_Text" Text="Yazılım süresi:"/>
     <LangID ID="Screen_Off_Notification" Text="Açmak için lütfen ekrana dokunun"/>
     <LangID ID="Screen_Timeout_Headline" Text="Ekran Zaman Aşımı"/>
+    <LangID ID="Serial_Number_Main_Text" Text="Seri numarası:"/>
     <LangID ID="Settings_Headline" Text="Ayarlar"/>
     <LangID ID="Shutting_Down_Notification" Text="Sistem kapatılıyor..."/>
     <LangID ID="Software_Reset_Headline" Text="Fabrika ayarlarını yeniden oluştur"/>
@@ -259,6 +266,7 @@
     <LangID ID="Source_Headline" Text="Kaynak"/>
     <LangID ID="Source_Netflix_Menu_Text" Text="Netflix"/>
     <LangID ID="Source_Screensaver_Menu_Text" Text="Ekran koruyucu"/>
+    <LangID ID="System_Initialising_Text" Text="Başlatılıyor, lütfen bekleyiniz..."/>
     <LangID ID="Timeout_Option_1" Text="Asla"/>
     <LangID ID="Timeout_Option_2" Text="30 saniye"/>
     <LangID ID="Timeout_Option_3" Text="1 dakika"/>
